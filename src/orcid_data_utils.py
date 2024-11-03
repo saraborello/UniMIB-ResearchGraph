@@ -31,7 +31,8 @@ def get_orcid_profile(orcid_id):
         print(f"Errore durante il recupero del profilo: {response.status_code}")
         return None
 
-def extract_profile_info(profile_data):
+
+def extract_profile_info(profile_data, orcid_id):
     given_names = profile_data.get('person', {}).get('name', {}).get('given-names', {}).get('value', 'N/A')
     family_name = profile_data.get('person', {}).get('name', {}).get('family-name', {}).get('value', 'N/A')
 
@@ -66,5 +67,28 @@ def extract_profile_info(profile_data):
         'Start Date': start_date,
         'Organization': organization_name,
         'Number of Works': num_works,
-        'orcid_id':orcid_id
+        'ORCID ID': orcid_id
     }
+
+def collect_professor_data(professors_df):
+    professors_info = []
+
+    # Estrai tutte le informazioni per ciascun professore
+    for index, row in professors_df.iterrows():
+        given_name = row['Given Name']
+        family_name = row['Family Name']
+        search_results = search_orcid_by_name(given_name, family_name)
+
+        if search_results and 'expanded-result' in search_results:
+            for result in search_results['expanded-result']:
+                orcid_id = result.get('orcid-id')
+                profile_data = get_orcid_profile(orcid_id)
+                if profile_data:
+                    prof_info = extract_profile_info(profile_data, orcid_id)
+                    professors_info.append(prof_info)
+        else:
+            print(f"No results for {given_name} {family_name}")
+
+    return professors_info
+
+
