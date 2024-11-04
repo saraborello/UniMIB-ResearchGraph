@@ -15,14 +15,13 @@ staff_data = {}
 
 
 for person in soup.find_all('div', class_='views-row'):
-    
+
     name_tag = person.find('div', class_='nomepersona').find('a') if person.find('div', class_='nomepersona') else None
     full_name = name_tag.get_text(strip=True) if name_tag else None
 
     if not full_name:
         continue
 
-    
     ssd_div = person.find("div", class_="views-field views-field-field-ssd")
     if ssd_div:
         ssd_tag = ssd_div.find("span", class_="field-content")
@@ -30,7 +29,6 @@ for person in soup.find_all('div', class_='views-row'):
     else:
         ssd = "SSD not available"
 
-    
     role_div = person.find_previous("div", class_="paragraphs-item-testo titolo-evidenziato")
     if role_div:
         role_tag = role_div.find("h3", class_="js-views-accordion-group-header titolo_paragrafo")
@@ -38,7 +36,7 @@ for person in soup.find_all('div', class_='views-row'):
     else:
         role = "Role not available"
 
-    # Special case 
+    # Special case
     if full_name == "ANTONIOTTI MARCO":
         staff_data[full_name] = {'ssd': ssd, 'role': "Full Professor"}
     elif full_name not in staff_data or (staff_data[full_name]['ssd'] == "SSD not available" and ssd != "SSD not available"):

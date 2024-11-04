@@ -1,9 +1,10 @@
-
 import requests
+import pandas as pd
+
 def extract_department_and_name(ssd):
     if pd.isna(ssd):
         return pd.Series([None, None])
-    
+
     # Controlla se il codice dipartimento termina con "/A)"
     if ssd.endswith(')'):
         # Trova l'ultima occorrenza del codice dipartimento
@@ -13,7 +14,6 @@ def extract_department_and_name(ssd):
         return pd.Series([department_code, specific_name])
     else:
         return pd.Series([None, ssd.strip()])
-
 
 def search_orcid_by_name(given_name, family_name):
     base_url = "https://pub.orcid.org/v3.0/expanded-search"
@@ -106,7 +106,7 @@ def extract_profile_info1(profile_data, orcid_id):
         if summaries:
             latest_employment = summaries[0].get('employment-summary', {})
             role_title = latest_employment.get('role-title', 'N/A')
-            
+
             # Safer handling of start-date and year
             start_date_data = latest_employment.get('start-date')
             if start_date_data and isinstance(start_date_data, dict):
@@ -169,9 +169,9 @@ def collect_professor_data(professors_df):
         given_name = row['Given Name']
         family_name = row['Family Name']
         print(f"Processing professor: {given_name} {family_name}")
-        
+
         search_results = search_orcid_by_name(given_name, family_name)
-        
+
         # Check if search_results is valid before iterating
         if search_results and isinstance(search_results, dict) and 'expanded-result' in search_results:
             try:
@@ -215,16 +215,16 @@ def collect_professor_data13(professors_df):
     for index, row in professors_df.iterrows():
         loop_counter += 1
         print(f"Loop count: {loop_counter}")
-        
+
         if loop_counter > len(professors_df):  # Imposta un limite per evitare un ciclo infinito durante il debug
             print("Exceeded loop limit, breaking to prevent infinite loop.")
             break
         given_name = row['Given Name']
         family_name = row['Family Name']
         print(f"Processing professor: {given_name} {family_name}")
-        
+
         search_results = search_orcid_by_name(given_name, family_name)
-        
+
         # Check if search_results is valid before iterating
         if search_results and isinstance(search_results, dict) and 'expanded-result' in search_results:
             try:
@@ -270,16 +270,16 @@ def collect_professor_data1(professors_df):
     for index, row in professors_df.iterrows():
         loop_counter += 1
         print(f"Loop count: {loop_counter}")
-        
+
         if loop_counter > len(professors_df):  # Imposta un limite per evitare un ciclo infinito durante il debug
             print("Exceeded loop limit, breaking to prevent infinite loop.")
             break
         given_name = row['Given Name']
         family_name = row['Family Name']
         print(f"Processing professor: {given_name} {family_name}")
-        
+
         search_results = search_orcid_by_name(given_name, family_name)
-        
+
         # Check if search_results is valid before iterating
         if search_results and isinstance(search_results, dict) and 'expanded-result' in search_results:
             try:
