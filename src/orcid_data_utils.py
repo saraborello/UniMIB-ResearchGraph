@@ -47,7 +47,7 @@ def get_orcid_profile(orcid_id):
         return None
 
 
-def extract_profile_info(profile_data, orcid_id):
+'''def extract_profile_info(profile_data, orcid_id):
     given_names = profile_data.get('person', {}).get('name', {}).get('given-names', {}).get('value', 'N/A')
     family_name = profile_data.get('person', {}).get('name', {}).get('family-name', {}).get('value', 'N/A')
 
@@ -83,7 +83,7 @@ def extract_profile_info(profile_data, orcid_id):
         'Organization': organization_name,
         'Number of Works': num_works,
         'ORCID ID': orcid_id
-    }
+    }'''
 
 
 def extract_profile_info1(profile_data, orcid_id):
@@ -215,16 +215,16 @@ def collect_professor_data13(professors_df):
     for index, row in professors_df.iterrows():
         loop_counter += 1
         print(f"Loop count: {loop_counter}")
-
+        
         if loop_counter > len(professors_df):  # Imposta un limite per evitare un ciclo infinito durante il debug
             print("Exceeded loop limit, breaking to prevent infinite loop.")
             break
         given_name = row['Given Name']
         family_name = row['Family Name']
         print(f"Processing professor: {given_name} {family_name}")
-
+        
         search_results = search_orcid_by_name(given_name, family_name)
-
+        
         # Check if search_results is valid before iterating
         if search_results and isinstance(search_results, dict) and 'expanded-result' in search_results:
             try:
@@ -263,10 +263,18 @@ def collect_professor_data13(professors_df):
 
 def collect_professor_data1(professors_df):
     loop_counter = 0
-    professors_info = []
-    not_found_professors = []
 
-    # Extract information for each professor
+    # Aggiungi nuove colonne per contenere le informazioni estratte e lo stato di approvazione
+    professors_df['ORCID ID'] = None
+    professors_df['Organization'] = None
+    professors_df['Status'] = None
+    professors_df['Role Title'] = None
+    professors_df['Start Date'] = None
+    professors_df['Keywords'] = None
+    professors_df['ResearcherID'] = None
+    professors_df['Number of Works'] = None
+
+    # Estrai informazioni per ogni professore
     for index, row in professors_df.iterrows():
         loop_counter += 1
         print(f"Loop count: {loop_counter}")
@@ -279,7 +287,7 @@ def collect_professor_data1(professors_df):
         print(f"Processing professor: {given_name} {family_name}")
 
         search_results = search_orcid_by_name(given_name, family_name)
-
+        
         # Check if search_results is valid before iterating
         if search_results and isinstance(search_results, dict) and 'expanded-result' in search_results:
             try:
@@ -292,14 +300,21 @@ def collect_professor_data1(professors_df):
                     if profile_data:
                         prof_info = extract_profile_info1(profile_data, orcid_id)
 
-                        # Check if organization contains "Bicocca", "Milan" or "Milano" (case insensitive)
+                        # Controlla se l'organizzazione contiene "Bicocca", "Milan" o "Milano" (case insensitive)
                         organization_name = prof_info.get('Organization', '').lower()
                         if 'bicocca' in organization_name or 'milan' in organization_name or 'milano' in organization_name:
-                            # Add professor info and set flag to True
-                            professors_info.append(prof_info)
+                            # Aggiungi informazioni al DataFrame e imposta lo stato su APPROVED
+                            professors_df.at[index, 'ORCID ID'] = orcid_id
+                            professors_df.at[index, 'Organization'] = prof_info.get('Organization')
+                            professors_df.at[index, 'Role Title'] = prof_info.get('Role Title')
+                            professors_df.at[index, 'Start Date'] = prof_info.get('Start Date')
+                            professors_df.at[index, 'Keywords'] = prof_info.get('Keywords')
+                            professors_df.at[index, 'ResearcherID'] = prof_info.get('ResearcherID')
+                            professors_df.at[index, 'Number of Works'] = prof_info.get('Number of Works')
+                            professors_df.at[index, 'Status'] = 'APPROVED'
                             found_valid_org = True
-                            print(f"Added professor: {given_name} {family_name} with organization {prof_info['Organization']}")
-                            break  # Move to next professor once a valid organization is found
+                            print(f"Approved professor: {given_name} {family_name} with organization {prof_info['Organization']}")
+                            break  # Passa al prossimo professore una volta trovata un'organizzazione valida
 
                         # Se non c'è una corrispondenza, memorizza il primo risultato 'N/A'
                         if first_na_prof_info is None:
@@ -307,22 +322,29 @@ def collect_professor_data1(professors_df):
 
                 # Se non è stata trovata un'organizzazione valida, aggiungi il primo risultato 'N/A'
                 if not found_valid_org and first_na_prof_info:
-                    professors_info.append(first_na_prof_info)
+                    professors_df.at[index, 'ORCID ID'] = first_na_prof_info.get('ORCID ID')
+                    professors_df.at[index, 'Organization'] = first_na_prof_info.get('Organization')
+                    professors_df.at[index, 'Role Title'] = first_na_prof_info.get('Role Title')
+                    professors_df.at[index, 'Start Date'] = first_na_prof_info.get('Start Date')
+                    professors_df.at[index, 'Keywords'] = first_na_prof_info.get('Keywords')
+                    professors_df.at[index, 'ResearcherID'] = first_na_prof_info.get('ResearcherID')
+                    professors_df.at[index, 'Number of Works'] = first_na_prof_info.get('Number of Works')
+                    professors_df.at[index, 'Status'] = 'TO CHECK'
                     print(f"Added professor: {given_name} {family_name} with organization {first_na_prof_info['Organization']} (no valid match found)")
 
-                # If no result with a valid organization was found, add to not found list
+                # Se nessun risultato è stato trovato, lascia tutto vuoto
                 if not found_valid_org and not first_na_prof_info:
-                    not_found_professors.append(f"{given_name} {family_name}")
+                    professors_df.at[index, 'Status'] = 'TO CHECK'
                     print(f"No organization with 'Bicocca', 'Milan', or 'Milano' found for {given_name} {family_name}")
 
             except TypeError as e:
                 print(f"Errore durante l'iterazione dei risultati per {given_name} {family_name}: {e}")
-                not_found_professors.append(f"{given_name} {family_name}")
+                professors_df.at[index, 'Status'] = 'TO CHECK'
         else:
             print(f"No results or invalid response for {given_name} {family_name}")
-            not_found_professors.append(f"{given_name} {family_name}")
+            professors_df.at[index, 'Status'] = 'TO CHECK'
 
-    # Debugging to ensure function ends correctly
+    # Debugging per assicurarsi che la funzione termini correttamente
     print("Finished processing all professors.")
 
-    return professors_info, not_found_professors
+    return professors_df
