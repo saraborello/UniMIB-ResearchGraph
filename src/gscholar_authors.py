@@ -1,5 +1,6 @@
 import pandas as pd
 from scholarly import scholarly
+import csv
 
 def find_professor_by_organization_gs(name_query, organization_keywords):
     search_query = scholarly.search_author(name_query)
@@ -65,7 +66,9 @@ def update_dataset(dataset_path, organization_keywords):
     return df
 
 if __name__ == "__main__":
-    dataset_path = "../../data/processed/professors_orcid_info2.csv" # Path to the dataset
+    dataset_path = "../data/processed/Authors.csv" # Path to the dataset
     organization_keywords = ["bicocca", "Milano", "milan", "Bicocca", "unimib","milano",'UniMib']
 
     df = update_dataset(dataset_path, organization_keywords)
+    df.to_csv('../data/processed/Authors.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
+
