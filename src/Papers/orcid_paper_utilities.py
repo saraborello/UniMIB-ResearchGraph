@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 import requests
 
-from orcid_data_utils import get_orcid_profile
+from src.Authors.orcid_data_utilities import get_orcid_profile
 
 
 
