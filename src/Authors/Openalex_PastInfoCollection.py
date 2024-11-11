@@ -83,7 +83,7 @@ class AuthorInstitutionExtractor:
         return self.df
 
 
-df = pd.read_csv('../../data/processed/Authors.csv')
+'''df = pd.read_csv('../../data/processed/Authors.csv')
 extractor = AuthorInstitutionExtractor(df)
 
 # Set start and end indices as variables (debugging)
@@ -91,5 +91,5 @@ start_index = 0
 end_index = len(df)
 
 updated_df = extractor.add_past_institutions_column(start_index=start_index, end_index=end_index)
-updated_df.to_csv('../../data/processed/Authors_inst.csv')
+updated_df.to_csv('../../data/processed/Authors_inst.csv')'''
 

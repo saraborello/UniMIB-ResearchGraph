@@ -1,0 +1,697 @@
+Unnamed: 0,ORCID ID,ORCID_ID,Organization,Status,Role_Title,Start_Date,Keywords,Number_of_Works,Given Name,Family Name
+500,0000-0001-9578-5338,0000-0001-9578-5338,Università Vita Salute San Raffaele,APPROVED,ASSOCIATE PROFESSOR OF CLINICAL BIOCHEMISTRY AND CLINICAL MOLECULAR BIOLOGY,2014.0,,468.0,Giuseppe,Banfi
+501,0000-0003-3089-6517,0000-0003-3089-6517,University of Twente,APPROVED,Assistant professor,2022.0,"cryptography, cellular automata",41.0,Luca,Mariot
+502,0000-0002-8160-0766,0000-0002-8160-0766,,APPROVED,,,,31.0,Anshika,Sharma
+503,0000-0003-0878-5263,0000-0003-0878-5263,Université Grenoble Alpes,APPROVED,Jeune Chercheur,2023.0,,8.0,Gabriela Nicole,González Sáez
+504,0000-0002-8035-0013,0000-0002-8035-0013,Università degli Studi di Padova,APPROVED,,,,0.0,Luigi,De Giovanni
+505,0000-0003-3541-3641,0000-0003-3541-3641,University of Luxembourg,APPROVED,Associate Professor / Chief Scientist 2,2020.0,"Software enginering, Software testing, Software validation and verification, Dynamic program analysis, Model inference, Automated debugging",65.0,FABRIZIO,PASTORE
+506,0000-0002-6826-3419,0000-0002-6826-3419,,APPROVED,,,,21.0,Linda Greta,Dui
+507,0000-0002-5867-4046,0000-0002-5867-4046,Ecole Polytechnique,APPROVED,Assistant Professor,2011.0,"Computational Geometry, Computer Graphics, Geometry Processing",46.0,Maks,Ovsjanikov
+508,0000-0002-5297-9893,0000-0002-5297-9893,,APPROVED,,,,7.0,Lidia,Alecci
+509,0000-0002-5654-001X,0000-0002-5654-001X,Barcelona Supercomputing Center,APPROVED,Research Engineer,2019.0,"health, natural language processing, bioNLP, AI",2.0,Antonio,Miranda-Escalada
+510,0000-0001-7780-0434,0000-0001-7780-0434,Università degli Studi di Bergamo,APPROVED,Assistant Professor,2011.0,,1.0,Paolo,Cazzaniga
+511,0000-0003-2203-3797,0000-0003-2203-3797,INAF,APPROVED,Tecnologo,2020.0,,72.0,Fabio Roberto,Vitello
+512,0000-0003-1694-931X,0000-0003-1694-931X,SYSBIO.IT - Centre of Systems Biology,APPROVED,Director,2012.0,Systems Biology,259.0,Lilia,Alberghina
+513,0000-0002-3773-9744,0000-0002-3773-9744,Azienda Ospedaliero Universitaria Pisana,APPROVED,,2019.0,,19.0,Domenico,Giannese
+514,0000-0001-6312-7728,0000-0001-6312-7728,,APPROVED,,,,96.0,Luca,Manzoni
+515,0000-0002-2979-2107,0000-0002-2979-2107,Università degli Studi di Milano-Bicocca,APPROVED,Assistant Professor,2022.0,"Biostatistics, Epidemiology, Digital Health, Comorbidity, eHealth, Addiction, Mental health",112.0,Cristina,Crocamo
+516,0000-0001-8001-9470,0000-0001-8001-9470,Auburn University,APPROVED,Associate Professor,2023.0,,57.0,Tin,Nguyen
+517,0000-0002-3706-0993,0000-0002-3706-0993,Università degli Studi di Firenze,APPROVED,Professore Associato ,2006.0,,14.0,Isabella,GAGLIARDI
+518,0000-0001-8092-1499,0000-0001-8092-1499,,APPROVED,,,,26.0,SARA,ARLATI
+519,0000-0001-7144-0984,0000-0001-7144-0984,,APPROVED,,,,0.0,Massimo,Del Fabbro
+520,0000-0001-5718-630X,0000-0001-5718-630X,,APPROVED,,,,0.0,Anna,Ferrari
+521,0000-0001-9525-1977,0000-0001-9525-1977,,APPROVED,,,,0.0,Haixin,Bi
+522,0000-0002-9875-6070,0000-0002-9875-6070,,APPROVED,,,,0.0,Peter,Kellman
+523,0000-0001-6472-3484,0000-0001-6472-3484,Università della Svizzera italiana,APPROVED,Full professor in Otorhinolaryngology,2023.0,"nose, paransal sinus, larynx, GPA, Vasculitis, cocaine, dacryocystorhinostomy, Tumor skull base",152.0,Matteo,Trimarchi
+524,0000-0002-7834-3826,0000-0002-7834-3826,Università degli Studi di Milano-Bicocca,APPROVED,Assistant Professor,2022.0,,42.0,Luca,Pancani
+525,0000-0001-6879-2946,0000-0001-6879-2946,Università degli Studi di Enna Kore,APPROVED,Assistant Professor,,,20.0,Roberta,Bonomo
+526,0000-0002-1637-7545,0000-0002-1637-7545,University of Parma,APPROVED,Temporary Assistant Professor with tenure track,2021.0,,60.0,vincenzo,bonnici
+527,0000-0002-6366-8433,0000-0002-6366-8433,,APPROVED,,,,31.0,Daniele,Romano
+528,0000-0002-5562-9514,0000-0002-5562-9514,ANSYS Inc,APPROVED,R&D Manager ,2020.0,"Adaptive Systems, Software Testing, Software Engineering, Self-organizing Systems, Quality Assurance, Complex Systems, Artificial Intelligence",27.0,Benedikt,Eberhardinger
+529,0000-0003-3012-3557,0000-0003-3012-3557,Human Technopole,APPROVED,Researcher,2022.0,"Docking, Molecular dynamics, Metadynamics, Enhanced Molecular Dynamics,free energy calculations, LS1_9 - Molecular mechanisms of signalling processes, LS1_1 - Macromolecular complexes including interactions involving nucleic acids, proteins, lipids and carbohydrates, PE4_11 - Physical chemistry of biological systems, PE3_16 - Physics of biological systems, LS2_11 - Bioinformatics and computational biology, LS1_14 - Innovative methods and modelling in molecular, structural and synthetic biology, LS1_8 - Structural biology",65.0,Andrea,Spitaleri
+530,0000-0001-7961-0212,0000-0001-7961-0212,Fondazione Bruno Kessler,APPROVED,Researcher,2002.0,,46.0,Michela,Lecca
+531,0000-0001-9365-8167,0000-0001-9365-8167,Università degli Studi di Pavia,APPROVED,Associate Professor,2015.0,"Computer Vision, Pattern Recognition, Machine Learning, Biometrics",69.0,Claudio,Cusano
+532,0000-0002-7212-8076,0000-0002-7212-8076,,APPROVED,,,,114.0,Alessandro,Antonietti
+533,0000-0002-5099-0351,0000-0002-5099-0351,National and Kapodistrian University of Athens,APPROVED,Laboratory Education Staff,,,33.0,Varvara,Antoniou
+534,0009-0000-7250-3158,0009-0000-7250-3158,,APPROVED,,,,1.0,Sofia,Amarù
+535,0000-0002-0595-7165,0000-0002-0595-7165,Università Vita-Salute San Raffaele Facoltà di Medicina e Chirurgia,APPROVED,Dean of the Studies,2020.0,,1128.0,Andrea,Salonia
+536,0000-0001-6938-985X,0000-0001-6938-985X,,APPROVED,,,,21.0,Eliana Alessandra,Minelli
+537,0000-0001-7191-5417,0000-0001-7191-5417,Università degli Studi di Milano-Bicocca,APPROVED,Professore Ordinario,,,153.0,Isabella,Castiglioni
+538,0000-0001-7132-7703,0000-0001-7132-7703,Interuniversity Research Centre for Public Services,APPROVED,Research Fellow,2023.0,"data science, machine learning, explainable ai",10.0,Andrea,Seveso
+539,0000-0002-4791-0373,0000-0002-4791-0373,IRCCS Humanitas Research Hospital,APPROVED,Physicist,2012.0,,206.0,Stefano,Tomatis
+540,0000-0002-5901-4269,0000-0002-5901-4269,Istituto di Bioimmagini e Sistemi Biologici Complessi,APPROVED,,2024.0,microRNA; biomarkers; NCD; cancer; cellular and molecular biology; epigenetics;,82.0,Gloria,Bertoli
+541,0000-0003-2066-7470,0000-0003-2066-7470,Instituto Politécnico Nacional,APPROVED,Assistant Professor,2020.0,,60.0,David,Cruz-Ortiz
+542,0000-0002-6148-1894,0000-0002-6148-1894,Azienda Socio Sanitaria Territoriale di Monza,APPROVED,Neurosurgeon,2018.0,,47.0,Andrea,Di Cristofori
+543,0000-0003-4901-2910,0000-0003-4901-2910,,APPROVED,,,,1.0,Mirko,Rima
+544,0000-0001-7840-6228,0000-0001-7840-6228,,APPROVED,,,,35.0,MARCO,CREMASCHI
+545,0000-0001-7630-7517,0000-0001-7630-7517,University College London,APPROVED,,,,78.0,Rhodri,Davies
+546,0000-0002-0165-7931,0000-0002-0165-7931,Humanitas University,APPROVED,Adjunt Professor,2023.0,"Medical Physics, Physics in Radiation Oncology",232.0,Pietro,Mancosu
+547,0000-0002-1956-5496,0000-0002-1956-5496,Cell Press,APPROVED,Scientific Editor,2021.0,,8.0,Catherine,Landis
+548,0000-0002-6052-3140,0000-0002-6052-3140,Universita degli Studi di Milano-Bicocca,APPROVED,Researcher,2012.0,,107.0,Micol,Rossini
+549,0000-0003-4680-0989,0000-0003-4680-0989,Studio dentistico Serafin,APPROVED,,2015.0,"Orthodontics, Biomechanics, Digital Dentistry, Endodontics",19.0,Marco,Serafin
+550,0000-0002-0703-9851,0000-0002-0703-9851,,APPROVED,,,,7.0,Magauiya,Zhussip
+551,0000-0003-1381-9069,0000-0003-1381-9069,,APPROVED,,,HTA,5.0,Emanuela,Foglia
+552,0000-0002-9617-8465,0000-0002-9617-8465,,APPROVED,,,,1.0,Alessio,Albé
+553,0000-0001-9274-4047,0000-0001-9274-4047,,APPROVED,,,,54.0,GIULIANO,GROSSI
+554,0000-0002-1443-2192,0000-0002-1443-2192,AmeriSave Mortgage Corporation,APPROVED,,2016.0,,3.0,Prakash,Chourasia
+555,0000-0002-9524-8492,0000-0002-9524-8492,Istituto Giannina Gaslini,APPROVED,,2020.0,,87.0,Paolo,Uva
+556,0000-0002-4210-6271,0000-0002-4210-6271,Politecnico di Milano,APPROVED,PhD Student,2022.0,,3.0,Federico,Giannini
+557,0000-0002-6184-3971,0000-0002-6184-3971,Moldova State University,APPROVED,Principal Researcher,,,175.0,Artiom,Alhazov
+558,0000-0001-9134-4025,0000-0001-9134-4025,Jozef Stefan Institute,APPROVED,Researcher,2018.0,,6.0,M.Besher,Massri
+559,0000-0002-2435-3543,0000-0002-2435-3543,Università di Pisa,APPROVED,Tenure-Track Assistant Professor (RTDb),2022.0,,66.0,Jacopo,Soldani
+560,0000-0002-8629-3056,0000-0002-8629-3056,,APPROVED,,,,30.0,Andrea,Trentini
+561,0000-0002-9221-879X,0000-0002-9221-879X,,APPROVED,,,,116.0,Guido,Sciavicco
+562,0000-0003-1585-2962,0000-0003-1585-2962,Taif University,APPROVED,Professor,2016.0,,265.0,Roobaea,Alroobaea
+563,0000-0003-2868-7732,0000-0003-2868-7732,,APPROVED,,,,101.0,Giuseppe,Agapito
+564,0000-0001-7197-4441,0000-0001-7197-4441,,APPROVED,,,,1.0,Alberto,Raimondi
+565,0000-0001-7841-3612,0000-0001-7841-3612,,APPROVED,,,,51.0,Lara,Mangravite
+566,0000-0003-1103-7688,0000-0003-1103-7688,IRCCS Ospedale San Raffaele,APPROVED,Computational Biologist,2021.0,,26.0,Stefano,de Pretis
+567,0000-0002-4193-5609,0000-0002-4193-5609,Graz University of Technology,APPROVED,Postdoc,2021.0,,25.0,Martin,Tappler
+568,0000-0002-4629-2091,0000-0002-4629-2091,,APPROVED,,,,5.0,Bruce,Hoff
+569,0000-0002-3721-9984,0000-0002-3721-9984,,APPROVED,,,,10.0,Lucrezia,Patruno
+570,0000-0002-2888-4202,0000-0002-2888-4202,Spinque,APPROVED,Co-founder,,"information retrieval, databases",224.0,Arjen,de Vries
+571,0009-0005-8655-4446,0009-0005-8655-4446,,APPROVED,,,,1.0,Christian,Bernasconi
+572,0000-0001-7248-9472,0000-0001-7248-9472,,APPROVED,,,,1.0,Ian-Christopher,Tanoh
+573,0000-0001-9648-8669,0000-0001-9648-8669,Universidad de Alcalá,APPROVED,Titular de Universidad,2021.0,,38.0,Isaias,Martinez-Yelmo
+574,0000-0002-3345-0994,0000-0002-3345-0994,,APPROVED,,,,9.0,Martina,Caramenti
+575,0000-0002-3375-6686,0000-0002-3375-6686,Human Technopole,APPROVED,Post doc,2022.0,,8.0,Fabrizio,Angaroni
+576,0000-0002-2013-0043,0000-0002-2013-0043,Istituto Nazionale di Genetica Molecolare,APPROVED,Facility Manager/PhD,2017.0,,20.0,Chiara,Cordiglieri
+577,0000-0002-4424-7895,0000-0002-4424-7895,"Fondazione IRCCS Ospedale Maggiore Policlinico, University of Milan, Milan, Italy",APPROVED,Post-doctoral fellowship ,2013.0,,46.0,Erika,Peverelli
+578,0000-0001-7279-1890,0000-0001-7279-1890,Fraunhofer Portugal Research,APPROVED,Machine Learning Researcher,2021.0,,3.0,Nuno,Bento
+579,0000-0002-3499-0159,0000-0002-3499-0159,Università degli Studi di Milano-Bicocca,APPROVED,Research Fellow,2022.0,,22.0,Marco,Mobilio
+580,0000-0002-6511-1217,0000-0002-6511-1217,,APPROVED,,,,2.0,Giulia,Ceccarelli
+581,0000-0003-0385-053X,0000-0003-0385-053X,,APPROVED,,,,2.0,Joana,Rebelo
+582,0000-0001-9135-9155,0000-0001-9135-9155,,APPROVED,,,,2.0,Alessandro,Vaccari
+583,0000-0002-7725-4813,0000-0002-7725-4813,Finnish Institute of Molecular Medicine (FIMM),APPROVED,FIMM-EMBL Group Leader in Statistical Genetics,2024.0,Genotype imputation; Haplotype Phasing;,27.0,Simone,Rubinacci
+584,0000-0003-2879-4474,0000-0003-2879-4474,Instituto Politécnico Nacional,APPROVED,Assistant Professor,2020.0,,42.0,Mariana Felisa,Ballesteros Escamilla
+585,0000-0001-9287-9937,0000-0001-9287-9937,ASST Centro Specialistico Ortopedico Traumatologico G. Pini - CTO,APPROVED,Medical Doctor,2020.0,,30.0,Enrico,Gallazzi
+586,0000-0002-2248-8145,0000-0002-2248-8145,Politecnico di Milano,APPROVED,Postdoc Researcher,2023.0,,22.0,Maximiliano,Mollura
+587,0000-0002-0170-0653,0000-0002-0170-0653,Università degli Studi di Milano-Bicocca,APPROVED,Associate Professor in Neurosurgery,2021.0,,78.0,Giorgio,Carrabba
+588,0000-0003-2661-8573,0000-0003-2661-8573,,APPROVED,,,,37.0,GIOVANNI,LIVRAGA
+589,0000-0001-9379-277X,0000-0001-9379-277X,University of Washington,APPROVED,Professor,2009.0,,6.0,Michael,Ernst
+590,0000-0002-8086-9149,0000-0002-8086-9149,Fondazione Transform Transport ETS,APPROVED,Head of Research,2022.0,,28.0,ANDREA,GORRINI
+591,0000-0002-7261-5042,0000-0002-7261-5042,AGH University of Science and Technology,APPROVED,,2012.0,,18.0,Robert,Lubaś
+592,0000-0001-9312-1175,0000-0001-9312-1175,,APPROVED,,,,2.0,Estrella,Lucena Sánchez
+593,0000-0003-4124-4186,0000-0003-4124-4186,,APPROVED,,,,21.0,Ren,Yang
+594,0000-0002-9618-3774,0000-0002-9618-3774,,APPROVED,,,,9.0,Luca,De Sano
+595,0000-0002-7989-1162,0000-0002-7989-1162,,APPROVED,,,,2.0,MARCO,LEONARDI
+596,0000-0003-0358-7102,0000-0003-0358-7102,Dalhousie University,APPROVED,Associate Professor,,,87.0,Meng,He
+597,0000-0002-6458-942X,0000-0002-6458-942X,,APPROVED,,,,21.0,Illya,Bakurov
+598,0000-0003-2806-7269,0000-0003-2806-7269,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,Staff scientist,1999.0,,208.0,Paola,Perego
+599,0000-0002-9631-296X,0000-0002-9631-296X,,APPROVED,,,,0.0,Ghalia,Hemrit
+600,0000-0001-7830-7596,0000-0001-7830-7596,Scuola Universitaria Professionale della Svizzeria Italiana Dipartimento tecnologie innovative,APPROVED,Researcher,2021.0,,13.0,Vincenzo,Cutrona
+601,0000-0002-5540-4104,0000-0002-5540-4104,,APPROVED,,,,68.0,claudia,cava
+602,0000-0002-7570-637X,0000-0002-7570-637X,University of Turin,APPROVED,Associate Professor,2014.0,"natural language processing, data mining, lexical semantics, legal informatics, Luigi Di Caro",97.0,Luigi,Di Caro
+603,0000-0002-0798-6429,0000-0002-0798-6429,,APPROVED,,,,38.0,Noemi,Corti
+604,0009-0001-3001-8864,0009-0001-3001-8864,,APPROVED,,,,2.0,Davide,Rendina
+605,0000-0002-8337-0415,0000-0002-8337-0415,,APPROVED,,,,1.0,Marco,Piazza
+606,0000-0001-9937-6494,0000-0001-9937-6494,,APPROVED,,,"Machine Learning, Deep Learning, Credibility assessment, Speech Recognition",10.0,Rishabh,Upadhyay
+607,0000-0002-8711-4670,0000-0002-8711-4670,University of Modena and Reggio Emilia,APPROVED,Assistant Professor,2024.0,Runtime Verification; Multi-Agent Systems; Formal Verification; Software Engineering,88.0,Angelo,Ferrando
+608,0000-0002-0747-4052,0000-0002-0747-4052,Universitetet i Oslo,APPROVED,,2018.0,,0.0,Saulo,Soares de Toledo
+609,0000-0001-6269-1351,0000-0001-6269-1351,lastminute.com,APPROVED,chief research officer,2017.0,machine learning; intrinsic dimension; deep learning,3.0,Alessandro,Rozza
+610,0000-0002-0405-9814,0000-0002-0405-9814,Politecnico di Milano,APPROVED,Assistant Professor,,,0.0,Giovanni,Quattrocchi
+611,0009-0003-1335-6559,0009-0003-1335-6559,,APPROVED,,,,0.0,Joran,Leest
+612,0000-0003-2382-6721,0000-0003-2382-6721,IRCCS Istituto Auxologico Italiano,APPROVED,Coordinator of the Cardiac Magnetic Resonance Service,2021.0,,89.0,Camilla,Torlasco
+613,0000-0003-4506-2304,0000-0003-4506-2304,,APPROVED,,,,0.0,Fausto,Lodi
+614,0009-0007-8464-8435,0009-0007-8464-8435,,APPROVED,,,,0.0,Ionut Daniel,Fagadau
+615,0000-0002-0617-3469,0000-0002-0617-3469,The Wistar Institute,APPROVED,President and CEO/Cancer Center Director,2010.0,,15.0,DARIO C,ALTIERI
+616,0000-0003-0812-5927,0000-0003-0812-5927,Enrico Fermi Center for Study and Research,APPROVED,Tenured Reseacher,2022.0,,74.0,Fabio,Saracco
+617,0000-0001-7959-2579,0000-0001-7959-2579,,APPROVED,,,,10.0,Torsten,Hädrich
+618,0000-0001-5520-3356,0000-0001-5520-3356,Sapienza University of Rome,APPROVED,Researcher RTDA,2023.0,,20.0,federica,romagnoli
+619,0009-0004-6579-4689,0009-0004-6579-4689,University of Milano-Bicocca,APPROVED,,,,2.0,Emanuele,Petriglia
+620,0000-0002-3299-448X,0000-0002-3299-448X,,APPROVED,,,,38.0,Jianyi,Lin
+621,0000-0002-6711-3080,0000-0002-6711-3080,,APPROVED,,,,0.0,Alessandra,Gorla
+622,0000-0002-5640-6507,0000-0002-5640-6507,,APPROVED,,,,123.0,Domenico,Siracusa
+623,0000-0003-1319-3924,0000-0003-1319-3924,,APPROVED,,,,1.0,Marco,Peracchi
+624,0000-0003-1635-0489,0000-0003-1635-0489,Politecnico di Milano,APPROVED,PhD Candidate,2022.0,,3.0,Ricardo,Coimbra Brioso
+625,0000-0003-0320-559X,0000-0003-0320-559X,Humanitas University,APPROVED,Full Professor in Diagnostic Imaging and Radiotherapy ,2020.0,,417.0,Marta,Scorsetti
+626,0000-0002-4269-3023,0000-0002-4269-3023,University of Milano-Bicocca,APPROVED,PhD Student,2019.0,,7.0,Ilaria,Crespiatico
+627,0000-0003-3171-6696,0000-0003-3171-6696,University of Toronto,APPROVED,Postdoc researcher,2017.0,,0.0,Cristina,Rovelli
+628,0000-0002-2089-2152,0000-0002-2089-2152,,APPROVED,,,,3.0,Ulises,Villela
+629,0000-0002-7832-5281,0000-0002-7832-5281,,APPROVED,,,,100.0,alain,gelibter
+630,0000-0002-3413-3325,,,TO CHECK,,,,,,
+631,0000-0002-1314-229X,0000-0002-1314-229X,University of Florence,APPROVED,Research Fellow,,"sensory design, inclusive design, design for autism, design for health, healthcare design, design for disability, accessibility, inclusion, hospital design",26.0,Elena,Bellini
+632,0000-0002-0163-9784,0000-0002-0163-9784,Gran Sasso Science Institute,APPROVED,Assistant Professor (Tenure Track),2023.0,,45.0,AMLETO,DI SALLE
+633,0000-0002-8522-9933,0000-0002-8522-9933,University of Alcalá,APPROVED,Profesor Ayudante Doctor,,,26.0,Joaquin,Alvarez-Horcajo
+634,0000-0002-2526-7700,0000-0002-2526-7700,,APPROVED,,,,0.0,Stefan,Ohrhallinger
+635,0000-0003-4955-3346,0000-0003-4955-3346,Oslo University Hospital,APPROVED,Postdoctoral Research Fellow,2024.0,,22.0,Andrea,Terrasi
+636,0000-0002-8882-2169,0000-0002-8882-2169,Università degli Studi di Padova,APPROVED,Professor,2017.0,,169.0,Simone,Montangero
+637,0000-0002-9618-2819,0000-0002-9618-2819,,APPROVED,,,,0.0,Gustavo,Stolovitzky
+638,0000-0003-2920-5838,0000-0003-2920-5838,Cleveland Clinic,APPROVED,Postdoctoral Researcher,2022.0,"Bioinformatics, Computational Biology, Metagenomics, Computer Science, Machine Learning, Microbiome, Vector-Symbolic Architectures",34.0,Fabio,Cumbo
+639,0000-0002-5545-9463,0000-0002-5545-9463,,APPROVED,,,,27.0,Juan Antonio,Carral
+640,0000-0002-5599-6349,0000-0002-5599-6349,Politecnico di TORINO,APPROVED,Personale esterno ed autonomi,2020.0,"PE1_22 - Application of mathematics in industry and society, SH1_6 - Econometrics; operations research, RICERCA OPERATIVA, PROGRAMMAZIONE MATEMATICA, management science and operations research, Goal 9: Industry, Innovation, and Infrastructure",74.0,EDOARDO,FADDA
+641,0000-0001-7818-7598,0000-0001-7818-7598,Università Cattolica del Sacro Cuore,APPROVED,Full Professor,2019.0,"Cyberpsychology, Virtual Reality, Rehabilitation, Positive Technology, Human Computer Interaction",432.0,Andrea,Gaggioli
+642,0000-0002-2795-9874,0000-0002-2795-9874,,APPROVED,,,,660.0,Gianvincenzo,Zuccotti
+643,0000-0002-5671-928X,0000-0002-5671-928X,The Wistar Institute,APPROVED,Research Assistant Professor,2020.0,"melanoma, stem cells, cancer stem cells, myeloid derived suppressor cells, tumor dormancy,sEvs, prostate cancer, breast cancer, hypoxia neutrophils",35.0,michela,perego
+644,0000-0002-6385-2628,0000-0002-6385-2628,,APPROVED,,,,40.0,Elisa,Rojas
+645,0000-0002-5366-8499,0000-0002-5366-8499,,APPROVED,,,"Deep Learning, Reinforcement Learning, Inventory Management, Artificial Intelligence",3.0,Francesco,Stranieri
+646,0000-0003-3529-0856,0000-0003-3529-0856,,APPROVED,,,,56.0,Alexander,Schönhuth
+647,0000-0001-7262-8719,0000-0001-7262-8719,Ludwig-Maximilians-Universität München,APPROVED,Research fellow ,2023.0,,25.0,Kyriaki,Drymoni
+648,0000-0002-8264-7320,0000-0002-8264-7320,University of Milan,APPROVED,Associate Professor of Dentistry,2020.0,"Orthodontics, Growth, Dental Traumatology, Breath disorders",98.0,Alberto,Caprioglio
+649,0000-0003-4909-9892,0000-0003-4909-9892,,APPROVED,,,,27.0,Nicola,Bena
+650,0000-0002-9499-0126,0000-0002-9499-0126,,APPROVED,,,,5.0,RICCARDO,COLOMBO
+651,0000-0002-7149-5843,0000-0002-7149-5843,Technische Universität Wien,APPROVED,Professor,2011.0,,0.0,Allan,Hanbury
+652,0000-0002-5002-6845,0000-0002-5002-6845,Università degli Studi di Milano,APPROVED,Professore Associato,2020.0,,44.0,Luisa,Ottobrini
+653,0000-0003-1544-028X,0000-0003-1544-028X,Laboratoire d’Informatique et Systèmes,APPROVED,Maître de conférences,2018.0,,0.0,Antonio E.,Porreca
+654,0000-0002-3428-5353,0000-0002-3428-5353,Università degli Studi di Milano-Bicocca Dipartimento di Medicina e Chirurgia,APPROVED,Physician Scientist,2020.0,"CAR-T cell therapy, Cancer immunotherapy, Stem cell transplantation, Lymphoproliferative disease, Myeloproliferative disease",24.0,Andrea,Aroldi
+655,0000-0001-7508-9706,0000-0001-7508-9706,Politecnico di Milano,APPROVED,Associate Professor,,,134.0,Giacomo,Verticale
+656,0000-0001-7989-9861,0000-0001-7989-9861,Universita' degli Studi di MILANO,APPROVED,Ricercatori,2023.0,,201.0,Domenico,Albano
+657,0000-0003-4240-3265,0000-0003-4240-3265,Institute of Cancer Research,APPROVED,Visiting scientist,2020.0,"Data Science, Machine Learning, Computational Biology, Bioinformatics, Artificial Intelligence, Cancer Genomics, Cancer Evolution",107.0,Giulio,Caravagna
+658,0000-0001-6873-7832,0000-0001-6873-7832,,APPROVED,,,,0.0,Casper,Reijnen
+659,0000-0002-9065-3886,0000-0002-9065-3886,,APPROVED,,,,121.0,Giovanna,Mantovani
+660,0000-0002-3259-614X,0000-0002-3259-614X,,APPROVED,,,,25.0,Symeon,Symeonidis
+661,0000-0002-3006-4414,0000-0002-3006-4414,,APPROVED,,,,1.0,Michell,Guzman Cancimance
+662,0000-0002-7543-2751,0000-0002-7543-2751,Politecnico di Milano,APPROVED,Associate Professor for Human-centered Operations Systems,2022.0,"Logistics, Production, Supply Chain Management, Sustainability, AI, Digitalization, DEA",37.0,Matthias,Klumpp
+663,0000-0002-6124-2965,0000-0002-6124-2965,,APPROVED,,,,0.0,Riccardo,Dondi
+664,0000-0002-9231-1281,0000-0002-9231-1281,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,,,175.0,paolo,verderio
+665,0000-0003-0332-9533,0000-0003-0332-9533,,APPROVED,,,,3.0,Ilaria,Erba
+666,0000-0002-6786-5194,0000-0002-6786-5194,University of Natural Resources and Life Sciences,APPROVED,Full Professor for digital transformation in smart farm and forest operations,2022.0,"Human-Centered AI, Explainable AI, interactive Machine Learning, trustworthy Artificial Intelligence, Decision Support, digital transformation",431.0,Andreas,HOLZINGER
+667,0000-0002-7047-0556,0000-0002-7047-0556,Izmir Institute of Technology,APPROVED,Postdoctoral researcher / lecturer,2022.0,,14.0,Görkem,Kılınç Soylu
+668,0000-0002-4554-455X,0000-0002-4554-455X,Huazhong University of Science and Technology,APPROVED,Professor,2002.0,"Membrane computing, DNA computing, Systems Biology, Graph theory",128.0,Linqiang,Pan
+669,0000-0002-5856-4453,0000-0002-5856-4453,Bocconi University,APPROVED,Assistant Professor,2023.0,,41.0,ANDREA,TANGHERLONI
+670,0000-0001-8874-1070,0000-0001-8874-1070,,APPROVED,,,,19.0,Tommaso,Bocci
+671,0000-0002-7998-2267,0000-0002-7998-2267,Bocconi University,APPROVED,Postdoctoral Researcher,,"Natural Language Processing, Hate Speech, Bias",68.0,DEBORA,NOZZA
+672,0000-0002-5943-8037,0000-0002-5943-8037,"University of Belgrade, Faculty of Mathematics",APPROVED,full professor,2019.0,"Operational research, Computational intelligence, Big data, Metaheuristics, Evolutionary algorithms, Bioinformatics, Graph theory",40.0,Vladimir,Filipovic
+673,0000-0003-4384-3027,0000-0003-4384-3027,University of Toronto,APPROVED,Professor,,,65.0,Heather,Ross
+674,0000-0003-0740-1061,0000-0003-0740-1061,Politecnico di Milano,APPROVED,Associate Professor,2010.0,"cloud computing, networking, optical communications",440.0,Massimo,Tornatore
+675,0009-0001-0144-0759,0009-0001-0144-0759,IRCCS Ospedale San Raffaele,APPROVED,,,,1.0,Kiarash,Moghaddasi
+676,0000-0003-0617-6245,0000-0003-0617-6245,IRCCS Ospedale San Raffaele,APPROVED,Computational Biologist,2023.0,,11.0,Valentina,Giansanti
+677,0000-0002-0163-1395,0000-0002-0163-1395,Khalifa University College of Engineering,APPROVED,Graduate Research and Teaching Assistant,2020.0,,11.0,Meriem,Bettayeb
+678,0000-0002-3114-9727,0000-0002-3114-9727,Grenoble Ecole de Management,APPROVED,Affiliate Professor,2017.0,,40.0,Aurelio,RAVARINI
+679,0000-0001-5831-5441,0000-0001-5831-5441,University of Milano-Bicocca,APPROVED,Assistant professor,2016.0,,55.0,marco,marelli
+680,0000-0001-6552-2609,0000-0001-6552-2609,Gran Sasso Science Institute,APPROVED,Assistant Professor - Tenure Track,2021.0,"Software Engineering, Model Driven Development, Software Quality Evaluation, Smart Cities",98.0,Ludovico,Iovino
+681,0000-0003-3033-3044,0000-0003-3033-3044,Tampere University,APPROVED,,,"Machine Learning, Deep Learning, Neural Networks",19.0,Francesco,Lomio
+682,0000-0001-7037-5180,0000-0001-7037-5180,,APPROVED,,,,0.0,yunchen,zhang
+683,0000-0002-2705-5728,0000-0002-2705-5728,Fondazione Bruno Kessler,APPROVED,Senior Researcher,2006.0,"bioinformatics, computational biology, network theory, systems biology, algebra, Lie algebras",92.0,Giuseppe,Jurman
+684,0000-0002-0969-6484,0000-0002-0969-6484,,APPROVED,,,,26.0,Marta,Corbella
+685,0000-0002-5739-742X,0000-0002-5739-742X,,APPROVED,,,,15.0,Alessandra,Cinque
+686,0000-0001-8220-9833,0000-0001-8220-9833,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,,,179.0,Trama,Annalisa
+687,0000-0001-8457-6979,0000-0001-8457-6979,EPFL - École Polytechnique Fédérale de Lausanne,APPROVED,,2023.0,,9.0,Francesco,Craighero
+688,0000-0001-8519-4331,0000-0001-8519-4331,Centre Nacional d'Anàlisi Genòmica,APPROVED,Postdoctoral Fellow,2022.0,"computational biology, single-cell genomics, system biology",19.0,Davide,Maspero
+689,0000-0002-3623-7822,0000-0002-3623-7822,,APPROVED,,,,8.0,Salvatore,Gitto
+690,0000-0001-8706-6480,0000-0001-8706-6480,Politecnico di Milano,APPROVED,Teaching Assistant,2023.0,,20.0,Nicola,Lambri
+691,0000-0003-3371-1928,0000-0003-3371-1928,,APPROVED,,,,82.0,Francesco,Bianconi
+692,0000-0001-9225-1795,0000-0001-9225-1795,Ospedale San Raffaele,APPROVED,,,,241.0,umberto,capitanio
+693,0000-0002-9554-9367,0000-0002-9554-9367,University of Milano-Bicocca,APPROVED,Assistant Professor,2022.0,"computational neuroscience, EEG, AI, machine learning, deep learning",46.0,Giulia,Cisotto
+694,,,,,,,,,,
+695,0000-0001-7426-4795,0000-0001-7426-4795,,APPROVED,,,,244.0,CLAUDIO AGOSTINO,ARDAGNA
+0,0009-0009-8087-7067,0009-0009-8087-7067,Luxembourg Institute of Health,APPROVED,PhD student in Bioinformatics,2023.0,"Bioinformatics, scRNA-seq transcriptomics, Deconvolutional analysis, Machine learning, Network analysis",1.0,hamed,allahverdi
+1,0000-0002-1421-3686,0000-0002-1421-3686,,APPROVED,,,,124.0,Paolo,Buono
+2,0000-0002-4871-3734,0000-0002-4871-3734,,APPROVED,,,,3.0,Noura,EL MOUSSA
+3,0000-0003-0191-8107,0000-0003-0191-8107,Imperial College London,APPROVED,Research Assistant in Verification of Neurosymbolic Learning,2023.0,,6.0,Sherwin,Varghese
+4,0000-0002-4561-5530,0000-0002-4561-5530,Microsoft Research,APPROVED,Principal Scientist,2024.0,,7.0,Hui,Xue
+5,0000-0001-6519-5011,0000-0001-6519-5011,,APPROVED,,,,0.0,THOMAS,CECCONELLO
+6,0000-0001-8415-4688,0000-0001-8415-4688,,APPROVED,,,,32.0,Barbara,Di Camillo
+7,0000-0002-4247-4365,0000-0002-4247-4365,Istituto di Ricerche Farmacologiche Mario Negri Centro Aldo e Cele Daccò,APPROVED,Postdoc,2023.0,,13.0,Annamaria ,Morotti 
+8,0000-0003-2612-4119,0000-0003-2612-4119,University of Milano-Bicocca,APPROVED,,,,144.0,Francesco,Bartoli
+9,0000-0003-0919-1264,0000-0003-0919-1264,University College Hospital London,APPROVED,Doctor,2019.0,,11.0,Christopher Andrew,Lovejoy
+10,0000-0003-2718-7648,0000-0003-2718-7648,,APPROVED,,,,0.0,Markus,Plass
+11,0000-0002-8793-1451,0000-0002-8793-1451,Universidade NOVA de Lisboa,APPROVED,,,,225.0,Mauro,Castelli
+12,0000-0002-2184-5980,0000-0002-2184-5980,,APPROVED,,,,0.0,Joseph,Salvino
+13,0000-0003-4732-3328,0000-0003-4732-3328,Universidade NOVA de Lisboa,APPROVED,,,"Genetic Programming, Evolutionary Computation, Complex Systems",305.0,Leonardo,Vanneschi
+14,0000-0002-7160-3541,0000-0002-7160-3541,,APPROVED,,,,1.0,Steven,Van Rossem
+15,0000-0002-5648-0408,0000-0002-5648-0408,,APPROVED,,,,1.0,He,Zheng
+16,0000-0003-1633-6310,0000-0003-1633-6310,,APPROVED,,,,27.0,DILETTA,FONTANA
+17,0000-0002-4666-8052,0000-0002-4666-8052,The Open University,APPROVED,,,,165.0,Serena,Di Cosimo
+18,0000-0001-5977-5546,0000-0001-5977-5546,,APPROVED,,,,297.0,MARIO,SCARTOZZI
+19,0000-0001-6532-6464,0000-0001-6532-6464,Università degli Studi di Milano,APPROVED,Full professor,,,429.0,Chiarella,Sforza
+20,0000-0002-9500-7971,0000-0002-9500-7971,,APPROVED,,,,7.0,PAMELA,VIGNOLINI
+21,0000-0002-1341-2560,0000-0002-1341-2560,Politecnico di Milano,APPROVED,Adjunct Professor,2019.0,"Biomedical Engineering, Biomedical Devices, Signal Processing, e-Health, m-Health, Physiological Modeling, Mobile Applications, Hearing, Audiology, Tinnitus",164.0,Alessia,Paglialonga
+22,0000-0003-4490-5947,0000-0003-4490-5947,SDU,APPROVED,,,,74.0,Richard,Roettger
+23,0000-0002-5909-0165,0000-0002-5909-0165,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,Health Researcher,2020.0,"Neuroscience, Neurooncology, Brain tumors, Stem Cells, Angiogenesis, Translational Medicine",22.0,Laura,Guarnaccia
+24,0000-0002-6534-1979,0000-0002-6534-1979,Open University of Catalonia,APPROVED,Tutor and Collaborator,2001.0,"Neurosciences, EEG, MRI, fMRI, DTI, Signal processing, Machine learning, Biometrics, Source separation, Independent Component Analysis, SCADA data, Failure detection",183.0,Jordi,Solé-Casals
+25,0000-0002-8474-9435,0000-0002-8474-9435,"Chitkara University Institute of Engineering and Technology, Chitkara University",APPROVED,Associate Professor,2018.0,,145.0,Shalli,Rani
+26,0000-0003-2491-5267,0000-0003-2491-5267,Politecnico di Milano,APPROVED,Assistant professor,2022.0,"software engineering, formal methods",59.0,MATTEO,CAMILLI
+27,0000-0001-7112-4607,0000-0001-7112-4607,St Bartholomew's Hospital,APPROVED,,,,37.0,Jessica,Artico
+28,0000-0002-8049-253X,0000-0002-8049-253X,Universitat Politècnica de València,APPROVED,Full Professor,,"Cloud Computing, Serverless Computing",84.0,Germán,Moltó
+29,0000-0002-8721-4444,0000-0002-8721-4444,University of Yamanashi,APPROVED, Specially Appointed Associate Professor ,2023.0,,153.0,Dominik,Köppl
+30,0000-0002-1239-0662,0000-0002-1239-0662,Universiteit Leiden Mathematisch Instituut,APPROVED,Postdoctoral fellow,2017.0,"Data Science, Survival Analysis, Paediatric Oncology, Transportation",13.0,Carlo,Lancia
+31,0000-0002-3056-4662,0000-0002-3056-4662,,APPROVED,,,,62.0,Esteban,Porrini
+32,0000-0002-0009-8007,0000-0002-0009-8007,,APPROVED,,,,12.0,Mirko,Agarla
+33,0000-0001-5432-7584,0000-0001-5432-7584,Universita' di Milano Bicocca,APPROVED,Dottorandi,2019.0,,10.0,Stefano,Fiorini
+34,0000-0003-1489-321X,0000-0003-1489-321X,University of Milano - Bicocca,APPROVED,Postdoctoral Researcher,2020.0,,8.0,Davide,Ginelli
+35,0000-0002-7105-7931,0000-0002-7105-7931,,APPROVED,,,,65.0,Husam,Abdel-Qadir
+36,0000-0003-0669-5723,0000-0003-0669-5723,,APPROVED,,,,0.0,Francesco,Gallo
+37,0000-0001-5170-4479,0000-0001-5170-4479,,APPROVED,,,,0.0,Paolo ,Avogadro
+38,0000-0002-3781-6770,0000-0002-3781-6770,,APPROVED,,,,50.0,Riccardo,Vago
+39,0000-0002-0027-5157,0000-0002-0027-5157,Istituto Ortopedico Galeazzi,APPROVED,Post-doc Researcher,2022.0,,68.0,ANDREA,CAMPAGNER
+40,0000-0001-9011-7031,0000-0001-9011-7031,Thomas Jefferson University,APPROVED,Prof,2010.0,,156.0,Lucia,Languino
+41,0000-0003-0062-6049,0000-0003-0062-6049,STMicroelectronics,APPROVED,,2020.0,,41.0,Marco,Lattuada
+42,0000-0002-4907-0427,0000-0002-4907-0427,University of Illinois Urbana-Champaign,APPROVED,Health Innovation Professor,2021.0,,30.0,Mehmet Eren,Ahsen
+43,0000-0001-9402-7439,0000-0001-9402-7439,University of Milano-Bicocca,APPROVED,"Senior Professor of Cardiovascular Medicine, past Director of the School of Specialization in Cardiovascular Diseases",2021.0,,1213.0,Gianfranco,Parati
+44,0000-0001-5047-1108,0000-0001-5047-1108,University of Roehampton,APPROVED,,,,99.0,Muneer,Ahmad
+45,0000-0003-1997-2910,0000-0003-1997-2910,,APPROVED,,,"Remote sensing, Image forensics, Compressed sensing, Graph neural networks",43.0,DIEGO,VALSESIA
+46,0000-0003-3929-8409,0000-0003-3929-8409,,APPROVED,,,,3.0,Simone Giuseppe,Locatelli
+47,0000-0002-4117-7991,0000-0002-4117-7991,IRCCS Humanitas Research Hospital,APPROVED,Capo Sezione Terapia Cellulare ,,,105.0,Stefania,Bramanti
+48,0009-0009-1780-8501,0009-0009-1780-8501,Rhine-Waal University of Applied Sciences,APPROVED,Professor for Operating and Distributed Information Systems,2023.0,"Communication Networks, Distributed Systems, Micro-Services, Smart Cities",42.0,Patrick-Benjamin,Bök
+49,0000-0002-1215-8038,0000-0002-1215-8038,University of Illinois at Urbana-Champaign,APPROVED,Graduate Research Assistant,2014.0,,4.0,Jinfeng,Xiao
+50,0000-0002-4749-7929,0000-0002-4749-7929,"Policlinico ""G. Rodolico-S. Marco"" University Hospital",APPROVED,MD,2023.0,,54.0,Giulio,Bonomo
+51,0000-0002-7428-0522,0000-0002-7428-0522,,APPROVED,,,,8.0,Marzia,Di Filippo
+52,0000-0002-0358-1854,0000-0002-0358-1854,,APPROVED,,,,0.0,Silvia,Terragni
+53,0000-0003-4013-5834,0000-0003-4013-5834,,APPROVED,,,,5.0,Mourad,ZAIED
+54,0000-0002-2009-4660,0000-0002-2009-4660,University Health Network,APPROVED,Post-doctoral fellow,2018.0,,3.0,Sara,Rahmati
+55,0000-0002-6138-1236,0000-0002-6138-1236,Radboudumc,APPROVED,Gynecological oncologist,2017.0,"endometrial cancer, molecular biology, carcinogenesis",159.0,Johanna,Pijnenborg
+56,0000-0003-0267-5792,0000-0003-0267-5792,The University of Melbourne,APPROVED,,,,62.0,Michael,Menden
+57,0000-0003-0291-3332,0000-0003-0291-3332,Università degli Studi di Milano-Bicocca,APPROVED,Research Scholarship in Cognitive ergonomics,2022.0,,3.0,Riccardo,Angius
+58,0000-0002-8105-1322,0000-0002-8105-1322,IRCCS Humanitas Research Hospital,APPROVED,,,,7.0,Eleonora,Calabretta
+59,0000-0001-7823-8973,0000-0001-7823-8973,,APPROVED,,,,3.0,SIMONE,FONTANA
+60,0000-0001-8233-4570,0000-0001-8233-4570,,APPROVED,,,,22.0,Gabriele,Russo Russo
+61,0000-0002-9752-1114,0000-0002-9752-1114,,APPROVED,,,,4.0,Francesco,Fiorio
+62,0000-0002-9744-3750,0000-0002-9744-3750,,APPROVED,,,,1.0,RICCARDO,MELEN
+63,0000-0002-4195-1641,0000-0002-4195-1641,Australian National University,APPROVED,Professor,2016.0,,136.0,Hanna,Suominen
+64,0000-0002-1071-3958,0000-0002-1071-3958,Istituto Nazionale di Geofisica e Vulcanologia Sezione di Catania,APPROVED,Senior Researcher,,"volcano seismology, pattern recognition, augmented reality, seismic haza",87.0,Susanna,Falsaperla
+65,0009-0008-2971-3959,0009-0008-2971-3959,,APPROVED,,,,0.0,Alfredo,Landolfo
+66,0000-0002-5742-8302,0000-0002-5742-8302,,APPROVED,,,,37.0,Chiara,Damiani
+67,0000-0001-6097-5342,0000-0001-6097-5342,Fondazione Bruno Kessler,APPROVED,head of research unit,2007.0,"photogrammetry, 3D surveying, 3D modeling, geomatics",391.0,Fabio,Remondino
+68,0000-0002-3404-6395,0000-0002-3404-6395,Fondazione Bruno Kessler,APPROVED,Researcher,,,26.0,elisa mariarosaria,farella
+69,0000-0003-4772-9109,0000-0003-4772-9109,,APPROVED,,,,76.0,FABRIZIA,MANTOVANI
+70,0000-0002-9243-8071,0000-0002-9243-8071,University of Luxembourg,APPROVED,Research Associate,2019.0,,9.0,Oscar,Cornejo
+71,0000-0003-4365-4998,0000-0003-4365-4998,,APPROVED,,,,3.0,Benedetta,Baldini
+72,0000-0001-7737-4172,0000-0001-7737-4172,IBM Thomas J Watson Research Center,APPROVED,Research Staff member,2010.0,,44.0,Raquel,Norel
+73,0000-0003-0759-8431,0000-0003-0759-8431,,APPROVED,,,,47.0,Luca Maria,Sconfienza
+74,0000-0002-9192-0034,0000-0002-9192-0034,,APPROVED,,,,3.0,Francesco Paolo,Perelli
+75,0000-0002-7618-7292,0000-0002-7618-7292,University of Virginia,APPROVED,,,"computational biology, data science",49.0,Philip,Bourne
+76,0000-0001-6560-0988,0000-0001-6560-0988,,APPROVED,,,,24.0,Jonathan,Klein
+77,0000-0001-9509-9725,0000-0001-9509-9725,,APPROVED,,,,2.0,Christina,Boucher
+78,0000-0002-5164-2690,0000-0002-5164-2690,TU Wien,APPROVED,Student Staff in Research,2021.0,,3.0,Moritz,Staudinger
+79,0000-0001-8840-8948,0000-0001-8840-8948,TU Wien,APPROVED,,,,12.0,Alessandro,Tundo
+80,0000-0002-9083-4599,0000-0002-9083-4599,"City, University of London",APPROVED,Lecturer in Artificial Intelligence,2019.0,"Semantic Web, Artificial Intelligence, Ontology Alignment, Neuro-Symbolic AI",113.0,Ernesto,Jimenez-Ruiz
+81,0009-0000-3682-6558,0009-0000-3682-6558,,APPROVED,,,,1.0,Nicolas,Calmi
+82,0000-0001-6634-121X,0000-0001-6634-121X,University of Groningen,APPROVED,Assistant Professor,2021.0,"narrative theory, rhetoric, Italian literature, epistemology, semiotics, systems theory, complexity science",30.0,Federico,Pianzola
+83,0000-0001-6893-6284,0000-0001-6893-6284,Humanitas University,APPROVED,Assistant Professor,2019.0,,198.0,ciro,franzese
+84,0009-0001-5588-8823,0009-0001-5588-8823,,APPROVED,,,,2.0,Sahar,Shah
+85,0000-0003-0525-3114,0000-0003-0525-3114,University of Florida,APPROVED,PhD Student,2019.0,,5.0,Marco,Oliva
+86,0000-0003-1431-576X,0000-0003-1431-576X,,APPROVED,,,,27.0,Antonio,Candelieri
+87,0000-0002-9557-6496,0000-0002-9557-6496,Khalifa University of Science Technology,APPROVED,"Professor, C2PS Director",2015.0,,396.0,Ernesto,Damiani
+88,0000-0002-8128-2067,0000-0002-8128-2067, University of South Wales  -,APPROVED,Emeritus Professor,1971.0,University of South Wales,117.0,Derek,Smith
+89,0000-0002-0660-5436,0000-0002-0660-5436,Université de Technologie de Compiègne,APPROVED,Professeur,1992.0,"Uncertain reasoning, Belief functions, Evidence theory, Machine learning, Uncertainty modeling",314.0,Thierry,Denoeux
+90,0000-0002-3383-367X,0000-0002-3383-367X,Eindhoven University of Technology,APPROVED,Postdoc,2022.0,,43.0,SIMONE,SPOLAOR
+91,0000-0003-4416-6216,0000-0003-4416-6216,,APPROVED,,,,76.0,Valentina,Vaira
+92,0000-0002-7879-4723,0000-0002-7879-4723,,APPROVED,,,,19.0,Olivia,Realdon
+93,0000-0003-2157-8760,0000-0003-2157-8760,University of Insubria,APPROVED,Associate Professor,,,62.0,Federico ,PASQUARE' MARIOTTO
+94,0000-0002-2855-1221,0000-0002-2855-1221,,APPROVED,,,,2.0,Riccardo,Romanello
+95,0000-0001-6797-6284,0000-0001-6797-6284,"Institute of Information Transmision Problems named after A.A. Kharkevich, RAS",APPROVED,senior researcher/head of sector,2015.0,"color, color computer vision, illumination estimation, color reproduction, hough transform, fast hough transform",6.0,Egor,Ershov
+96,0000-0003-1131-5238,0000-0003-1131-5238,,APPROVED,,,,0.0,Liadh,Kelly
+97,0000-0002-8534-4413,0000-0002-8534-4413,University of Milan,APPROVED,,,,51.0,Raffaella,Lanzarotti
+98,0000-0001-7432-4284,0000-0001-7432-4284,Istituto Nazionale di Fisica Nucleare,APPROVED,Postdoctoral Fellow,2021.0,"Computer Vision, Neural Networks, CNNs, Deep Learning, Anomaly Detection, Industrial Quality Inspect",14.0,Flavio,Piccoli
+99,0000-0002-1381-8528,0000-0002-1381-8528,University of Pavia,APPROVED,"M.D., Ph.D.",2018.0,,61.0,Sabino,Luzzi
+100,0000-0002-9445-4809,0000-0002-9445-4809,Fraunhofer Portugal Research,APPROVED,,2015.0,,33.0,Marília,Barandas
+101,0000-0003-3040-9539,0000-0003-3040-9539,Universita degli Studi di Milano-Bicocca,APPROVED,PostDoc,2017.0,,20.0,Marco,Previtali
+102,0000-0002-1087-4866,0000-0002-1087-4866,Khalifa University,APPROVED,Senior Researcher,2020.0,,3.0,Corrado,Mio
+103,0000-0002-7281-7218,0000-0002-7281-7218,,APPROVED,,,,53.0,Silvia,Lanfranconi
+104,0000-0001-7190-761X,0000-0001-7190-761X,,APPROVED,,,,6.0,Valery,Starovoitov
+105,0000-0001-7623-8419,0000-0001-7623-8419,,APPROVED,,,,9.0,Gloria,Pietropolli
+106,0000-0001-9411-1729,0000-0001-9411-1729,UiT Norges arktiske universitet,APPROVED,Professor,2019.0,,92.0,Giuliana,Panieri
+107,0000-0001-9983-2330,0000-0001-9983-2330,,APPROVED,,,,9.0,Gabriele,Sottocornola
+108,0000-0003-1885-500X,0000-0003-1885-500X,University of Warwick,APPROVED,Professor,2018.0,,174.0,Xavier,Didelot
+109,0000-0002-7203-4176,0000-0002-7203-4176,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,1989.0,,172.0,Roberto,Luksch
+110,0000-0002-2828-782X,0000-0002-2828-782X,Università Vita-Salute San Raffaele Facoltà di Medicina e Chirurgia,APPROVED,Professor,2021.0,,77.0,Rossella,Tomaiuolo
+111,0009-0003-0221-0693,0009-0003-0221-0693,,APPROVED,,,,1.0,ABEDNEGO WAMUHINDO,KAMBALE
+112,0000-0002-2234-0845,0000-0002-2234-0845,Vrije Universiteit Amsterdam,APPROVED,,," software engineering, software architecture, service orientation, Green and sustainable software",40.0,Patricia,Lago
+113,0000-0003-4610-2427,0000-0003-4610-2427,,APPROVED,,,,69.0,Paolo,Miotto
+114,0000-0003-3144-0124,0000-0003-3144-0124,HUMANITAS UNIVERSITY,APPROVED,Docenti di ruolo di Ia fascia,2020.0," cancer,  hematology",489.0,Carmelo,Carlo-Stella
+115,0000-0002-4234-5336,0000-0002-4234-5336,Fraunhofer Portugal ,APPROVED,Senior Researcher,2019.0,"Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision, Multimodal Data ",38.0,André,Carreiro
+116,0000-0001-5172-3442,0000-0001-5172-3442,,APPROVED,,,,0.0,Trent,Faultless
+117,0000-0002-4022-7424,0000-0002-4022-7424,Universidade Nova de Lisboa,APPROVED,Full Professor,2024.0,,184.0,Hugo,Gamboa
+118,0000-0002-1076-0076,0000-0002-1076-0076,,APPROVED,,,"Software Engineering, Service Oriented Architecture, Software Testing, Model Driven Engineering",0.0,GUGLIELMO,DE ANGELIS
+119,0000-0003-3088-0339,0000-0003-3088-0339,Universita della Svizzera Italiana,APPROVED,Professor,2018.0,"Software engineering, Software testing and verification",220.0,Paolo,Tonella
+120,0000-0003-2577-0039,0000-0003-2577-0039,,APPROVED,,,,21.0,Irene Alice,Chicchi Giglioli
+121,0000-0002-6145-5274,0000-0002-6145-5274,,APPROVED,,,MRI,88.0,francesca,baglio
+122,0000-0002-7275-0738,0000-0002-7275-0738,Universität Hohenheim,APPROVED,Tenure Track Professor,2020.0,,65.0,Christian,Krupitzer
+123,0009-0001-7729-0574,0009-0001-7729-0574,,APPROVED,,,,1.0,Vincenzo,Giandomenico
+124,0000-0001-8786-2276,0000-0001-8786-2276,University of Milano-Bicocca,APPROVED,PostDoc,2022.0,,0.0,LUCA,DENTI
+125,0000-0003-3988-3616,0000-0003-3988-3616,,APPROVED,,,,0.0,maura,arosio
+126,0000-0003-3665-1609,0000-0003-3665-1609,"Universita` degli Studi di ROMA ""La Sapienza""",APPROVED,Docenti di ruolo di IIa fascia,2019.0,,150.0,TERESA,VILLANI
+127,0000-0003-2048-2468,0000-0003-2048-2468,,APPROVED,,,CircleU,279.0,Antonio,Brogi
+128,0000-0002-1906-2223,0000-0002-1906-2223,,APPROVED,,,,0.0,Barbara,Zarino
+129,0000-0003-2063-218X,0000-0003-2063-218X,,APPROVED,,,,35.0,ANDREA,BRUNELLO
+130,0000-0001-6636-2619,0000-0001-6636-2619,,APPROVED,,,,5.0,DONATELLA,TREPPIEDI
+131,0000-0002-6913-1442,0000-0002-6913-1442,IRCCS Humanitas Research Hospital,APPROVED,,,,207.0,Pierina,Navarria
+132,0000-0003-3634-2582,0000-0003-3634-2582,IRCCS Humanitas Research Hospital,APPROVED,,,,108.0,FRANCESCA,LOBEFALO
+133,0000-0002-0181-4618,0000-0002-0181-4618,,APPROVED,,,,179.0,CLAUDIO,BANDI
+134,0000-0002-4805-5516,0000-0002-4805-5516,Libera Università di Bolzano,APPROVED,Full professor,2019.0,,85.0,Markus,Zanker
+135,0000-0003-0495-1308,0000-0003-0495-1308,Università degli Studi di Modena e Reggio Emilia,APPROVED,Associate Professor of Statistics,2024.0,"Bayesian methods, graphical models",28.0,Luca,La Rocca
+136,0009-0002-6969-1500,0009-0002-6969-1500,,APPROVED,,,,1.0,Elena,Masserini
+137,0000-0002-7154-8140,0000-0002-7154-8140,European Institute of Oncology,APPROVED,,2016.0,,57.0,Enrico,Derenzini
+138,0000-0002-8552-8976,0000-0002-8552-8976,European Bioinformatics Institute,APPROVED,Head of Research,2024.0,"systems biology, systems biomedicine, systems pharmacology",410.0,Julio,Saez-Rodriguez
+139,0000-0002-1682-1896,0000-0002-1682-1896,,APPROVED,,,,10.0,CRISTINA LIVIANA,CALDIROLI
+140,0000-0002-1262-7252,0000-0002-1262-7252,Universita della Svizzera Italiana,APPROVED,Professor,2018.0,,1.0,Michael,Bronstein
+141,0000-0002-8102-7859,0000-0002-8102-7859,Radboud Universitair Medisch Centrum,APPROVED,PhD Candidate,2023.0,"Artificial Intelligence, Health and Life Sciences, Omics Analysis",3.0,Kirsten,van Abeelen
+142,0000-0003-3523-1055,0000-0003-3523-1055,,APPROVED,,,,38.0,Carlo,Reverberi
+143,0000-0002-4656-7155,0000-0002-4656-7155,Universität Bielefeld,APPROVED,Professor of Genome Informatics,2002.0,,231.0,Jens,Stoye
+144,0000-0002-6682-573X,0000-0002-6682-573X,Istituto Auxologico Italiano Istituto Scientifico San Luca,APPROVED,Physician Cardiologist,2022.0,,12.0,Francesca,Heilbron
+145,0009-0002-4866-0326,0009-0002-4866-0326,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,2022.0,,5.0,Ilaria,Cavallo
+146,0000-0001-5474-9293,0000-0001-5474-9293,,APPROVED,,,,37.0,Elisa,Sala
+147,0000-0002-6770-8332,0000-0002-6770-8332,Dublin Institute of Technology,APPROVED,,,"Human Factors, Safety Management",66.0,Maria Chiara,Leva
+148,0000-0002-2758-5841,0000-0002-2758-5841,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,PhD ,,,19.0,FEDERICA,MANGILI
+149,0000-0003-1099-8735,0000-0003-1099-8735,Institut Pasteur,APPROVED,,2019.0,,0.0,Rayan,Chikhi
+150,0000-0002-7286-4014,0000-0002-7286-4014,IRCCS Humanitas Research Hospital,APPROVED,,,,4.0,Luisa,Bellu
+151,0000-0002-6787-1543,0000-0002-6787-1543,,APPROVED,,,,80.0,Claudia,Giavoli
+152,0000-0002-4867-5344,0000-0002-4867-5344,Università degli Studi del Molise,APPROVED,,2020.0,,48.0,marcello,zappia
+153,0000-0002-9396-7688,0000-0002-9396-7688,National University of Defense Technology,APPROVED,,,,0.0,Xin,Niu
+154,0000-0003-3336-5690,0000-0003-3336-5690,IRCCS Humanitas Research Hospital,APPROVED,Medical Physicist,2010.0,,175.0,giacomo,reggiori
+155,0000-0003-4012-262X,0000-0003-4012-262X,Università degli Studi eCampus,APPROVED,Professore Associato,2019.0,,115.0,Elisa,Pedroli
+156,0000-0001-9873-7868,0000-0001-9873-7868,IRCCS Humanitas Research Hospital,APPROVED,Radiation Oncology ,,,13.0,Damiano,Dei
+157,0000-0001-7184-0494,,,TO CHECK,,,,,,
+158,0000-0002-6534-642X,0000-0002-6534-642X,University of Milano-Bicocca,APPROVED,Ph.D. student,2021.0,,13.0,Matteo,Villa
+159,0000-0003-0091-7241,0000-0003-0091-7241,Università degli Studi di Roma La Sapienza,APPROVED,,2017.0,,50.0,Emanuele,Rodolà
+160,0000-0002-9818-0999,0000-0002-9818-0999,Politecnico di Torino,APPROVED,Full Professor,2019.0,"Ambient Intelligence, Accessibility, Smart Environments, WebTechnologies, Goal 4: Quality education, PE6_1 - Computer architecture, pervasive computing, ubiquitous computing, PE6_7 - Artificial intelligence, intelligent systems, multi agent systems, PE6_10 - Web and information systems, database systems, information retrieval and digital libraries, data fusion, PE6_9 - Human computer interaction and interface, visualisation and natural language processing, internet of things, human computer interaction, ambient intelligence, WEB TECHNOLOGIES, semantic web, smart environments, PE6_2 - Computer systems, parallel/distributed systems, sensor networks, embedded systems, cyber-physical systems",312.0,Fulvio,Corno
+161,0000-0001-9429-6401,0000-0001-9429-6401,Delft University of Technology,APPROVED,,,"Airline operations, Operations research, Aircraft maintenance planning, Disruption management, Decision support, Machine learning, Scheduling, Sustainable operations",65.0,Bruno F.,Santos
+162,0000-0002-8481-6079,0000-0002-8481-6079,Fraunhofer AICOS,APPROVED,Senior Scientist,2024.0,"Time Series, Explainable Artificial Intelligence, Machine Learning, Deep Learning, Signal Processing",41.0,Duarte,Folgado
+163,0000-0002-9417-660X,0000-0002-9417-660X,Gran Sasso Science Institute,APPROVED,Postdoc,2018.0,,0.0,Martina,De Sanctis
+164,0000-0002-8812-9719,0000-0002-8812-9719,TU Wien,APPROVED,,,,3.0,Diana,Marin
+165,0000-0002-4308-5126,0000-0002-4308-5126,,APPROVED,,,,6.0,Umberto,Ferraro Petrillo
+166,0000-0001-7359-5410,0000-0001-7359-5410,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,Head ,2021.0,,196.0,Ornella,Garrone
+167,0000-0002-7811-3377,0000-0002-7811-3377,University of Milan,APPROVED,Associate Professor,2021.0,"non coding RNA, prostate cancer, cancer associated fibroblasts, long non coding RNA, microRNA",71.0,Paolo,Gandellini
+168,0000-0001-9333-7101,0000-0001-9333-7101,Vrije Universiteit Amsterdam,APPROVED,,,,81.0,Ilias,Gerostathopoulos
+169,0000-0002-4417-4868,0000-0002-4417-4868,,APPROVED,,,,0.0,Timur,Temizer
+170,0000-0001-9918-7079,0000-0001-9918-7079,Università degli Studi di Milano-Bicocca,APPROVED,Ricercatore a tempo determinato tipo B,2021.0,"coralligeno, mediterraneo, quaternario, habitat mapping, paleoecologia",48.0,VALENTINA ALICE,BRACCHI
+171,0000-0002-8148-1621,0000-0002-8148-1621, Faculty of Sciences ,APPROVED,Associate professor,2020.0,"machines learning, deep learning, images classification, pattern recognition",77.0,Ridha,Ejbali
+172,0000-0002-5193-6218,0000-0002-5193-6218,Gran Sasso Science Institute,APPROVED,Postdoc researcher,2022.0,"Software Engineering, Software Testing, Software Architecture, Formal Verification, Robotics",20.0,Luciana,Brasil Rebelo dos Santos
+173,0000-0001-7373-5591,0000-0001-7373-5591,Institut Jožef Stefan,APPROVED,Deputy Head of department,1996.0,"artificial intelligence, machine learning, natural language processing, data mining, research policy, digital twins",9.0,Marko,Grobelnik
+174,0000-0003-1671-1977,0000-0003-1671-1977,,APPROVED,,,,36.0,Roberto,Menè
+175,0000-0002-9549-2540,0000-0002-9549-2540,Southeast Missouri State University,APPROVED,Assistant Professor,2023.0,"Wireless Sensor Networks, Sensor Cloud, Fog Computing , Routing Protocol in WSNs",89.0,Ihsan,Ali
+176,0000-0002-9472-3431,0000-0002-9472-3431,"University of the Witswatersrand, Johannesburg",APPROVED,Senior Lecture,2008.0,,52.0,Davide,CROCE
+177,0000-0003-3088-6132,0000-0003-3088-6132,Università della Svizzera italiana,APPROVED,PhD Candidate,2022.0,,8.0,Leonardo,Alchieri
+178,0009-0009-2492-8974,0009-0009-2492-8974,,APPROVED,,,,8.0,Federica,Malighetti
+179,0000-0003-3620-3494,0000-0003-3620-3494,,APPROVED,,,,0.0,ROBERTA,GARBO
+180,0000-0003-3657-106X,0000-0003-3657-106X,Università Cattolica del Sacro Cuore ,APPROVED,Full Professor,,"virtual reality, eating disorders, stress management, anxiety disorders, presence, telepresence, social networks, positive technology",737.0,Giuseppe,Riva
+181,0000-0003-0449-9569,0000-0003-0449-9569,,APPROVED,,,,6.0,Alessio,Cirillo
+182,0009-0004-7619-8399,0009-0004-7619-8399,,APPROVED,,,,2.0,Marco,Braga
+183,0009-0007-0154-0884,0009-0007-0154-0884,,APPROVED,,,,4.0,Giorgia,Gandolfi
+184,0000-0003-4376-1697,0000-0003-4376-1697,,APPROVED,,,,10.0,ARIANNA,FEDELI
+185,0000-0002-5357-2374,0000-0002-5357-2374,Delft University of Technology,APPROVED,,,,15.0,Heba,Abunahla
+186,0000-0001-5023-0435,0000-0001-5023-0435,Trinity College Dublin,APPROVED,,,,24.0,Sam,Cromie
+187,0000-0002-6983-4818,0000-0002-6983-4818,Università degli Studi di Salerno,APPROVED,Associate Professor,1998.0,,58.0,Giuseppe,Cattaneo
+188,0000-0002-9411-2526,0000-0002-9411-2526,,APPROVED,,,,1.0,Gabriel,Cerono
+189,0000-0002-0330-1963,0000-0002-0330-1963,,APPROVED,,,,0.0,Sandra,Scott-Hayward
+190,0000-0003-4811-9345,0000-0003-4811-9345,,APPROVED,,,,23.0,Giulia,Carosi
+191,0000-0001-6648-1917,0000-0001-6648-1917,,APPROVED,,,,20.0,Vera,Colombo
+192,0000-0002-2837-1853,0000-0002-2837-1853,,APPROVED,,,,45.0,Felipe,Soares
+193,0000-0002-7427-1001,0000-0002-7427-1001,University of Glasgow,APPROVED,,,,92.0,NICOLA,TONELLOTTO
+194,0000-0002-9861-4013,0000-0002-9861-4013,,APPROVED,,,,2.0,Farooq,Zaman
+195,0000-0002-8889-7857,,,TO CHECK,,,,,,
+196,0000-0002-5276-7030,0000-0002-5276-7030,,APPROVED,,,,9.0,Alberto,Zancanaro
+197,0000-0002-0625-4453,0000-0002-0625-4453,"Universita` degli Studi di ROMA ""La Sapienza""",APPROVED,Docenti di ruolo di Ia fascia,2010.0,,0.0,Tiziana,Ferrante
+198,0000-0002-5652-7739,0000-0002-5652-7739,Bristol Myers Squibb Co,APPROVED,,2021.0,,24.0,Michael,Mason
+199,0000-0002-0527-070X,0000-0002-0527-070X,Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato Consiglio Nazionale delle Ricerche,APPROVED,Research fellow,2014.0,,25.0,DANIELE,SPOLADORE
+200,0000-0002-4844-4351,0000-0002-4844-4351,,APPROVED,,,,4.0,ali,mohebbi
+201,0000-0002-2568-9815,0000-0002-2568-9815,IRCCS Ospedale San Raffaele,APPROVED,Scientist,2016.0,,42.0,Oronza Antonietta,Botrugno
+202,0000-0001-9727-6465,0000-0001-9727-6465,Ospedale San Raffaele,APPROVED,Postdoctoral researcher,2012.0,,44.0,Andrea Maurizio,Cabibbe
+203,0000-0002-0632-5354,0000-0002-0632-5354,,APPROVED,,,"Healthcare Architecture, Birth Space Design, Hospital public spaces, Healthy Cities, Healthy neighborhoods",16.0,NICOLETTA,SETOLA
+204,0000-0003-1420-981X,0000-0003-1420-981X,Akademia Gorniczo-Hutnicza im Stanislawa Staszica w Krakowie,APPROVED,Assistant professor,2014.0,,0.0,Dariusz,Pałka
+205,0000-0002-7566-8051,0000-0002-7566-8051,,APPROVED,,,,49.0,GIOVANNI,DENARO
+206,0000-0002-8518-5352,0000-0002-8518-5352,IBFM-CNR,APPROVED,,2023.0,,23.0,BRUNO GIOVANNI,GALUZZI
+207,0000-0001-9281-9950,0000-0001-9281-9950,,APPROVED,,,,6.0,Zhuang,Jia
+208,0000-0003-3872-9991,0000-0003-3872-9991,,APPROVED,,,,9.0,Alberto,Bruno
+209,0000-0003-4187-4209,0000-0003-4187-4209,,APPROVED,,,,17.0,Andrea,Ponti
+210,0000-0003-3422-5171,0000-0003-3422-5171,Politecnico di Milano,APPROVED,Full Professor,2017.0,,122.0,Elisabetta,Di Nitto
+211,0000-0002-0699-163X,0000-0002-0699-163X,Kuwait University,APPROVED,Assistant Professor of Bioinformatics,2014.0,Bioinformatics,3.0,Abbas,Alameer
+212,0000-0001-9478-7083,0000-0001-9478-7083,Radboud University Nijmegen,APPROVED,,,,1.0,Daria,Alexander
+213,0000-0003-2392-4612,0000-0003-2392-4612,,APPROVED,,,,17.0,Riccardo,Marin
+214,0000-0002-3485-2485,0000-0002-3485-2485,University of Milan,APPROVED,,,,17.0,Riccardo,Nodari
+215,0000-0002-5818-5947,0000-0002-5818-5947,,APPROVED,,,"Submarine Geomorphology, Seafloor Mapping",80.0,ALESSANDRA,SAVINI
+216,0000-0001-9038-9862,0000-0001-9038-9862,,APPROVED,,,,5.0,Sheojung,Shin
+217,0000-0001-7508-7428,0000-0001-7508-7428,Ontotext Corp,APPROVED,Lead,2010.0,"ontology engineering, semantic web, project management, business analysis, data integration, cultural heritage, SKOS",109.0,Vladimir,Alexiev
+218,0000-0003-4248-3875,0000-0003-4248-3875,Amrita Vishwa Vidyapeetham Amrita School of Engineering Chennai,APPROVED,Associate Professor ,2022.0,"Cloud Computing, Big Data Analytics , Artificial Intelligence, Machine Learning , R Programming ",65.0,Sountharrajan,Sehar
+219,0000-0001-6647-088X,0000-0001-6647-088X,University of Trieste,APPROVED,Assistant Professor,2022.0,,31.0,GIULIA,BERNARDINI
+220,0000-0002-9635-2400,0000-0002-9635-2400,Università della Svizzera Italiana,APPROVED,PhD Assistant,2018.0,,8.0,Arianna,Blasi
+221,0000-0003-4334-7226,0000-0003-4334-7226,,APPROVED,,,,15.0,Husain,Poonawala
+222,0000-0002-4343-6598,0000-0002-4343-6598,University of Perugia,APPROVED,Associated Professor,2000.0,"environmental analysis, waste managment, energy recovery, biological process",84.0,Francesco,Di Maria
+223,0000-0002-5574-2787,0000-0002-5574-2787,INAF - Osservatorio Astrofisico di Catania,APPROVED,Tecnologo,2017.0,,100.0,Eva,Sciacca
+224,0009-0009-3553-1198,0009-0009-3553-1198,,APPROVED,,,,1.0,Enrico,Galimberti
+225,0000-0001-6650-3784,0000-0001-6650-3784,,APPROVED,,,,11.0,Shkurta,Gashi
+226,0000-0002-6862-7593,0000-0002-6862-7593,,APPROVED,,,,72.0,Paolo,Barsocchi
+227,0000-0001-2345-6789,,,TO CHECK,,,,,,
+228,0000-0001-5900-811X,0000-0001-5900-811X,IRCCS Istituto Auxologico Italiano,APPROVED,Director,2024.0,,177.0,Marco,Stramba-Badiale
+229,0000-0002-1973-8916,0000-0002-1973-8916,Università degli Studi di Milano-Bicocca,APPROVED,Senior Assistant Professor (RTDb),2021.0,,0.0,ANDREA,MANGIATORDI
+230,0000-0002-9723-9063,0000-0002-9723-9063,Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie – Hans-Knöll-Institut,APPROVED,Post-doctoral researcher,2012.0,,24.0,Carl-Magnus,Svensson
+231,0000-0002-4652-901X,0000-0002-4652-901X,Clausthal University of Technology,APPROVED,Research Assistant/PhD Candidate,2016.0,,20.0,Tobias,Ahlbrecht
+232,0000-0002-6063-4975,0000-0002-6063-4975,Politecnico di Milano,APPROVED,Associate Professor,2022.0,,93.0,Gianni,Antichi
+233,0000-0002-5438-9467,0000-0002-5438-9467,Università degli Studi di Milano,APPROVED,Full Professor,2006.0,"cloud security, computational intelligence, certification",102.0,Marco,Anisetti
+234,0000-0001-7180-2279,0000-0001-7180-2279,,APPROVED,,,"Image matching, photogrammetry, precise positioning, GNSS, computer vision",26.0,Luca,Morelli
+235,0000-0001-8453-0807,0000-0001-8453-0807,,APPROVED,,,,0.0,MARIATERESA,ARTESE
+236,0000-0002-3965-3522,0000-0002-3965-3522,Politecnico di Torino,APPROVED,Associate Professor,2020.0,,115.0,Tiziano,Bianchi
+237,0000-0001-8836-7939,0000-0001-8836-7939,,APPROVED,,,,0.0,Yu,Zhu
+238,0000-0002-8013-314X,,,TO CHECK,,,,,,
+239,0000-0003-4224-927X,0000-0003-4224-927X,Politecnico di Milano,APPROVED,Associate Professor,2014.0,,153.0,Danilo,Ardagna
+240,0000-0001-9885-1185,0000-0001-9885-1185,,APPROVED,,,,60.0,Roberta,Zupo
+241,0000-0003-4488-885X,0000-0003-4488-885X,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,2009.0,,62.0,chiara maura,ciniselli
+242,0000-0001-8130-437X,0000-0001-8130-437X,,APPROVED,,,,115.0,Raffaella,Calati
+243,0000-0002-0619-0760,0000-0002-0619-0760,,APPROVED,,,,2.0,Giulia,Rizzi
+244,0000-0002-8074-1102,0000-0002-8074-1102,Sana'a University,APPROVED,Demonstrator,2010.0,"General Topology, Topological ordered spaces, Soft set theory and its applications, Soft topology, Rough set theory and its applications, Fuzzy set theory",154.0,Tareq,Al-shami
+245,0000-0002-4149-8226,0000-0002-4149-8226,University of Milan,APPROVED,Full Professor of Biochemistry,,,113.0,Laura,Riboni
+246,0000-0001-6666-6954,0000-0001-6666-6954,University of Aberdeen,APPROVED,,,"Multi-Agent Planning, Multi-Agent Systems, Model Checking",42.0,Rafael,Cardoso
+247,0000-0001-6465-7624,0000-0001-6465-7624,Università degli Studi di Milano,APPROVED,Associate Professor,2023.0,"Internal medicine , Inflammatory and autoimmune rheumatic diseases, Inflammation and coagulation ",104.0,Roberta,Gualtierotti
+248,0000-0002-5510-2296,0000-0002-5510-2296,,APPROVED,,,,13.0,Federico,Sternini
+249,0009-0001-0955-6721,0009-0001-0955-6721,,APPROVED,,,,0.0,Riccardo,Rubini
+250,0000-0003-2182-4511,0000-0003-2182-4511,,APPROVED,,,,3.0,Luca,Ronzio
+251,0000-0002-1621-325X,0000-0002-1621-325X,,APPROVED,,,,0.0,Dominik,Michels
+252,0000-0003-2437-1976,0000-0003-2437-1976,Johns Hopkins University,APPROVED,Associate Professor,2019.0,,52.0,Benjamin,Langmead
+253,0000-0002-5841-0198,0000-0002-5841-0198,Sage Bionetworks,APPROVED,Associate Director of Data Processing & Engineering,2022.0,,23.0,Thomas,Yu
+254,0000-0002-2190-272X,0000-0002-2190-272X,Università degli Studi di Trieste,APPROVED,Senior Researcher,2022.0,"Mathematical Biophysics, Computational Biology, Applied Statistical Physics, Applied Mathematics, Mathematical Epidemiology, Computer Science, Applied Mathematical Physics, Mathematical Biology, Stochastic Processes, Mathematical Oncology, Systems Biology",186.0,Alberto,d'Onofrio
+255,0000-0002-5849-7000,0000-0002-5849-7000,Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico,APPROVED,,,Neurosciences,35.0,Giovanni,Marfia
+256,0000-0002-9000-3664,0000-0002-9000-3664,,APPROVED,,,,2.0,Alessia,Petescia
+257,0000-0002-7505-6776,0000-0002-7505-6776,Technical University of Darmstadt,APPROVED,Post-doctoral researcher,2023.0,"Logistics, Supply Chain Management, Behavioral Operations Management, Data Envelopment Analysis, Econometrics",10.0,Dominic,Loske
+258,0000-0003-1937-9797,0000-0003-1937-9797,,APPROVED,,,,27.0,Sören,Pirk
+259,0000-0003-4909-7512,0000-0003-4909-7512,,APPROVED,,,,0.0,Anna Maria,Barbieri
+260,0000-0001-5482-4636,0000-0001-5482-4636,,APPROVED,,,,2.0,Dengyan,Luo
+261,0000-0002-0264-4761,0000-0002-0264-4761,,APPROVED,,,,23.0,Fabio,Anselmi
+262,0000-0002-2646-8782,0000-0002-2646-8782,Barcelona Supercomputing Center,APPROVED,Head of Unit,2019.0,,145.0,Martin,Krallinger
+263,0000-0002-7101-0754,0000-0002-7101-0754,University of Groningen,APPROVED,"Scientific Staff, Professor, Hoogleraar",2014.0,"software engineering, software architecture, technical debt, empirical software engineering, software maintenance and evolution, software analytics",293.0,Paris,Avgeriou
+264,0000-0002-2200-9538,0000-0002-2200-9538,,APPROVED,,,,25.0,Giulia,Rodari
+265,0000-0001-6397-3705,0000-0001-6397-3705,,APPROVED,,,,0.0,Dumitru,Roman
+266,0000-0002-7759-0550,0000-0002-7759-0550,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,2004.0,,100.0,Sara,Pizzamiglio
+267,0000-0002-3090-4823,0000-0002-3090-4823,Universita degli Studi di Milano-Bicocca,APPROVED,Associate Professor,,,69.0,Dario,Pescini
+268,0000-0003-1008-0692,0000-0003-1008-0692,,APPROVED,,,,1.0,Giovanni,Micali
+269,0009-0003-4522-6222,0009-0003-4522-6222,mBrainTrain,APPROVED,ML Research Scientist,2021.0,,7.0,Miloš,Pušica
+270,0000-0003-4755-8338,0000-0003-4755-8338,,APPROVED,,,,0.0,Mahnoor,Khan
+271,0000-0003-0591-877X,0000-0003-0591-877X,,APPROVED,,,,0.0,Marinella,Petrocchi
+272,0000-0001-5541-5631,0000-0001-5541-5631,,APPROVED,,,,0.0,jonatha,anselmi
+273,0000-0001-9692-7756,0000-0001-9692-7756,,APPROVED,,,,9.0,damu,ding
+274,0000-0003-3997-0576,0000-0003-3997-0576,University of Milano Bicocca,APPROVED,Researcher,2003.0,,2.0,ROBERTO,COLOMBO
+275,0000-0001-6577-5606,0000-0001-6577-5606,National Research Council,APPROVED,Researcher,2022.0,,76.0,Francesco,Poggi
+276,0000-0003-0679-828X,0000-0003-0679-828X,University of Pavia,APPROVED,Assistant professor,2021.0,"AI, CDSS, Machine Learning, health informatics, medical informatics, data integration, decision analysis, XAI",28.0,Enea,Parimbelli
+277,0000-0003-2629-6762,0000-0003-2629-6762,,APPROVED,,,,2.0,ILARIA,PIGAZZINI
+278,0000-0003-4420-4147,0000-0003-4420-4147,TU Wien,APPROVED,,,,0.0,Wojciech,Kusa
+279,0000-0001-9705-0618,0000-0001-9705-0618,,APPROVED,,,,9.0,Alessandra Maria,Storaci
+280,0000-0003-4198-9620,0000-0003-4198-9620,,APPROVED,,,,98.0,Piazza,Rocco
+281,0009-0001-1072-1210,0009-0001-1072-1210,UNIMIB,APPROVED,,,,1.0,Lorenzo,Delfini
+282,0000-0002-9578-4586,0000-0002-9578-4586,National Research Council,APPROVED,research fellow,2017.0,,31.0,MARTA,MONDELLINI
+283,0000-0002-9186-1353,0000-0002-9186-1353,Società Italiana di Ematologia,APPROVED,Presidente SIE,2018.0,"Hematology, Hematopoietic Stem Cell Transplantation",245.0,Paolo,Corradini
+284,0000-0002-1957-2530,0000-0002-1957-2530,Università degli Studi di Milano-Bicocca,APPROVED,Ricercatore,2020.0,"recommender systems, machine learning, deep learning, neural network",3.0,ricardo anibal,matamoros aragon
+285,0000-0003-4044-8494,0000-0003-4044-8494,,APPROVED,,,,3.0,Thomas,Prantl
+286,0000-0002-6870-7083,0000-0002-6870-7083,University of Rome Tor Vergata,APPROVED,Full professor,2023.0,,136.0,Valeria,Cardellini
+287,0000-0002-1168-3711,0000-0002-1168-3711,,APPROVED,,,,0.0,Marta,Giltri
+288,0000-0002-3871-5760,0000-0002-3871-5760,Harvard Medical School,APPROVED,Assistant Professor,2016.0,"Genomics, Tuberculosis, Pulmonary disease",58.0,Maha,Farhat
+289,0000-0003-3445-0467,0000-0003-3445-0467,,APPROVED,,,,0.0,Ebtesam,Almazrouei
+290,0000-0002-7581-5955,0000-0002-7581-5955,,APPROVED,,,,4.0,Riccardo,Cavadini
+291,0000-0002-0097-9146,0000-0002-0097-9146,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,Researcher,2013.0,"cancer, stem cells, angiogenesis, intervertebral disc, microglia, neuroinflammation",51.0,stefania elena,navone
+292,0000-0002-1124-7098,0000-0002-1124-7098,Johannes Kepler Universität Linz,APPROVED, Head of the Institue of Business Informatics - Software Engineering,2019.0,"Model-Driven Engineering, Software Engineering, Quantum Software, AI & Software Engineering, Software Language Engineering",10.0,Manuel,Wimmer
+293,0000-0002-3995-8529,0000-0002-3995-8529,,APPROVED,,,,0.0,Davide,Molinelli
+294,0000-0003-2745-3539,0000-0003-2745-3539,,APPROVED,,,,0.0,Stefania,Marrara
+295,0000-0003-3400-4475,0000-0003-3400-4475,University of Toronto,APPROVED,Associate Professor,2015.0,,74.0,Slava,Epelman
+296,0000-0002-6495-5717,0000-0002-6495-5717,,APPROVED,,,,8.0,Hamta,Sedghani
+297,0000-0002-4170-0922,0000-0002-4170-0922,Università degli Studi di Milano Dipartimento di Informatica,APPROVED,Associate Professor,2023.0,"Bioinformatics, machine learning, protein function prediction, gene prioritization",45.0,Marco,Frasca
+298,0000-0002-6365-5149,0000-0002-6365-5149,,APPROVED,,,,86.0,Luca,Mologni
+299,0000-0003-0068-6551,0000-0003-0068-6551,Universita' degli Studi di MILANO,APPROVED,Docenti,2024.0,,34.0,Sinem,Aslan
+300,0000-0002-1994-2634,0000-0002-1994-2634,IBM Thomas J Watson Research Center,APPROVED,Research Staff Member,2010.0,"Nanopores, Electronic DNA sequencing, Biosensing by electron tunneling, DNA translocations, control and manipulation, X-ray scattering, Dendrimers, Liquid crystals, Polymers",45.0,Venkat,Balagurusamy
+301,0000-0003-0326-8742,0000-0003-0326-8742,BID Company srl,APPROVED,Research Scientist,2023.0,,2.0,Giorgio,Lazzarinetti
+302,0000-0001-9544-2933,0000-0001-9544-2933,University of Palermo,APPROVED,Assistant Professor (RTD-B),2021.0,,2.0,Dario,Monzani
+303,0000-0002-5991-5470,0000-0002-5991-5470,Università degli Studi di Modena e Reggio Emilia,APPROVED,Associate professor in S.S.D. INF01 (Informatics),2015.0,,91.0,Marco,Villani
+304,0000-0003-4580-6617,0000-0003-4580-6617,Chitkara University,APPROVED,Assistant Professor,2022.0,Software Defined Networking,22.0,Dr. Himanshi,Babbar
+305,0000-0002-0156-3636,0000-0002-0156-3636,Human Technopole,APPROVED,PhD Student,2021.0,,14.0,Salvatore,Milite
+306,0000-0002-2151-7266,0000-0002-2151-7266,Dalle Molle Institute for Artificial Intelligence Research,APPROVED,Senior Researcher in Bayesian Networks and Probabilistic Graphical Models,2019.0,,45.0,Marco,Scutari
+307,0000-0003-1109-2070,0000-0003-1109-2070,University of Toronto,APPROVED,,,,11.0,Anthony,Gramolini
+308,0000-0003-3375-7256,0000-0003-3375-7256,,APPROVED,,,,35.0,Riccardo,Pinciroli
+309,0000-0002-0235-0421,0000-0002-0235-0421,,APPROVED,,,,4.0,Emanuele,Cavenaghi
+310,0000-0003-0384-3700,0000-0003-0384-3700,Ospedale San Raffaele,APPROVED,Head of Bioinformatics,2011.0,"bioinformatics, sequencing, epigenomics, genomics",76.0,Davide,Cittaro
+311,0000-0001-7084-6800,0000-0001-7084-6800,,APPROVED,,,,47.0,davide,ferrari
+312,0000-0002-0905-5927,0000-0002-0905-5927,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,MD,2023.0,"lymphoma, marginal zone, follicular, hepatitis C virus",137.0,Michele,Merli
+313,0000-0002-8279-729X,0000-0002-8279-729X,Universita' degli Studi di MILANO,APPROVED,Dottorandi,2020.0,,4.0,ANNALISA,BARSOTTI
+314,0000-0003-1989-5951,0000-0003-1989-5951,,APPROVED,,,,18.0,Zayer,Fakhreddine
+315,0000-0001-7755-0893,0000-0001-7755-0893,Università degli Studi di Modena e Reggio Emilia Dipartimento di Scienze Fisiche Informatiche e Matematiche,APPROVED,Dottorando,2019.0,,7.0,Gianluca,D'Addese
+316,0000-0001-7393-892X,0000-0001-7393-892X,Ospedale Maggiore Policlinico,APPROVED,MD,2013.0,,8.0,Stefano,Borsa
+317,0000-0001-8618-6499,0000-0001-8618-6499,,APPROVED,,,,1.0,Riccardo,Berto
+318,0000-0002-1765-863X,0000-0002-1765-863X,IRCCS Humanitas Research Hospital,APPROVED,,,,203.0,Elena,Clerici
+319,0000-0001-6798-9106,0000-0001-6798-9106,Korea University,APPROVED,Professor,2006.0,"Bioinformatics, machine learning, drug discovery, text mining, data mining",42.0,Jaewoo,Kang
+320,0000-0002-3769-8874,0000-0002-3769-8874,,APPROVED,,,,19.0,Teresa,Scantamburlo
+321,0000-0002-6385-4578,0000-0002-6385-4578,Yale University School of Medicine,APPROVED,Professor of Pathology,1994.0,"Gastrointestinal, liver, pancreatic pathology",2.0,Marie,Robert
+322,0000-0002-5764-7302,0000-0002-5764-7302,,APPROVED,,,,0.0,Apostolos,Ampatzoglou
+323,0000-0003-3293-2737,0000-0003-3293-2737,IRCCS Humanitas Research Hospital,APPROVED,radiographer,,,3.0,CARMELA,GALDIERI
+324,0000-0002-4517-1562,0000-0002-4517-1562,Princess Margaret Cancer Centre,APPROVED,Senior Scientist,2020.0,"chromatin, epigenomics, machine learning, dynamic Bayesian networks, graphical models, ChIP-seq, DNase-seq, RNA-seq, ENCODE",85.0,Michael,Hoffman
+325,0000-0002-2624-6661,0000-0002-2624-6661,Ethiopian Public Health Institute,APPROVED,​Associate Researcher I,2005.0,,70.0,Feyissa Challa,waka
+326,0000-0002-4162-9070,0000-0002-4162-9070,National Research University Higher School of Economics,APPROVED,Lecturer,2019.0,,13.0,Roman,Nesterov
+327,0000-0002-1775-3450,0000-0002-1775-3450,,APPROVED,,,,2.0,Paul,Veitch
+328,0000-0002-8046-7502,0000-0002-8046-7502,University of Brescia,APPROVED,Associate Professor,2023.0,"big data quality, linked data quality, quality assessment, semantic web, data management",34.0,Anisa,Rula
+329,0000-0002-5055-4031,0000-0002-5055-4031,,APPROVED,,,"Virtual Reality, Augmented Reality, eXtended Reality, Artificial Intelligent, Simulation, Semantic, Ontology",145.0,Marco,Sacco
+330,0009-0008-8597-4491,0009-0008-8597-4491,,APPROVED,,,,1.0,Andrei Gabriel,Taraboi
+331,0009-0004-1710-5500,0009-0004-1710-5500,University of Milano-Bicocca,APPROVED,,,,1.0,Davide Cesare,Monti
+332,0000-0001-7189-4724,0000-0001-7189-4724,Consiglio Nazionale delle Ricerche,APPROVED,Research Director,1989.0,"Web Search, Information Retrieval, Data Mining, Machine Learning, High Performance Computing",389.0,Raffaele,Perego
+333,0000-0003-0563-5091,0000-0003-0563-5091,Research Institute - Digital Human Rights Center,APPROVED,Senior Research and Senior Consultant,2023.0,,11.0,David M.,Schneeberger
+334,0000-0003-4423-2121,0000-0003-4423-2121,,APPROVED,,,,8.0,Alessio,Zanga
+335,0000-0001-6083-8786,0000-0001-6083-8786,,APPROVED,,,,4.0,Simona,Panelli
+336,0000-0002-6063-473X,0000-0002-6063-473X,Khalifa University of Science and Technology,APPROVED,"Director, System on Chip Center and Professor EECS",2018.0,"RRAM, Memristor, hardware accelerator, low power VLSI, Power Management ",281.0,Baker,Mohammad
+337,0000-0001-9081-8401,0000-0001-9081-8401,,APPROVED,,,,0.0,Bruno,Gaujal
+338,0000-0002-3854-7031,0000-0002-3854-7031,Instituto Politécnico Nacional,APPROVED,Associate professor B,2016.0,,43.0,Iván de Jesús,Salgado-Ramos
+339,0000-0002-7302-640X,0000-0002-7302-640X,,APPROVED,,,"Similarity measures, Agreement indices, Association coefficients, Cohen's kappa, Weighted kappa, Comparing partitions",0.0,Matthijs,Warrens
+340,0000-0001-5977-9467,0000-0001-5977-9467,Università degli Studi di Milano Dipartimento di Informatica,APPROVED,Researcher,2023.0,,20.0,Mauricio,Soto Gomez
+341,0000-0003-4205-8959,0000-0003-4205-8959,,APPROVED,,,,2.0,Francesco,Trevisani
+342,0000-0001-5435-1218,0000-0001-5435-1218,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,Medical Oncologist,2019.0,,163.0,Michele,Ghidini
+343,0000-0003-1448-2808,0000-0003-1448-2808,,APPROVED,,,,0.0,GIANPAOLO,CARRAFIELLO
+344,0000-0001-5109-9483,0000-0001-5109-9483,University of Milan,APPROVED,Ricercatori,2018.0,,144.0,Roberta,Ferrucci
+345,0000-0001-7447-0994,0000-0001-7447-0994,Ospedale San Raffaele,APPROVED,,2019.0,,15.0,Pietro,Indelicato
+346,0000-0002-7659-885X,0000-0002-7659-885X,,APPROVED,,,,44.0,MARCO,D'ADDARIO
+347,0000-0002-6528-3457,,,TO CHECK,,,,,,
+348,0000-0003-2973-5038,0000-0003-2973-5038,Ospedale San Raffaele,APPROVED,Unit Head,2008.0,,92.0,Giovanni,Tonon
+349,0000-0002-5911-5748,0000-0002-5911-5748,IRCCS Istituto Auxologico Italiano,APPROVED,Researcher,,,170.0,Giada,Pietrabissa
+350,0000-0002-0379-3283,0000-0002-0379-3283,Università degli Studi di Milano-Bicocca,APPROVED,Professore ordinario,2021.0,"cardiology, echocardiography, three-dimensional,, Goal 5: Gender equality, Goal 4: Quality education, Goal 3: Good health and well-being, LS7_8 - Health services, health care research, LS7_2 - Diagnostic tools (e.g. genetic, imaging), 86.10.30 - Istituti, cliniche e policlinici universitari, Ricerca Cardiovascolare ed Ematologica, Apparati Cardiovascolare e Repiratorio, Ricerca Medica, Organi e Apparati, Goal 10: Reduced inequalities",779.0,Luigi,Badano
+351,0000-0002-8896-5047,0000-0002-8896-5047,Polytechnic University of Turin,APPROVED,PhD student,2019.0,,5.0,Stanislav,Fedorov
+352,0009-0002-7428-2429,0009-0002-7428-2429,Università della Svizzera italiana,APPROVED,PhD Student,2019.0,,2.0,Rahim,Heydarov
+353,0000-0003-1838-018X,0000-0003-1838-018X,,APPROVED,,,,172.0,Hsin-Yao,Tang
+354,0000-0003-3495-8471,0000-0003-3495-8471,Leiden University,APPROVED,Associate Professor,2022.0,"Privacy, Data Protection, Algorithmic Regulation, Automated Decision Making, AI, Intellectual Property Law, Consumer Protection Law, Human Rights Law",42.0,Gianclaudio,Malgieri
+355,0000-0002-9691-4872,0000-0002-9691-4872,Medical University of Graz,APPROVED,,2004.0,,139.0,Heimo,Müller
+356,0000-0001-7491-1980,0000-0001-7491-1980,Université Grenoble Alpes,APPROVED,,2014.0,,0.0,Lorraine,Goeuriot
+357,0000-0003-0557-9878,0000-0003-0557-9878,,APPROVED,,,,13.0,Federico,Pederzolli
+358,0000-0002-8959-4321,0000-0002-8959-4321,Universidad de Alcalá,APPROVED,,,"Network, Exploration, Multipath, SDN, Disjoint paths ",17.0,Diego,Lopez-Pajares
+359,0000-0002-7593-8007,0000-0002-7593-8007,University of Milano-Bicocca,APPROVED,Assistant Professor,2019.0,"video games, media communication, media and sexualization",12.0,Alessandro,Gabbiadini
+360,0000-0003-3355-2170,0000-0003-3355-2170,,APPROVED,,,,54.0,Toni,Mancini
+361,0000-0003-1277-3732,0000-0003-1277-3732,,APPROVED,,,,0.0,Xiaofeng,Pan
+362,0000-0002-7461-6276,0000-0002-7461-6276,,APPROVED,,,,82.0,Francesco,LO PRESTI
+363,0000-0002-0556-7650,0000-0002-0556-7650,Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico,APPROVED,"MD, PhD / Dirigente Medico",,Pituitary Diseases; Hypogonadism,65.0,Emanuele,Ferrante
+364,0000-0002-2851-8376,0000-0002-2851-8376,Università degli Studi di Milano-Bicocca Dipartimento di Psicologia,APPROVED,Research fellow,2020.0,,54.0,Roberta,Adorni
+365,0000-0003-3069-1757,0000-0003-3069-1757,,APPROVED,,,,32.0,Katsuhiro,Nishinari
+366,0000-0002-7675-6942,0000-0002-7675-6942,,APPROVED,,,,63.0,Catia,Trubiani
+367,0000-0002-9470-8784,0000-0002-9470-8784,Università degli Studi di Modena e Reggio Emilia,APPROVED,Associate Professor,2018.0,,81.0,Riccardo,Lancellotti
+368,0000-0002-6086-9838,0000-0002-6086-9838,,APPROVED,,,,9.0,Claudio,Rota
+369,0000-0002-6352-6523,0000-0002-6352-6523,,APPROVED,,,,11.0,Xin,Li
+370,0000-0003-1383-1850,0000-0003-1383-1850,Local Healthcare Authority of Taranto,APPROVED,Executive ,2023.0,"Public Health, One Health, Epidemiology, Environment, Sensory Neuroscience, Aging",139.0,Rodolfo,Sardone
+371,0000-0002-9811-000X,0000-0002-9811-000X,RISE Research Institutes of Sweden,APPROVED,Senior Researcher,2021.0,,32.0,Terese,Besker
+372,0000-0001-9159-1632,0000-0001-9159-1632,,APPROVED,,,,39.0,Nicola Ivan,Lorè
+373,0000-0002-0901-0251,0000-0002-0901-0251,,APPROVED,,,,36.0,ENRICO,MAGLI
+374,0009-0002-3918-0099,0009-0002-3918-0099,University of Milano-Bicocca,APPROVED,,,,1.0,Michela,Oltolini
+375,0000-0002-6993-5440,0000-0002-6993-5440,University of Wrocław,APPROVED,associate professor,,Algorithms,58.0,Paweł,Gawrychowski
+376,0000-0003-2703-9274,0000-0003-2703-9274,University of California Davis,APPROVED,Assistant Professor,2015.0,,51.0,Fereydoun,Hormozdiari
+377,0000-0003-3515-3384,0000-0003-3515-3384,Tessera Therapeutics,APPROVED,Director,2023.0,"Gene therapy, Hematopoietic stem cell dynamics, Bioinformatics, Hematopoietic reconstitution, Retroviral vector integration sites",42.0,Andrea,Calabria
+378,0000-0001-5885-9297,0000-0001-5885-9297,The University of Auckland,APPROVED,Senior Lecturer,2021.0,"Software Engineering, Software Testing, Test Automation, Metamorphic Testing, Machine Learning Testing",30.0,Valerio,Terragni
+379,0000-0003-1477-1888,0000-0003-1477-1888,Tempus Labs,APPROVED,SVP Cancer Genomics,2021.0,"Cancer genomics, Computational biology",107.0,Justin H,Guinney
+380,0000-0002-1832-4578,0000-0002-1832-4578,,APPROVED,,,,0.0,Jagadish,ghosh
+381,0000-0002-4613-8115,0000-0002-4613-8115,,APPROVED,,,,0.0,Federico,Moiraghi Motta
+382,0000-0002-3018-0140,0000-0002-3018-0140,University of Groningen,APPROVED,,2020.0,"machine learning, natural language processing, software classification, program comprehension",9.0,Cezar,Sas
+383,0000-0003-2324-7164,0000-0003-2324-7164,,APPROVED,,,,7.0,Valentina,Crippa
+384,0000-0001-7605-9592,0000-0001-7605-9592,The Wistar Institute,APPROVED,Assistant Professor,,,62.0,Aaron,Goldman
+385,0000-0002-4329-0234,0000-0002-4329-0234,Georgia State University,APPROVED,Assistant Professor,2020.0,,39.0,Murray,Patterson
+386,0000-0003-4760-8702,0000-0003-4760-8702,,APPROVED,,,,162.0,Mao,Ye
+387,0000-0002-7738-997X,0000-0002-7738-997X,IRCCS Humanitas Research Hospital,APPROVED,Medical Doctor,2017.0,,43.0,Chiara,de Philippis
+388,0000-0001-6415-1535,0000-0001-6415-1535,San Raffaele Hospital,APPROVED,Head of Unit,2003.0,,0.0,Daniela Maria,Cirillo
+389,0000-0003-2618-3661,0000-0003-2618-3661,Fondazione Don Carlo Gnocchi,APPROVED,Research Coordinator,,,56.0,Marzia,Bedoni
+390,0000-0002-1934-5899,0000-0002-1934-5899,,APPROVED,,,,8.0,lorenzo,famiglini
+391,0000-0002-2374-346X,0000-0002-2374-346X,,APPROVED,,,,29.0,Wojciech,Palubicki
+392,0000-0002-5769-1311,0000-0002-5769-1311,,APPROVED,,,,0.0,Maurizio,Toccu
+393,0009-0006-3748-9198,0009-0006-3748-9198,Satispay,APPROVED,Software Engineer,2023.0,,0.0,Vincenzo,Corso
+394,0000-0002-1739-8110,0000-0002-1739-8110,,APPROVED,,,,71.0,SILVIA ELENA,CORCHS
+395,0000-0001-8522-6882,0000-0001-8522-6882,Fondazione IRCCS Istituto Nazionale dei Tumori,APPROVED,,2017.0,,31.0,Alice,Bernasconi
+396,0000-0002-0443-6114,0000-0002-0443-6114,The University of Manchester,APPROVED,,,"systems biology, non equilibrium thermodynamics, control analysis, silicon cell, ISBE, bioenergetics",744.0,Hans,Westerhoff
+397,0000-0003-3702-9694,0000-0003-3702-9694,University of Portsmouth,APPROVED,Reader in Engineering Geomorphology and Natural Hazards,,,1.0,Malcolm Christopher Zordan,Whitworth
+398,0000-0002-0931-1345,0000-0002-0931-1345,,APPROVED,,,,25.0,Ding,Liu
+399,0000-0002-2261-9926,0000-0002-2261-9926,,APPROVED,,,,7.0,VIVIANA,MASCARDI
+400,0000-0001-9579-5341,0000-0001-9579-5341,University of Turin,APPROVED,Professor of Neurology,2016.0,,439.0,Adriano,Chio
+401,0000-0003-0776-361X,0000-0003-0776-361X,Stanford University,APPROVED,Postdoctoral Researcher,2022.0,,49.0,FEDERICO,BIANCHI
+402,0000-0003-3337-233X,0000-0003-3337-233X,University of Toronto,APPROVED,Professor,,"statistics, health services research, clinical epidemiology, propensity score, observational studies",473.0,Peter,Austin
+403,0000-0003-1952-4544,0000-0003-1952-4544,,APPROVED,,,,1.0,Peijie,Dong
+404,0000-0002-6356-7026,0000-0002-6356-7026,,APPROVED,,,,13.0,FEDERICA,ADOBBATI
+405,0000-0003-3520-4022,0000-0003-3520-4022,Università degli Studi di Milano-Bicocca,APPROVED,Professore emerito,2019.0,"Bioinformatics, Systems Biology, Machine Learning, Cellular Automata",449.0,Giancarlo,Mauri
+406,0000-0002-7729-6976,0000-0002-7729-6976,Technical University of Denmark,APPROVED,,,,159.0,José,Soler
+407,0000-0001-8695-649X,0000-0001-8695-649X,IRCCS Ospedale San Raffaele,APPROVED,"Area Coordinator, Innovation Lab",2017.0,"epigenetics, genomics, next generation sequencing, single cell analysis",20.0,Francesca,Giannese
+408,0000-0001-5531-3854,0000-0001-5531-3854,Università degli Studi di Macerata Dipartimento di Economia e Diritto,APPROVED,RTDA Researcher,2023.0,,65.0,MAURO MARIA,BALDI
+409,0000-0002-8687-052X,0000-0002-8687-052X,University of Zurich,APPROVED,Senior Research Associate and Group Coordinator,2019.0,"Software Engineering, Machine Learning, Cloud Computing, Evolutionary Computation",29.0,Pasquale,Salza
+410,0000-0003-3425-2823,0000-0003-3425-2823,University of Milano-Bicocca,APPROVED,Ph.D. student,2021.0,,3.0,Jorge Eduardo,Avila Cartes
+411,0009-0000-1420-9946,0009-0000-1420-9946,,APPROVED,,,,4.0,Martina,Mattioli
+412,0000-0003-2721-4888,0000-0003-2721-4888,,APPROVED,,,,14.0,Nicola,Calonaci
+413,0000-0001-8842-9730,0000-0001-8842-9730,,APPROVED,,,,142.0,Paraskevi,Nomikou
+414,0000-0002-5816-6316,0000-0002-5816-6316,Universita' di Milano Bicocca,APPROVED,Ricercatori a tempo determinato,2022.0,,64.0,Fallati,Luca
+415,0000-0002-7692-7203,0000-0002-7692-7203,Università Ca' Foscari,APPROVED,Associate Professor,2021.0,"Systems Biology, Synthetic Biology, High Performance Computing, GPGPU Computing, Soft Computing, Fuzzy Logic, Evolutionary Computation, Swarm Intelligence",37.0,Marco,Nobile
+416,0000-0001-6252-9944,0000-0001-6252-9944,,APPROVED,,,,9.0,Andreea Liliana,Serban
+417,0000-0002-3210-3990,0000-0002-3210-3990,Tampere University,APPROVED,Associate Professor,2020.0,"Empirical Software Engineering, Software Maintenance and Evolution, Software Quality, Software Measurement, Agile Methods, Open Source Adoption",154.0,Davide,Taibi
+418,0000-0002-1710-3466,0000-0002-1710-3466,,APPROVED,,,,5.0,BRUNO,GUINDANI
+419,0009-0000-3153-0977,0009-0000-3153-0977,University of Milan,APPROVED,PhD Student,2022.0,,2.0,Lodovico,Sterzi
+420,0000-0002-5091-3030,0000-0002-5091-3030,Khalifa University of Science Technology and Research,APPROVED,,2014.0,,9.0,Nawaf,Almoosa
+421,0009-0008-0787-9456,0009-0008-0787-9456,,APPROVED,,,,1.0,Luca,Cavenaghi
+422,0000-0002-6087-2666,0000-0002-6087-2666,,APPROVED,,,,62.0,DANIELE,RAMAZZOTTI
+423,0000-0001-7062-5143,0000-0001-7062-5143,Università degli Studi di Milano,APPROVED,prof,,,88.0,gianluca,tartaglia
+424,0000-0003-2415-4592,0000-0003-2415-4592,"Democritus University of Thrace, School of Engineering",APPROVED,Professor (Assoc.),,"Information Retrieval, Databases",61.0,Avi,Arampatzis
+425,0000-0003-2978-1704,0000-0003-2978-1704,Politecnico di Milano,APPROVED,Full Professor,,,17.0,Giuseppe,Baselli
+426,0000-0002-1789-1706,0000-0002-1789-1706,,APPROVED,,,,69.0,Clelia,De Felice
+427,0000-0001-5824-6802,0000-0001-5824-6802,The Wistar Institute,APPROVED,,2018.0,,6.0,IRENE,BERTOLINI
+428,0000-0002-4198-3723,0000-0002-4198-3723,Università E-Campus,APPROVED,Phd Candidate,2020.0,,22.0,Valentina,Mancuso 
+429,0000-0002-6482-4768,0000-0002-6482-4768,,APPROVED,,,,0.0,Nicoletta,Noceti
+430,0000-0001-9548-8720,0000-0001-9548-8720,Glassform.ai,APPROVED,SW,,,1.0,Matteo,Mazzola
+431,0000-0003-0573-7178,0000-0003-0573-7178,,APPROVED,,,"sociology, cybernetics, interdisciplinarity",4.0,Roberto,Carradore
+432,0000-0001-6831-3044,0000-0001-6831-3044,,APPROVED,,,,8.0,Umberto,Restelli
+433,0009-0006-6821-3987,0009-0006-6821-3987,University of Milano-Bicocca,APPROVED,Student,2021.0,,1.0,Giacomo,Pracucci
+434,0000-0002-9370-2663,0000-0002-9370-2663,TU Wien,APPROVED,Professor,2021.0,"computer graphics, real-time rendering, procedural modeling, point-based graphics, computational design",187.0,Michael,Wimmer
+435,0000-0001-5303-8481,0000-0001-5303-8481,Universita' degli Studi di Bergamo,APPROVED,Ricercatori a tempo determinato,2023.0,,69.0,CLAUDIO,MENGHI
+436,0000-0003-0571-8460,0000-0003-0571-8460,Istituto Giannina Gaslini,APPROVED,,,,230.0,Riccardo,Haupt
+437,0000-0001-6419-3946,0000-0001-6419-3946,,APPROVED,,,,117.0,Elio,Salvadori
+438,0000-0002-7277-1205,0000-0002-7277-1205,,APPROVED,,,,0.0,Chiara,Pesenti
+439,0000-0003-2287-0229,0000-0003-2287-0229,,APPROVED,,,,28.0,Santosh,Anand
+440,0000-0003-3288-0631,0000-0003-3288-0631,University of Turin,APPROVED,Assistant Professor,2020.0,,46.0,Tiziana,Sanavia
+441,0000-0001-8294-8070,0000-0001-8294-8070,University of Colorado Anschutz Medical Campus,APPROVED,Associate Professor,2023.0,"Mitochondria, Metastasis, Prostate Cancer, Hsp90, Integrated Stress Response",61.0,M. Cecilia,Caino
+442,0000-0002-8385-9296,0000-0002-8385-9296,Humanitas University,APPROVED,Associate Professor,2017.0,,56.0,Roberto,Rusconi
+443,0000-0001-8924-9889,0000-0001-8924-9889,,APPROVED,,,,0.0,Davide,Mazzini
+444,0000-0003-1234-783X,0000-0003-1234-783X,,APPROVED,,,,21.0,LUCA,GRECI
+445,0000-0002-9089-5957,0000-0002-9089-5957,,APPROVED,,,,68.0,Rocco,Zaccagnino
+446,0000-0001-6850-6866,0000-0001-6850-6866,,APPROVED,,,,12.0,Daniele,DI LERNIA
+447,0000-0001-5569-3359,0000-0001-5569-3359,,APPROVED,,,,32.0,Davide,Orlandi
+448,0000-0002-6238-3858,0000-0002-6238-3858,,APPROVED,,,"Telecommunication, Network services, Network Protocols, Software Defined Networking, SDN",1.0,Angelos,Mimidis-Kentis
+449,0000-0001-7078-745X,0000-0001-7078-745X,University of Toronto,APPROVED,Professor of Medicine,2006.0,,348.0,Douglas,Lee
+450,0000-0002-0915-3711,0000-0002-0915-3711,Istituto Nazionale di Geofisica e Vulcanologia,APPROVED,Senior Technologist,1997.0,"Electronics, Informatics, Data Base",58.0,Danilo,Reitano
+451,0000-0001-6705-1716,0000-0001-6705-1716,IRCCS Ospedale San Raffaele,APPROVED,Researcher,2020.0,,29.0,Francesca,Saluzzo
+452,0000-0003-3256-0793,0000-0003-3256-0793,University of Milano-Bicocca,APPROVED,Postdoctoral researcher,2017.0,active tectonics,69.0,FABIO LUCA,BONALI
+453,0009-0002-6989-9117,0009-0002-6989-9117,ICIPE,APPROVED,Graduate Research,2021.0,,3.0,stephen ,kuria
+454,0000-0002-4788-1875,0000-0002-4788-1875,Istituti Clinici Scientifici Maugeri SpA IRCCS Milano,APPROVED,Director,2022.0,"Amyotrophic lateral sclerosis, Neuromuscular diseases, Tarlov's Cysts, Innovation Technology",189.0,Christian,Lunetta
+455,0000-0003-2925-527X,0000-0003-2925-527X,,APPROVED,,,,3.0,Davide,Farinati
+456,0000-0003-0745-6046,0000-0003-0745-6046,Yale University School of Medicine,APPROVED,,,"Human Genetics, Biological Psychiatry, Complex Traits, Evolutionary Biology",182.0,Renato,Polimanti
+457,0000-0003-2025-2830,0000-0003-2025-2830,,APPROVED,,,,16.0,Matúš,Dohál
+458,0000-0002-3140-7909,0000-0002-3140-7909,Teesside University,APPROVED,,,"Machine learning, Metabolism, Flux balance analysis, Genome-scale models, Multi-objective optimization, Multimodal learning, Multi-omics",100.0,Claudio,Angione
+459,0000-0002-0229-0465,0000-0002-0229-0465,University of Modena and Reggio Emilia,APPROVED,Full Professor,2019.0,,102.0,Roberto,Montemanni
+460,0000-0002-3012-1394,0000-0002-3012-1394,Illumina (United States),APPROVED,,2022.0,,28.0,Massimiliano,Rossi
+461,0000-0001-8298-4792,0000-0001-8298-4792,University of Milan,APPROVED,Research Associate,,,11.0,francesco,comandatore
+462,0000-0001-7362-3530,0000-0001-7362-3530,IRCCS Ospedale San Raffaele,APPROVED,Senior Bioinformatics Scientist,2020.0,,22.0,Chiara,Balestrieri
+463,0000-0003-1040-540X,0000-0003-1040-540X,University of Neuchâtel,APPROVED,,,,25.0,Maike E.,Debus
+464,0000-0003-3383-3298,0000-0003-3383-3298,University of Groningen,APPROVED,Ph.D. Student,2018.0,,7.0,Darius,Sas
+465,0000-0002-1229-5219,0000-0002-1229-5219,,APPROVED,,,,1.0,Andrea,Biaggi
+466,0000-0002-6740-8620,0000-0002-6740-8620,Università degli Studi di Brescia,APPROVED,Associate Professor,2023.0,,52.0,Angela,Locoro
+467,0009-0006-9725-2045,0009-0006-9725-2045,,APPROVED,,,,2.0,Stefano,Locci
+468,0000-0002-8445-395X,0000-0002-8445-395X,University of Genoa,APPROVED,Associate Professor,2019.0,,233.0,Luca,Oneto
+469,0000-0001-6219-8444,0000-0001-6219-8444,,APPROVED,,,,13.0,Leonardo,Crespi
+470,0000-0002-1933-6415,0000-0002-1933-6415,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,APPROVED,,2011.0,Flow Cytometry; Cell Sorting; Immunology; HCC; Chemoresistance; Cancer Stem Cells,45.0,Elena,Trombetta
+471,0000-0001-6571-327X,0000-0001-6571-327X,,APPROVED,,,,86.0,Aman,Singh
+472,0000-0001-7118-5186,0000-0001-7118-5186,,APPROVED,,,,57.0,OMBRETTA,MELAIU
+473,0000-0001-9393-3077,0000-0001-9393-3077,Universitat Politècnica de València,APPROVED,Researcher,2001.0," Parallel Computing, Cloud Computing,  Grid Computing,  Green Computing",37.0,Miguel,Caballer
+474,0000-0002-4222-4788,0000-0002-4222-4788,University of California Davis,APPROVED,,2017.0,,4.0,Parsoa,Khorsand
+475,0000-0001-9144-3074,0000-0001-9144-3074,,APPROVED,,,,20.0,ROSALBA,ZIZZA
+476,0000-0003-3872-8964,0000-0003-3872-8964,University of Siena,APPROVED,Director of Cardiovascular Disease Fellowship Program,2020.0,"Cardiology, Heart Failure, Echocardiography",366.0,Matteo,Cameli
+477,0000-0001-5454-2428,0000-0001-5454-2428,University of Twente,APPROVED,,,"Artificial Intelligence, Model-based Diagnosis, Bayesian Networks, Machine Learning",364.0,Peter,Lucas
+478,0009-0002-9750-2762,0009-0002-9750-2762,,APPROVED,,,,2.0,Ketai,Qiu
+479,0000-0002-3643-6493,0000-0002-3643-6493,University College London,APPROVED,Lecturer (Asst. Prof.) in Machine Learning,2019.0,,34.0,Aldo,Lipani
+480,0000-0002-6010-5619,0000-0002-6010-5619,Istituto Giannina Gaslini,APPROVED,Researcher,2019.0,"Clinical bioinformatics, Machine learning, Neuroblastoma, Hypoxia, Pediatric diseases",43.0,Davide,Cangelosi
+481,0000-0002-8001-7835,0000-0002-8001-7835,Fondazione Bruno Kessler,APPROVED,Researcher,2017.0,"Cybersecurity, Machine Learning, Software-defined Networking",44.0,Roberto,Doriguzzi Corin
+482,0009-0006-4553-2221,0009-0006-4553-2221,IRCCS Ospedale San Raffaele,APPROVED,Research technician,2020.0,,2.0,Caterina,Oneto
+483,0000-0002-6277-9502,0000-0002-6277-9502,,APPROVED,,,,0.0,Stella,Papaleo
+484,0000-0001-8424-0762,0000-0001-8424-0762,"Istituto di Scienza e Tecnologie dell'Informazione, Consiglio Nazionale delle Ricerche",APPROVED,,2013.0,,0.0,Davide,La Rosa
+485,0000-0001-8121-2168,0000-0001-8121-2168,Lahore University of Management Sciences,APPROVED,Research Associate,2018.0,"Data Mining, Machine Learning, Data Analytics, Algorithms, Cyber Security",57.0,Sarwan,Ali
+486,0000-0002-7185-0278,0000-0002-7185-0278,Khalifa University of Science Technology,APPROVED,Associate PRofessor,2012.0,,100.0,Hani,Saleh
+487,0000-0003-2964-745X,0000-0003-2964-745X,AGH University of Science and Technology,APPROVED,Associate Professor/Dr hab inz.,2001.0,"Agent based modeling, Cellular Automata, Computational intelligence, modeling and simulation, crowd ",113.0,Jarosław,Wąs
+488,0000-0001-9547-787X,0000-0001-9547-787X,University of Ljubljana,APPROVED,Full Professor,2020.0,"software engineering, cloud computing, distributed computing, semantics",87.0,Vlado,Stankovski
+489,0000-0002-9559-8476,0000-0002-9559-8476,,APPROVED,,,"Blockchain, Data Science, Machine Learning, Artificial Intelligence, Social Network Analysis, Natural Language Processing",3.0,Davide,Mancino
+490,0000-0002-9420-3751,0000-0002-9420-3751,National Research University Higher School of Economics,APPROVED,,,,74.0,Irina,Lomazova
+491,0000-0002-7156-0115,0000-0002-7156-0115,,APPROVED,,,,9.0,Wenbin,Zou
+492,0000-0001-5501-3368,0000-0001-5501-3368,Università degli Studi di Milano-Bicocca Dipartimento Informatica Sistemistica e Comunicazione,APPROVED,,,,0.0,Gianluca,Ascolani
+493,0000-0002-0294-2910,0000-0002-0294-2910,University of Vienna,APPROVED,,,,168.0,Karl,Stöger
+494,0000-0003-2853-3901,0000-0003-2853-3901,,APPROVED,,,,2.0,Marta,Maisto
+495,0000-0002-5355-0634,0000-0002-5355-0634,,APPROVED,,,,72.0,Daniele,Loiacono
+496,0000-0002-2567-9297,0000-0002-2567-9297,Università degli Studi dell'Insubria,APPROVED,Associate Professor,2014.0,"Data management, security",77.0,ALBERTO,TROMBETTA
+497,0000-0003-3689-327X,0000-0003-3689-327X,Dalhousie University,APPROVED,Associate Professor,2019.0,,161.0,Travis,Gagie
+498,0000-0002-6877-6169,0000-0002-6877-6169,University College London,APPROVED,,,,397.0,Giuseppe,Carrà
+499,0000-0002-1478-0402,0000-0002-1478-0402,University of Würzburg,APPROVED,Humboldt Professor for AI and Computer Vision (Full),2021.0,"computer vision, machine learning, AI, computational photography, compression, mobile AI, super-resolution",421.0,Radu,Timofte
