@@ -1,2 +1,3 @@
 # Citation-network
-![graphdb](https://github.com/user-attachments/assets/b3b774ab-5933-43fd-bfc9-79c0448f0bd7)
+
+<img width="950" alt="Graph" src="https://github.com/user-attachments/assets/37233051-fd95-4020-b327-a489d282f20d">
