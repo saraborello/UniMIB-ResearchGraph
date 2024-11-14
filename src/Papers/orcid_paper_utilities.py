@@ -3,23 +3,10 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ElementTree
 import pandas as pd
 import requests
+from dotenv import load_dotenv
+load_dotenv()
 
-
-#from Authors.orcid_data_utilities import get_orcid_profile
-
-def get_orcid_profile(orcid_id):
-    url = f'https://pub.orcid.org/v3.0/{orcid_id}'
-    headers = {
-        'Accept': 'application/json'
-    }
-
-    response = requests.get(url, headers=headers)
-
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Errore durante il recupero del profilo: {response.status_code}")
-        return None
+from Authors.orcid_data_utilities import get_orcid_profile
 
 
 def get_abstract_by_doi(doi):
