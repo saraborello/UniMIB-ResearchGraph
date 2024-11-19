@@ -1,0 +1,54 @@
+,Institution,openalex_id,country,type,homepage_url,works_count,cited_by_count
+0,University of Trieste,https://openalex.org/I142444530,IT,education,https://units.it,49554.0,1496449.0
+1,Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico,https://openalex.org/I2803066834,IT,healthcare,http://www.policlinico.mi.it/,35077.0,912836.0
+2,Technical University of Darmstadt,https://openalex.org/I31512782,DE,education,http://www.tu-darmstadt.de/,67094.0,1416016.0
+3,University of Milano-Bicocca,https://openalex.org/I66752286,IT,education,https://www.unimib.it,55823.0,1507299.0
+4,National Research Council,https://openalex.org/I4210155236,IT,nonprofit,https://www.cnr.it,67245.0,1744875.0
+5,University of Rome Tor Vergata,https://openalex.org/I116067653,IT,education,https://web.uniroma2.it,78888.0,2111135.0
+6,Johannes Kepler Universität Linz,https://openalex.org/I4399657969,,nonprofit,https://energieinstitut-linz.at,0.0,0.0
+7,University of Milan,https://openalex.org/I189158943,IT,education,https://www.unimi.it,185836.0,5498353.0
+8,University of Palermo,https://openalex.org/I900890020,IT,education,https://www.unipa.it,64439.0,1377006.0
+9,Chitkara University,https://openalex.org/I74319210,IN,education,http://www.chitkara.edu.in/,11992.0,83965.0
+10,Dalle Molle Institute for Artificial Intelligence Research,https://openalex.org/I2614128279,CH,facility,http://www.idsia.ch/,2401.0,205459.0
+11,University of Modena and Reggio Emilia,https://openalex.org/I122346577,IT,education,http://www.unimore.it/,51757.0,1563156.0
+12,Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,https://openalex.org/I2803066834,IT,healthcare,http://www.policlinico.mi.it/,35077.0,912836.0
+13,Korea University,https://openalex.org/I197347611,KR,education,https://www.korea.ac.kr,99342.0,2538599.0
+14,Yale University,https://openalex.org/I32971472,US,education,https://www.yale.edu,340642.0,16293748.0
+15,Princess Margaret Cancer Centre,https://openalex.org/I2802654988,CA,healthcare,http://www.uhn.ca/PrincessMargaret,28555.0,1138551.0
+16,Ethiopian Public Health Institute,https://openalex.org/I4210098092,ET,facility,http://www.ephi.gov.et/,2548.0,37094.0
+17,National Research University Higher School of Economics,https://openalex.org/I118501908,RU,education,http://www.hse.ru/en/,53854.0,350392.0
+18,University of Brescia,https://openalex.org/I79940851,IT,education,https://www.unibs.it,40386.0,1169811.0
+19,"Khalifa University of Science, Technology and Research",https://openalex.org/I176601375,AE,education,https://www.ku.ac.ae/,17366.0,276980.0
+20,Polytechnic University of Turin,https://openalex.org/I177477856,IT,education,https://www.polito.it,67250.0,1249896.0
+21,Leiden University,https://openalex.org/I121797337,NL,education,http://www.leiden.edu/,111210.0,4184154.0
+22,Medical University of Graz,https://openalex.org/I202276237,AT,education,http://www.medunigraz.at/en/,31228.0,942962.0
+23,RISE Research Institutes of Sweden,https://openalex.org/I2800664555,SE,other,https://www.ri.se,4785.0,65475.0
+24,University of Wrocław,https://openalex.org/I219388962,PL,education,http://www.uni.wroc.pl/,44788.0,561889.0
+25,University of California Davis,https://openalex.org/I84218800,US,education,https://www.ucdavis.edu,262370.0,10386144.0
+26,University of Auckland,https://openalex.org/I154130895,NZ,education,https://www.auckland.ac.nz/en.html,117232.0,3912603.0
+27,Tempus Labs,https://openalex.org/I4210114883,US,company,https://www.tempus.com/,641.0,12399.0
+28,Georgia State University,https://openalex.org/I181565077,US,education,https://www.gsu.edu,57354.0,1631050.0
+29,Vita-Salute San Raffaele University,https://openalex.org/I154387261,IT,education,https://www.unisr.it,31852.0,1023445.0
+30,University of Manchester,https://openalex.org/I28407311,GB,education,http://www.manchester.ac.uk/,263757.0,8920365.0
+31,University of Portsmouth,https://openalex.org/I63072094,GB,education,https://www.port.ac.uk,28694.0,780448.0
+32,Stanford University,https://openalex.org/I97018004,US,education,https://www.stanford.edu,463752.0,27038325.0
+33,Technical University of Denmark,https://openalex.org/I96673099,DK,education,https://dtu.dk,104025.0,3687973.0
+34,University of Macerata,https://openalex.org/I55133342,IT,education,https://www.unimc.it,5499.0,76111.0
+35,University of Zurich,https://openalex.org/I202697423,CH,education,https://uzh.ch/de.html,164008.0,6231170.0
+36,Università Ca' Foscari Venezia,https://openalex.org/I149461666,IT,education,https://www.unive.it,21701.0,305215.0
+37,Democritus University of Thrace,https://openalex.org/I147962203,GR,education,https://duth.gr,21126.0,391587.0
+38,Università degli Studi eCampus,https://openalex.org/I167322064,IT,education,https://www.uniecampus.it,1884.0,58662.0
+39,University of Bergamo,https://openalex.org/I11039511,IT,education,https://www.unibg.it,12906.0,246842.0
+40,University of Colorado Anschutz Medical Campus,https://openalex.org/I51713134,US,education,https://www.cuanschutz.edu/,39850.0,1089961.0
+41,Istituto Nazionale di Geofisica e Vulcanologia,https://openalex.org/I29078338,IT,facility,http://www.ingv.it,15145.0,403813.0
+42,ICIPE: International Centre of Insect Physiology and Ecology,https://openalex.org/I168685008,KE,facility,https://www.icipe.org,5211.0,134584.0
+43,Teesside University,https://openalex.org/I874055015,GB,education,https://tees.ac.uk,10746.0,202615.0
+44,Illumina (United States),https://openalex.org/I178645029,US,company,http://www.illumina.com/,2414.0,208873.0
+45,University of Neuchâtel,https://openalex.org/I57825437,CH,education,https://unine.ch,19791.0,495997.0
+46,University of Genoa,https://openalex.org/I83816512,IT,education,https://unige.it,83833.0,2106605.0
+47,University of Siena,https://openalex.org/I102064193,IT,education,https://www.unisi.it,49913.0,1430949.0
+48,Lahore University of Management Sciences,https://openalex.org/I207789805,PK,education,http://lums.edu.pk/index.php,5061.0,83249.0
+49,University of Ljubljana,https://openalex.org/I153976015,SI,education,http://www.uni-lj.si/,74979.0,1562245.0
+50,University of Vienna,https://openalex.org/I129774422,AT,education,https://www.univie.ac.at,138346.0,3789665.0
+51,University of Insubria,https://openalex.org/I115752224,IT,education,http://www.uninsubria.eu/,22815.0,613791.0
+52,University of Würzburg,https://openalex.org/I25974101,DE,education,http://www.uni-wuerzburg.de/en/ueber/university/,90861.0,3200863.0
