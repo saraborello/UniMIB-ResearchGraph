@@ -1,0 +1,11 @@
+,Institution,openalex_id,country,type,homepage_url,works_count,cited_by_count
+0,Università Vita Salute San Raffaele,https://openalex.org/I154387261,IT,education,https://www.unisr.it,31814.0,1021638.0
+1,University of Twente,https://openalex.org/I94624287,NL,education,https://www.utwente.nl,72095.0,2129284.0
+3,Université Grenoble Alpes,https://openalex.org/I899635006,FR,education,https://www.univ-grenoble-alpes.fr,99453.0,2223877.0
+4,Università degli Studi di Padova,https://openalex.org/I138689650,IT,education,https://www.unipd.it,173974.0,5040582.0
+5,University of Luxembourg,https://openalex.org/I186903577,LU,education,http://wwwen.uni.lu/,46905.0,525471.0
+6,Ecole Polytechnique,https://openalex.org/I5124864,CH,education,http://www.epfl.ch,142039.0,5994414.0
+7,Barcelona Supercomputing Center,https://openalex.org/I2799803557,ES,facility,https://www.bsc.es/,7134.0,185779.0
+8,Università degli Studi di Bergamo,https://openalex.org/I11039511,IT,education,https://www.unibg.it,12886.0,246510.0
+9,INAF,,,,,,
+10,SYSBIO.IT - Centre of Systems Biology,,,,,,

@@ -1,0 +1,62 @@
+,Institution,openalex_id,country,type,homepage_url,works_count,cited_by_count,corrected_university_name
+0,Université de Technologie de Compiègne,https://openalex.org/I102516824,FR,education,https://www.utc.fr,11336.0,247025.0,Université de Technologie de Compiègne
+1,Eindhoven University of Technology,https://openalex.org/I83019370,NL,education,https://www.tue.nl,82477.0,2319223.0,Eindhoven University of Technology
+2,University of Insubria,https://openalex.org/I115752224,IT,education,http://www.uninsubria.eu/,22815.0,613791.0,University of Insubria
+3,"Institute of Information Transmision Problems named after A.A. Kharkevich, RAS",,,,,,,Kharkiv Institute of Information Transmission Problems
+4,Istituto Nazionale di Fisica Nucleare,https://openalex.org/I160013858,IT,government,https://home.infn.it,18334.0,417196.0,Istituto Nazionale di Fisica Nucleare
+5,University of Pavia,https://openalex.org/I25217355,IT,education,http://www.unipv.eu/site/en/home.html,79937.0,2249170.0,University of Pavia
+6,Khalifa University,https://openalex.org/I176601375,AE,education,https://www.ku.ac.ae/,17310.0,275334.0,Khalifa University
+7,UiT Norges arktiske universitet,https://openalex.org/I78037679,NO,education,https://uit.no,38330.0,1137961.0,The Arctic University of Norway
+8,University of Warwick,https://openalex.org/I39555362,GB,education,http://www2.warwick.ac.uk/,117123.0,3473513.0,University of Warwick
+9,Vrije Universiteit Amsterdam,https://openalex.org/I865915315,NL,education,https://vu.nl/,99762.0,3735137.0,Vrije Universiteit Amsterdam
+10,HUMANITAS UNIVERSITY,https://openalex.org/I1339471597,IT,education,http://www.hunimed.eu/,15491.0,386729.0,HUMANITAS UNIVERSITY
+11,Fraunhofer Portugal ,https://openalex.org/I4210157425,PT,nonprofit,http://www.fraunhofer.pt/en,447.0,4120.0,Fraunhofer Portugal 
+12,Universidade Nova de Lisboa,https://openalex.org/I83558840,PT,education,http://www.unl.pt/en/,50378.0,1067359.0,Universidade Nova de Lisboa
+13,Universita della Svizzera Italiana,,,,,,,University of Lugano
+14,Universität Hohenheim,https://openalex.org/I110079840,DE,education,https://www.uni-hohenheim.de/english,27332.0,843223.0,Hohenheim University
+15,"Universita` degli Studi di ROMA ""La Sapienza""",https://openalex.org/I861853513,IT,education,https://www.uniroma1.it,210242.0,5146387.0,Sapienza University of Rome
+16,Libera Università di Bolzano,https://openalex.org/I171543936,IT,education,https://www.unibz.it,11181.0,218783.0,Free University of Bozen-Bolzano
+17,Università degli Studi di Modena e Reggio Emilia,https://openalex.org/I122346577,IT,education,http://www.unimore.it/,51757.0,1563156.0,University of Modena and Reggio Emilia
+18,European Institute of Oncology,https://openalex.org/I6141010,IT,healthcare,https://www.ieo.it/en/,18483.0,839996.0,European Institute of Oncology
+19,European Bioinformatics Institute,https://openalex.org/I1303153112,GB,facility,http://www.ebi.ac.uk/,9049.0,1082850.0,European Bioinformatics Institute
+20,Radboud Universitair Medisch Centrum,https://openalex.org/I2802934949,NL,healthcare,https://www.radboudumc.nl,68106.0,2780578.0,Radboud University Medical Center
+21,Universität Bielefeld,https://openalex.org/I20121455,DE,education,http://www.uni-bielefeld.de/(en)/,51967.0,1224023.0,Bielefeld University
+22,Istituto Auxologico Italiano Istituto Scientifico San Luca,https://openalex.org/I4210134201,IT,healthcare,https://www.auxologico.it/,11621.0,400275.0,Istituto Auxologico Italiano
+23,Dublin Institute of Technology,https://openalex.org/I4387153685,IE,education,http://www.dit.ie/,0.0,0.0,Dublin Institute of Technology
+24,Institut Pasteur,https://openalex.org/I157536573,FR,nonprofit,https://www.pasteur.fr,52494.0,2766971.0,Institut Pasteur
+25,Università degli Studi del Molise,https://openalex.org/I129627893,IT,education,http://www.unimol.it/,10124.0,243172.0,University of Molise
+26,National University of Defense Technology,https://openalex.org/I170215575,CN,education,http://www.nudt.edu.cn/index_eng.htm,71637.0,668817.0,National University of Defense Technology
+27,Università degli Studi eCampus,https://openalex.org/I167322064,IT,education,https://www.uniecampus.it,1880.0,58399.0,Università degli Studi eCampus
+28,Università degli Studi di Roma La Sapienza,https://openalex.org/I861853513,IT,education,https://www.uniroma1.it,210242.0,5146387.0,Sapienza University of Rome
+29,Politecnico di Torino,,,,,,,Politecnico di Torino
+30,Delft University of Technology,https://openalex.org/I98358874,NL,education,https://www.tudelft.nl,142474.0,3886341.0,Delft University of Technology
+31,Fraunhofer AICOS,https://openalex.org/I2800274787,DE,facility,http://www.hhi.fraunhofer.de/,10906.0,255089.0,Fraunhofer Institute
+32, Faculty of Sciences ,https://openalex.org/I4210153903,SI,education,http://www.fkpv.si/?lang=en,120.0,653.0, Faculty of Sciences 
+33,Institut Jožef Stefan,https://openalex.org/I3006985408,SI,facility,https://ijs.si/ijsw,26502.0,662668.0,Jožef Stefan Institute
+34,Southeast Missouri State University,https://openalex.org/I161165907,US,education,http://www.semo.edu/,3249.0,45812.0,Southeast Missouri State University
+35,"University of the Witswatersrand, Johannesburg",https://openalex.org/I192619145,ZA,education,https://www.wits.ac.za,82596.0,1945832.0,University of the Witwatersrand
+36,Università Cattolica del Sacro Cuore ,https://openalex.org/I103320735,IT,education,https://www.unicatt.eu,64039.0,1674800.0,Università Cattolica del Sacro Cuore 
+37,Trinity College Dublin,https://openalex.org/I205274468,IE,education,https://www.tcd.ie/,77414.0,2540677.0,Trinity College Dublin
+38,Università degli Studi di Salerno,https://openalex.org/I131729948,IT,education,https://web.unisa.it,46350.0,1045027.0,University of Salerno
+39,University of Glasgow,https://openalex.org/I7882870,GB,education,http://www.gla.ac.uk/,161734.0,5315934.0,University of Glasgow
+40,Bristol Myers Squibb Co,,,,,,,"There is no university mentioned in the text ""Bristol Myers Squibb Co"". This is the name of a pharmaceutical company."
+41,Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato Consiglio Nazionale delle Ricerche,https://openalex.org/I4210155236,IT,nonprofit,https://www.cnr.it,67245.0,1744875.0,National Research Council
+42,Akademia Gorniczo-Hutnicza im Stanislawa Staszica w Krakowie,,,,,,,AGH University of Science and Technology
+43,IBFM-CNR,,,,,,,CNR Institute of Biomedical Technologies
+44,Kuwait University,https://openalex.org/I36721946,KW,education,http://www.kuniv.edu/ku,25447.0,482525.0,Kuwait University
+45,Radboud University Nijmegen,https://openalex.org/I145872427,NL,education,http://www.ru.nl/english/,167366.0,6645206.0,Radboud University Nijmegen
+46,Ontotext Corp,,,,,,,"There is no university mentioned in the text ""Ontotext Corp""."
+47,Amrita Vishwa Vidyapeetham Amrita School of Engineering Chennai,https://openalex.org/I81556334,IN,education,https://www.amrita.edu/,23134.0,205483.0,Amrita Vishwa Vidyapeetham
+48,University of Trieste,https://openalex.org/I142444530,IT,education,https://units.it,49440.0,1488452.0,University of Trieste
+49,Università della Svizzera Italiana,https://openalex.org/I57201433,CH,education,https://www.usi.ch,12473.0,298874.0,Università della Svizzera Italiana
+50,University of Perugia,https://openalex.org/I27483092,IT,education,https://www.unipg.it,57588.0,1716856.0,University of Perugia
+51,INAF - Osservatorio Astrofisico di Catania,,,,,,,Astrophysical Observatory of Catania
+52,Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie – Hans-Knöll-Institut,https://openalex.org/I4210162077,DE,facility,https://www.leibniz-hki.de,3442.0,139853.0,Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie – Hans-Knöll-Institut
+53,Clausthal University of Technology,https://openalex.org/I43980791,DE,education,https://www.tu-clausthal.de/Welcome.php.en,16133.0,279280.0,Clausthal University of Technology
+54,Sana'a University,https://openalex.org/I170535673,YE,education,https://su.edu.ye,5209.0,77873.0,Sana'a University
+55,University of Aberdeen,https://openalex.org/I195460627,GB,education,https://www.abdn.ac.uk,81518.0,2933569.0,University of Aberdeen
+56,Johns Hopkins University,https://openalex.org/I145311948,US,education,https://www.jhu.edu/,422212.0,20845382.0,Johns Hopkins University
+57,Sage Bionetworks,https://openalex.org/I1323236076,US,nonprofit,https://sagebionetworks.org,902.0,91946.0,Sage Bionetworks
+58,Università degli Studi di Trieste,https://openalex.org/I142444530,IT,education,https://units.it,49440.0,1488452.0,University of Trieste
+59,Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico,https://openalex.org/I2803066834,IT,healthcare,http://www.policlinico.mi.it/,35077.0,912836.0,Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico
+60,Technical University of Darmstadt,https://openalex.org/I31512782,DE,education,http://www.tu-darmstadt.de/,67094.0,1416016.0,Technical University of Darmstadt
