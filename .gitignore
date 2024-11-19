@@ -3,3 +3,4 @@
 __pycache__/
 citation-network/
 .vscode
+.env
