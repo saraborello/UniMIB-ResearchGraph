@@ -1,0 +1,31 @@
+,Institution,openalex_id,country,type,homepage_url,works_count,cited_by_count,corrected_university_name
+0,Cell Press,,,,,,,"There is no university mentioned in the text ""Cell Press"".  ""Cell Press"" is a publishing company."
+1,Universita degli Studi di Milano-Bicocca,https://openalex.org/I66752286,IT,education,https://www.unimib.it,55771.0,1503914.0,University of Milano-Bicocca
+2,Studio dentistico Serafin,,,,,,,"There is no university mentioned in the text ""Studio dentistico Serafin""."
+3,AmeriSave Mortgage Corporation,,,,,,,"There is no university mentioned in the text ""AmeriSave Mortgage Corporation""."
+4,Istituto Giannina Gaslini,https://openalex.org/I2801463291,IT,healthcare,http://www.gaslini.org/,14370.0,414173.0,Istituto Giannina Gaslini
+5,Politecnico di Milano,https://openalex.org/I93860229,IT,education,https://polimi.it,100828.0,1957422.0,Politecnico di Milano
+6,Moldova State University,https://openalex.org/I29920723,MD,education,http://usm.md/?lang=en,5479.0,22176.0,Moldova State University
+7,Jozef Stefan Institute,,,,,,,Jozef Stefan Institute
+8,Università di Pisa,https://openalex.org/I108290504,IT,education,https://www.unipi.it,112405.0,3053705.0,University of Pisa
+9,Taif University,https://openalex.org/I179331831,SA,education,https://www.tu.edu.sa,21280.0,289098.0,Taif University
+10,IRCCS Ospedale San Raffaele,https://openalex.org/I4210133214,IT,healthcare,http://www.hsr.it/,15993.0,479595.0,IRCCS Ospedale San Raffaele
+11,Graz University of Technology,https://openalex.org/I4092182,AT,education,https://www.tugraz.at,39203.0,989071.0,Graz University of Technology
+12,Spinque,,,,,,,"There is no university named ""Spinque""."
+13,Universidad de Alcalá,https://openalex.org/I189268942,ES,education,https://uah.es,35444.0,656594.0,Universidad de Alcalá
+14,Istituto Nazionale di Genetica Molecolare,,,,,,,National Institute of Molecular Genetics
+15,"Fondazione IRCCS Ospedale Maggiore Policlinico, University of Milan, Milan, Italy",https://openalex.org/I189158943,IT,education,https://www.unimi.it,185836.0,5498353.0,University of Milan
+16,Fraunhofer Portugal Research,https://openalex.org/I4210157425,PT,nonprofit,http://www.fraunhofer.pt/en,447.0,4120.0,Fraunhofer Portugal Research
+17,Finnish Institute of Molecular Medicine (FIMM),https://openalex.org/I133731052,FI,education,https://www.helsinki.fi/,174669.0,6424040.0,University of Helsinki
+18,ASST Centro Specialistico Ortopedico Traumatologico G. Pini - CTO,,,,,,,G. Pini - CTO
+19,University of Washington,https://openalex.org/I201448701,US,education,https://www.washington.edu,463043.0,21350686.0,University of Washington
+20,Fondazione Transform Transport ETS,https://openalex.org/I4403928271,,nonprofit,https://www.source-international.org,0.0,0.0,ETS
+21,AGH University of Science and Technology,,,,,,,AGH University of Science and Technology
+22,Dalhousie University,https://openalex.org/I129902397,CA,education,https://www.dal.ca,92278.0,2995488.0,Dalhousie University
+23,Fondazione IRCCS Istituto Nazionale dei Tumori,https://openalex.org/I4210156707,IT,healthcare,http://www.istitutotumori.mi.it/,22442.0,927265.0,Fondazione IRCCS Istituto Nazionale dei Tumori
+24,Scuola Universitaria Professionale della Svizzeria Italiana Dipartimento tecnologie innovative,https://openalex.org/I15196421,CH,education,http://www.supsi.ch/home_en.html,3914.0,75415.0,University of Applied Sciences and Arts of Southern Switzerland
+25,University of Turin,https://openalex.org/I55143463,IT,education,https://www.unito.it,112781.0,3140856.0,University of Turin
+26,University of Modena and Reggio Emilia,https://openalex.org/I122346577,IT,education,http://www.unimore.it/,51757.0,1563156.0,University of Modena and Reggio Emilia
+27,Universitetet i Oslo,https://openalex.org/I184942183,NO,education,http://www.uio.no/english/,150976.0,5018565.0,University of Oslo
+28,lastminute.com,,,,,,,"There is no university mentioned in the text ""lastminute.com"". This is the name of a travel website."
+29,IRCCS Istituto Auxologico Italiano,https://openalex.org/I4210134201,IT,healthcare,https://www.auxologico.it/,11621.0,400275.0,IRCCS Istituto Auxologico Italiano

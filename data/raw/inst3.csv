@@ -1,0 +1,32 @@
+,Institution,openalex_id,country,type,homepage_url,works_count,cited_by_count,corrected_university_name
+0,IRCCS Istituto Auxologico Italiano,https://openalex.org/I4210134201,IT,healthcare,https://www.auxologico.it/,11621.0,400275.0,IRCCS Istituto Auxologico Italiano
+1,The Wistar Institute,https://openalex.org/I102322052,US,facility,https://www.wistar.org,9625.0,660306.0,The Wistar Institute
+2,Enrico Fermi Center for Study and Research,https://openalex.org/I4210108754,IT,archive,http://www.centrofermi.it/,2632.0,92915.0,Enrico Fermi Center for Study and Research
+3,Sapienza University of Rome,https://openalex.org/I861853513,IT,education,https://www.uniroma1.it,210242.0,5146387.0,Sapienza University of Rome
+4,University of Milano-Bicocca,https://openalex.org/I66752286,IT,education,https://www.unimib.it,55771.0,1503914.0,University of Milano-Bicocca
+5,University of Toronto,https://openalex.org/I185261750,CA,education,https://www.utoronto.ca,483816.0,19067173.0,University of Toronto
+6,University of Florence,https://openalex.org/I45084792,IT,education,https://www.unifi.it,117496.0,3100387.0,University of Florence
+7,Gran Sasso Science Institute,https://openalex.org/I4210150763,IT,education,https://www.gssi.it,3712.0,162083.0,Gran Sasso Science Institute
+8,University of Alcalá,,,,,,,University of Alcalá
+9,Oslo University Hospital,https://openalex.org/I1281400175,NO,healthcare,http://www.oslo-universitetssykehus.no/om-oss/english,49928.0,1877207.0,Oslo University Hospital
+10,Cleveland Clinic,https://openalex.org/I1316902750,US,healthcare,http://my.clevelandclinic.org/,126244.0,4511578.0,Cleveland Clinic
+11,Politecnico di TORINO,,,,,,,Politecnico di Torino
+12,Università Cattolica del Sacro Cuore,https://openalex.org/I103320735,IT,education,https://www.unicatt.eu,64039.0,1674800.0,Università Cattolica del Sacro Cuore
+13,Ludwig-Maximilians-Universität München,https://openalex.org/I8204097,DE,education,https://www.lmu.de,201174.0,6559067.0,Ludwig-Maximilians-Universität München
+14,University of Milan,https://openalex.org/I189158943,IT,education,https://www.unimi.it,185836.0,5498353.0,University of Milan
+15,Technische Universität Wien,,,,,,,Vienna University of Technology
+16,Università degli Studi di Milano,https://openalex.org/I189158943,IT,education,https://www.unimi.it,185836.0,5498353.0,University of Milan
+17,Laboratoire d’Informatique et Systèmes,https://openalex.org/I4210114274,FR,facility,https://www.lis-lab.fr,8738.0,46547.0,Laboratoire d’Informatique et Systèmes
+18,Università degli Studi di Milano-Bicocca Dipartimento di Medicina e Chirurgia,,,,,,,University of Milan-Bicocca
+19,Universita' degli Studi di MILANO,https://openalex.org/I189158943,IT,education,https://www.unimi.it,185836.0,5498353.0,University of Milan
+20,Institute of Cancer Research,https://openalex.org/I142947616,GB,education,http://www.icr.ac.uk/,23781.0,1392045.0,Institute of Cancer Research
+21,University of Natural Resources and Life Sciences,,,,,,,University of Natural Resources and Life Sciences
+22,Izmir Institute of Technology,https://openalex.org/I120217413,TR,education,https://iyte.edu.tr,6663.0,114014.0,Izmir Institute of Technology
+23,Huazhong University of Science and Technology,https://openalex.org/I47720641,CN,education,http://english.hust.edu.cn/,212947.0,4064140.0,Huazhong University of Science and Technology
+24,Bocconi University,https://openalex.org/I71209653,IT,education,https://www.unibocconi.it,17275.0,499549.0,Bocconi University
+25,"University of Belgrade, Faculty of Mathematics",https://openalex.org/I4068193,RS,education,http://www.bg.ac.rs/en/,89082.0,1409853.0,University of Belgrade
+26,Khalifa University College of Engineering,https://openalex.org/I176601375,AE,education,https://www.ku.ac.ae/,17310.0,275334.0,Khalifa University
+27,Grenoble Ecole de Management,https://openalex.org/I68666633,FR,education,http://en.grenoble-em.com/,2836.0,43269.0,Grenoble Ecole de Management
+28,Tampere University,https://openalex.org/I166825849,FI,education,https://www.tuni.fi/en,69523.0,1884048.0,Tampere University
+29,EPFL - École Polytechnique Fédérale de Lausanne,https://openalex.org/I5124864,CH,education,http://www.epfl.ch,142039.0,5994414.0,École Polytechnique Fédérale de Lausanne
+30,Centre Nacional d'Anàlisi Genòmica,,,,,,,The correct name in English is **National Center for Genomic Analysis**.
