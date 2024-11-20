@@ -20,7 +20,7 @@ class Neo4jConnector:
 # Nuova Query Cypher
 query = """
 // Caricamento dei dati da authors.csv
-LOAD CSV WITH HEADERS FROM 'file:///authors.csv' AS author_row
+LOAD CSV WITH HEADERS FROM 'file:///Authors_internal.csv' AS author_row
 WITH author_row WHERE author_row.`ORCID ID` IS NOT NULL AND author_row.`ORCID ID` <> ""
 MERGE (a:Author {orcid: TRIM(author_row.`ORCID ID`)})
 SET a.nome = author_row.`Given Name`,
