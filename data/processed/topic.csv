@@ -1,272 +1,77 @@
-Topic,Field,Subfield,Domain
-Comprehensive Integration of Single-Cell Transcriptomic Data,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Genomic Landscape of Cancer and Mutational Signatures,"Biochemistry, Genetics and Molecular Biology",Cancer Research,Life Sciences
-Adversarial Robustness in Deep Learning Models,Computer Science,Artificial Intelligence,Physical Sciences
-Ribosome Structure and Translation Mechanisms,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-RNA Sequencing Data Analysis,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Stochasticity in Gene Regulatory Networks,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Efficacy and Resistance in CML Treatment,Medicine,Hematology,Health Sciences
-Metabolic Engineering and Synthetic Biology,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Machine Learning for Internet Traffic Classification,Computer Science,Artificial Intelligence,Physical Sciences
-Log Analysis and System Performance Diagnosis,Computer Science,Computer Networks and Communications,Physical Sciences
-Empirical Studies in Software Engineering,Computer Science,Information Systems,Physical Sciences
-Influence of Built Environment on Active Travel,Social Sciences,Transportation,Social Sciences
-Non-contact Physiological Monitoring Technology,Engineering,Biomedical Engineering,Physical Sciences
-Analysis and Applications of Heart Rate Variability,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences
-Modeling Pedestrian Dynamics and Evacuations,Engineering,Ocean Engineering,Physical Sciences
-Effects of Noise Pollution on Health and Well-being,Health Professions,Speech and Hearing,Health Sciences
-Effects of Whole Body Vibration Training,Medicine,Orthopedics and Sports Medicine,Health Sciences
-Analysis of Traffic Safety and Driver Behavior,Engineering,"Safety, Risk, Reliability and Quality",Physical Sciences
-Emotion Recognition and Analysis in Multimodal Data,Psychology,Experimental and Cognitive Psychology,Social Sciences
-Neuronal Oscillations in Cortical Networks,Neuroscience,Cognitive Neuroscience,Life Sciences
-Model-Driven Engineering in Software Development,Computer Science,Software,Physical Sciences
-Regulation of RNA Processing and Function,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Genomic Studies and Association Analyses,"Biochemistry, Genetics and Molecular Biology",Genetics,Life Sciences
-Genetic Architecture of Quantitative Traits,"Biochemistry, Genetics and Molecular Biology",Genetics,Life Sciences
-Microarray Data Analysis and Gene Expression Profiling,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Role of Long Noncoding RNAs in Cancer and Development,"Biochemistry, Genetics and Molecular Biology",Cancer Research,Life Sciences
-Text Compression and Indexing Algorithms,Computer Science,Artificial Intelligence,Physical Sciences
-Viral RNA Silencing and Plant Immunity,Agricultural and Biological Sciences,Plant Science,Life Sciences
-Multi-Criteria Decision Making,Decision Sciences,Management Science and Operations Research,Social Sciences
-Rough Sets Theory and Applications,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Handling Imbalanced Data in Classification Problems,Computer Science,Artificial Intelligence,Physical Sciences
-Logic Programming and Knowledge Representation,Computer Science,Artificial Intelligence,Physical Sciences
-Explainable Artificial Intelligence,Computer Science,Artificial Intelligence,Physical Sciences
-Data Clustering Techniques and Algorithms,Computer Science,Artificial Intelligence,Physical Sciences
-Artificial Intelligence in Medicine,Medicine,Health Informatics,Health Sciences
-Human Interaction with Automation Systems,Psychology,Social Psychology,Social Sciences
-Network Intrusion Detection and Defense Mechanisms,Computer Science,Computer Networks and Communications,Physical Sciences
-Advances in Transfer Learning and Domain Adaptation,Computer Science,Artificial Intelligence,Physical Sciences
-Characterization and Detection of Android Malware,Computer Science,Signal Processing,Physical Sciences
-Wireless Sensor Networks: Survey and Applications,Computer Science,Computer Networks and Communications,Physical Sciences
-Advanced Cryptographic Schemes and Protocols,Computer Science,Artificial Intelligence,Physical Sciences
-Security in Wireless Sensor Networks,Computer Science,Computer Networks and Communications,Physical Sciences
-Image Enhancement Techniques,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Machine Learning in Healthcare and Medicine,Health Professions,Health Information Management,Health Sciences
-Deep Learning for Wireless Signal Classification,Computer Science,Artificial Intelligence,Physical Sciences
-Memristive Devices for Neuromorphic Computing,Engineering,Electrical and Electronic Engineering,Physical Sciences
-Traffic Flow Prediction and Forecasting,Engineering,Building and Construction,Physical Sciences
-Biomedical Applications of Spectroscopy Techniques,"Biochemistry, Genetics and Molecular Biology",Biophysics,Life Sciences
-Multiobjective Optimization in Evolutionary Algorithms,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Robust Optimization for Risk Management and Finance,Decision Sciences,Management Science and Operations Research,Social Sciences
-Telemedicine in Global Healthcare,Medicine,"Public Health, Environmental and Occupational Health",Health Sciences
-Graph Neural Network Models and Applications,Computer Science,Artificial Intelligence,Physical Sciences
-Natural Language Processing,Computer Science,Artificial Intelligence,Physical Sciences
-Gaussian Processes in Machine Learning,Computer Science,Artificial Intelligence,Physical Sciences
-Data Mining Techniques and Applications,Computer Science,Information Systems,Physical Sciences
-Clustering of Time Series Data and Algorithms,Computer Science,Signal Processing,Physical Sciences
-Design and Control of Warehouse Operations,Engineering,Industrial and Manufacturing Engineering,Physical Sciences
-Impact of Big Data Analytics on Business Performance,"Business, Management and Accounting",Management Information Systems,Social Sciences
-Automated Software Testing Techniques,Computer Science,Software,Physical Sciences
-Archival Science and Digital Preservation,Arts and Humanities,Conservation,Social Sciences
-Security Challenges in Smart Grid Systems,Engineering,Control and Systems Engineering,Physical Sciences
-Management and Reproducibility of Scientific Workflows,Decision Sciences,Information Systems and Management,Social Sciences
-Statistical Mechanics of Complex Networks,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences
-Color Constancy and Colorimetry,Physics and Astronomy,"Atomic and Molecular Physics, and Optics",Physical Sciences
-Neuroaesthetics and Aesthetic Perception in Neuroscience,Neuroscience,Cognitive Neuroscience,Life Sciences
-Image Feature Retrieval and Recognition Techniques,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Image Quality Assessment in Multimedia Content,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Multispectral and Hyperspectral Image Fusion,Engineering,Media Technology,Physical Sciences
-Chemometrics in Analytical Chemistry and Food Technology,Chemistry,Analytical Chemistry,Physical Sciences
-Deep Learning in Computer Vision and Image Recognition,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Precision Agriculture Technologies,Agricultural and Biological Sciences,Plant Science,Life Sciences
-Speech Recognition Technology,Computer Science,Artificial Intelligence,Physical Sciences
-Swarm Intelligence Optimization Algorithms,Computer Science,Artificial Intelligence,Physical Sciences
-Computational Modeling of Visual Saliency Detection,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Shape Matching and Object Recognition,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Breath Analysis Technology,Engineering,Biomedical Engineering,Physical Sciences
-Automated Pavement Inspection and Maintenance,Engineering,Civil and Structural Engineering,Physical Sciences
-Single Image Super-Resolution Techniques,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Innovations in Visual Communication Design and Technology,Computer Science,Computer Graphics and Computer-Aided Design,Physical Sciences
-Autonomous Vehicle Technology and Safety Systems,Engineering,Automotive Engineering,Physical Sciences
-3D Geospatial Modelling Techniques,Earth and Planetary Sciences,Geology,Physical Sciences
-Stereo Vision and Depth Estimation,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Color Psychology and Product Design,Psychology,Social Psychology,Social Sciences
-Brain-Computer Interfaces in Neuroscience and Medicine,Neuroscience,Cognitive Neuroscience,Life Sciences
-Face Recognition and Analysis Techniques,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Visual Question Answering in Images and Videos,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Image Denoising Techniques and Algorithms,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Gesture Recognition in Human-Computer Interaction,Computer Science,Human-Computer Interaction,Physical Sciences
-Quantum Computing and Simulation,Computer Science,Artificial Intelligence,Physical Sciences
-Optimization Techniques for Antenna Arrays,Engineering,Aerospace Engineering,Physical Sciences
-Pediatric Pain Assessment and Management,Medicine,"Pediatrics, Perinatology and Child Health",Health Sciences
-Effects of Sleep Deprivation and Fatigue on Performance,Psychology,Experimental and Cognitive Psychology,Social Sciences
-Software Reliability Assessment and Prediction,Computer Science,Software,Physical Sciences
-Learning with Noisy Labels in Machine Learning,Computer Science,Artificial Intelligence,Physical Sciences
-Health Economics and Quality of Life Assessment,"Economics, Econometrics and Finance",Economics and Econometrics,Social Sciences
-Anomaly Detection in High-Dimensional Data,Computer Science,Artificial Intelligence,Physical Sciences
-Cone-Beam Computed Tomography in Dentistry,Dentistry,Oral Surgery,Health Sciences
-Ethical Implications of Artificial Intelligence,Social Sciences,Safety Research,Social Sciences
-Projections and Outcomes of Arthroplasty Surgery in the US,Medicine,Surgery,Health Sciences
-Artificial Intelligence in Service Industry,Computer Science,Artificial Intelligence,Physical Sciences
-Impact of Climate Change on Human Health,Environmental Science,"Health, Toxicology and Mutagenesis",Physical Sciences
-Activity Recognition in Pervasive Computing Environments,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Applications of Deep Learning in Medical Imaging,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Automated Analysis of Blood Cell Images,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Information Visualization and Visual Data Mining,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Inter-Rater Reliability in Scientific Studies,Decision Sciences,"Statistics, Probability and Uncertainty",Social Sciences
-Development and Evaluation of Clinical Guidelines,Medicine,"Public Health, Environmental and Occupational Health",Health Sciences
-Impact of Health Information Technology in Healthcare,Health Professions,Health Information Management,Health Sciences
-Visual Object Tracking and Person Re-identification,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Cloud Computing and Big Data Technologies,Computer Science,Information Systems,Physical Sciences
-Distributed Coordination in Online Robotics Research,Computer Science,Computer Networks and Communications,Physical Sciences
-Optimization Methods in Machine Learning,Computer Science,Artificial Intelligence,Physical Sciences
-Trajectory Data Mining and Analysis,Computer Science,Signal Processing,Physical Sciences
-Web Data Extraction and Crawling Techniques,Computer Science,Information Systems,Physical Sciences
-DNA Barcoding for Food Authentication and Fraud Detection,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Human Action Recognition and Pose Estimation,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Understanding Human Mobility Patterns,Social Sciences,Transportation,Social Sciences
-Semantic Web and Ontology Development,Computer Science,Artificial Intelligence,Physical Sciences
-Data Quality Assessment and Improvement,Decision Sciences,Management Science and Operations Research,Social Sciences
-Coronavirus Disease 2019 Research,Medicine,Infectious Diseases,Health Sciences
-Applications of 3D City Models,Engineering,Building and Construction,Physical Sciences
-Computational Complexity and Algorithmic Information Theory,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Genomic Rearrangements in Evolutionary Biology,"Biochemistry, Genetics and Molecular Biology",Genetics,Life Sciences
-Advanced Techniques in Bioimage Analysis and Microscopy,"Biochemistry, Genetics and Molecular Biology",Biophysics,Life Sciences
-Analysis of Electromyography Signal Processing,Engineering,Biomedical Engineering,Physical Sciences
-Information Overload in Knowledge Management and Work Performance,Decision Sciences,Information Systems and Management,Social Sciences
-Psychological and Social Impact of Humor and Laughter,Psychology,Social Psychology,Social Sciences
-Sleep and Insomnia,Psychology,Experimental and Cognitive Psychology,Social Sciences
-Blockchain and Internet of Things Integration,Computer Science,Information Systems,Physical Sciences
-DNA-based Computing and Data Storage,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Air Traffic Management and Conflict Resolution,Engineering,Aerospace Engineering,Physical Sciences
-Economic Impacts of Air Transportation Systems,"Economics, Econometrics and Finance","General Economics, Econometrics and Finance",Social Sciences
-Design and Optimization of Field-Programmable Gate Arrays and Application-Specific Integrated Circuits,Engineering,Electrical and Electronic Engineering,Physical Sciences
-Industry 4.0 and Digital Transformation in Manufacturing,Engineering,Industrial and Manufacturing Engineering,Physical Sciences
-Privacy-Preserving Techniques for Data Analysis and Machine Learning,Computer Science,Artificial Intelligence,Physical Sciences
-Digital Mental Health Interventions and Efficacy,Psychology,Applied Psychology,Social Sciences
-Technology Adoption and Aging Population,Social Sciences,Demography,Social Sciences
-Living Labs in Open Innovation Networks,"Business, Management and Accounting",Management of Technology and Innovation,Social Sciences
-Hyperspectral Image Analysis and Classification,Engineering,Media Technology,Physical Sciences
-Digital Soil Mapping Techniques,Environmental Science,Environmental Engineering,Physical Sciences
-Low Power Wide Area Network Technologies,Engineering,Electrical and Electronic Engineering,Physical Sciences
-Analysis of Electrocardiogram Signals,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences
-Role of Positive Emotions in Well-Being,Psychology,Social Psychology,Social Sciences
-Clustered Regularly Interspaced Short Palindromic Repeats and CRISPR-associated proteins,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Modeling and Control of Petri Nets in Systems,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Workflow Mining and Business Process Management,"Business, Management and Accounting",Management Information Systems,Social Sciences
-Adaptation to Concept Drift in Data Streams,Computer Science,Artificial Intelligence,Physical Sciences
-Autonomic Computing and Self-Adaptive Systems,Computer Science,Artificial Intelligence,Physical Sciences
-Software-Defined Networking and Network Virtualization,Computer Science,Computer Networks and Communications,Physical Sciences
-Mobile Health Interventions and Applications,Health Professions,General Health Professions,Health Sciences
-Internet of Things and Edge Computing,Computer Science,Computer Networks and Communications,Physical Sciences
-Innovation in E-Learning and Knowledge Management,Computer Science,Computer Science Applications,Physical Sciences
-Personality Traits and Their Impacts on Life Outcomes,Psychology,Clinical Psychology,Social Sciences
-Cardiotoxicity of Cancer Treatments,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences
-Promotion and Disease Reduction in Cardiovascular Health,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences
-Recommender System Technologies,Computer Science,Information Systems,Physical Sciences
-Learning and Inference in Bayesian Networks,Computer Science,Artificial Intelligence,Physical Sciences
-Coordination and Information Sharing in Supply Chains,"Business, Management and Accounting",Management Information Systems,Social Sciences
-Optimization of Multi-Armed Bandit Problems,Decision Sciences,Management Science and Operations Research,Social Sciences
-Genetics and Cultivation of Bananas,Agricultural and Biological Sciences,Plant Science,Life Sciences
-Security Challenges in Cloud Computing,Computer Science,Information Systems,Physical Sciences
-Statistical Machine Translation and Natural Language Processing,Computer Science,Artificial Intelligence,Physical Sciences
-The Spread of Misinformation Online,Social Sciences,Sociology and Political Science,Social Sciences
-Impact of Social Media on Well-being and Behavior,Social Sciences,Sociology and Political Science,Social Sciences
-Psychological Language Analysis in Social Media,Psychology,Social Psychology,Social Sciences
-Detection and Prevention of Phishing Attacks,Computer Science,Information Systems,Physical Sciences
-Biomedical Ontologies and Text Mining,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Lithium-ion Battery Management in Electric Vehicles,Engineering,Automotive Engineering,Physical Sciences
-Virtual Presence and Embodiment in VR Research,Computer Science,Human-Computer Interaction,Physical Sciences
-The Relationship Between Music and Anxiety Management,Psychology,Social Psychology,Social Sciences
-Understanding Attitudes Towards Public Transport and Private Car,Social Sciences,Transportation,Social Sciences
-Implications of Shared Autonomous Vehicle Services,Engineering,Automotive Engineering,Physical Sciences
-Self-Reconfigurable Robotic Systems and Modular Robotics,Engineering,Mechanical Engineering,Physical Sciences
-Colloidal Particles in Complex Systems,Materials Science,Materials Chemistry,Physical Sciences
-Combinatorial Optimization and Complexity Theory,Computer Science,Computational Theory and Mathematics,Physical Sciences
-System of Systems Engineering and Design,Engineering,Control and Systems Engineering,Physical Sciences
-Methods and Techniques for Agent-Based Modeling,Computer Science,Artificial Intelligence,Physical Sciences
-Reinforcement Learning Algorithms,Computer Science,Artificial Intelligence,Physical Sciences
-Distributed Fault Tolerance and Consistency in Systems,Computer Science,Computer Networks and Communications,Physical Sciences
-Medical Applications of Infrared Thermography,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Epidemiology and Management of Sepsis and Septic Shock,Medicine,Epidemiology,Health Sciences
-Radiomics in Medical Imaging Analysis,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Neuroblastoma Research and Treatment,Medicine,Neurology,Health Sciences
-Analysis of Gene Interaction Networks,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Challenges and Innovations in Bioinformatics Education,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Motivation and Behavior of Convention Attendees,Social Sciences,Sociology and Political Science,Social Sciences
-Prediction of Protein Subcellular Localization,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Detection and Handling of Multicollinearity in Regression Analysis,Mathematics,Statistics and Probability,Physical Sciences
-Epidemiology and Implications of Multimorbidity in Healthcare,Medicine,Epidemiology,Health Sciences
-Hepatitis C Infection and Treatment,Medicine,Hepatology,Health Sciences
-Epidemiology and Management of NAFLD,Medicine,Epidemiology,Health Sciences
-Diagnosis and Treatment of Heart Failure,Medicine,Cardiology and Cardiovascular Medicine,Health Sciences
-Neural Network Fundamentals and Applications,Computer Science,Artificial Intelligence,Physical Sciences
-Amyotrophic Lateral Sclerosis and Frontotemporal Dementia,Medicine,Neurology,Health Sciences
-Lymphoid Neoplasms,Medicine,Pathology and Forensic Medicine,Health Sciences
-Ecology and Evolution of Viruses in Ecosystems,Environmental Science,Ecology,Physical Sciences
-Developing Strategic Thinking Competency in Organizations,"Business, Management and Accounting",Strategy and Management,Social Sciences
-Diagnostic Methods for COVID-19 Detection,Medicine,Infectious Diseases,Health Sciences
-Advanced Cardiac Imaging Techniques and Diagnostics,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Application of Genetic Programming in Machine Learning,Computer Science,Artificial Intelligence,Physical Sciences
-Computational Methods in Drug Discovery,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Information Retrieval Techniques and Evaluation,Computer Science,Information Systems,Physical Sciences
-Process Fault Detection and Diagnosis in Industries,Engineering,Control and Systems Engineering,Physical Sciences
-Sentiment Analysis and Opinion Mining,Computer Science,Artificial Intelligence,Physical Sciences
-Antonio Gramsci and his Relevance in Contemporary Politics,Social Sciences,Sociology and Political Science,Social Sciences
-Quantum Information and Computation,Computer Science,Artificial Intelligence,Physical Sciences
-Wave Control in Complex Media,Physics and Astronomy,Acoustics and Ultrasonics,Physical Sciences
-Machine Fault Diagnosis and Prognostics,Engineering,Control and Systems Engineering,Physical Sciences
-Optimization of Staff Scheduling and Rostering,Decision Sciences,Management Science and Operations Research,Social Sciences
-Understanding Consumer Behavior in Retail Environments,"Business, Management and Accounting",Marketing,Social Sciences
-Vehicle Routing Problem and Variants,Engineering,Industrial and Manufacturing Engineering,Physical Sciences
-Optimization of Cutting and Packing Problems,Engineering,Industrial and Manufacturing Engineering,Physical Sciences
-Detection and Management of Retinal Diseases,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Expert Finding in Online Communities,Computer Science,Information Systems,Physical Sciences
-Radiotherapy Physics and Technology,Physics and Astronomy,Radiation,Physical Sciences
-Analysis of Three-Dimensional Shape Structures,Engineering,Computational Mechanics,Physical Sciences
-Dynamic Modeling of Plant Form and Growth,Agricultural and Biological Sciences,Plant Science,Life Sciences
-Computer Graphics and Visualization Techniques,Computer Science,Computer Graphics and Computer-Aided Design,Physical Sciences
-Biologically Inspired Adaptive Network Design,Engineering,Biomedical Engineering,Physical Sciences
-Quaternionic Analysis and Applications,Mathematics,Applied Mathematics,Physical Sciences
-Matrix Algorithms and Iterative Methods,Computer Science,Computational Theory and Mathematics,Physical Sciences
-Statistical Physics of Opinion Dynamics,Physics and Astronomy,Statistical and Nonlinear Physics,Physical Sciences
-Program Analysis and Verification Techniques,Computer Science,Artificial Intelligence,Physical Sciences
-Smart Cities: Innovations and Challenges,Engineering,Media Technology,Physical Sciences
-Automated Detection of Hate Speech and Offensive Language,Computer Science,Artificial Intelligence,Physical Sciences
-Analysis of Brain Functional Connectivity Networks,Neuroscience,Cognitive Neuroscience,Life Sciences
-Health Effects of Air Pollution,Environmental Science,"Health, Toxicology and Mutagenesis",Physical Sciences
-Mechanisms of Alzheimer's Disease,Medicine,Physiology,Health Sciences
-Simultaneous Localization and Mapping,Engineering,Aerospace Engineering,Physical Sciences
-Synthetic Aperture Radar (SAR) Technology and Applications,Engineering,Aerospace Engineering,Physical Sciences
-"Diagnosis, Treatment, and Epidemiology of Nontuberculous Mycobacterial Diseases",Medicine,Epidemiology,Health Sciences
-Tuberculosis,Medicine,Infectious Diseases,Health Sciences
-"Sarcopenia: Definition, Diagnosis, and Implications",Medicine,Physiology,Health Sciences
-Cancer Immunotherapy,Medicine,Oncology,Health Sciences
-Global Challenge of Antibiotic Resistance in Bacteria,"Biochemistry, Genetics and Molecular Biology",Molecular Medicine,Life Sciences
-Management and Outcomes of Acute Kidney Injury,Medicine,Nephrology,Health Sciences
-Diagnosis and Treatment of Bladder Cancer,Medicine,Surgery,Health Sciences
-Role of Mediterranean Diet in Health Outcomes,Medicine,"Public Health, Environmental and Occupational Health",Health Sciences
-Chronic Kidney Disease and its Implications,Medicine,Nephrology,Health Sciences
-Renal Cell Carcinoma,Medicine,Pulmonary and Respiratory Medicine,Health Sciences
-Complications and Techniques in Thyroid Surgery,Medicine,Surgery,Health Sciences
-Biochemistry of Diabetic Complications,"Biochemistry, Genetics and Molecular Biology",Clinical Biochemistry,Life Sciences
-Gliomas,Medicine,Genetics,Health Sciences
-Metabolic Reprogramming in Cancer Biology,"Biochemistry, Genetics and Molecular Biology",Cancer Research,Life Sciences
-Deep Brain Stimulation for Neurological Disorders,Medicine,Neurology,Health Sciences
-Management of Vascular Malformations in the Brain,Medicine,Neurology,Health Sciences
-Automated Spine Segmentation and Identification,Engineering,Biomedical Engineering,Physical Sciences
-Diagnosis and Management of Pituitary Disorders,Medicine,"Endocrinology, Diabetes and Metabolism",Health Sciences
-Neural Mechanisms of Face Perception and Recognition,Neuroscience,Cognitive Neuroscience,Life Sciences
-Sphingolipid Signalling and Metabolism in Health and Disease,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Exosome Biology and Function in Intercellular Communication,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Pathophysiology of Lumbar Disc Degeneration and Treatment,Medicine,Pathology and Forensic Medicine,Health Sciences
-Global Burden of Chronic Pain,Medicine,Pharmacology,Health Sciences
-Neurological Manifestations of COVID-19 Infection,Medicine,Neurology,Health Sciences
-Impact of COVID-19 on Cancer Patients and Care,Medicine,Oncology,Health Sciences
-Functions and Regulation of RNA Editing by ADARs,"Biochemistry, Genetics and Molecular Biology",Molecular Biology,Life Sciences
-Management of Ingested Foreign Bodies and Food Impactions,Medicine,"Radiology, Nuclear Medicine and Imaging",Health Sciences
-Brain Fluid Dynamics and Waste Clearance Mechanisms,Neuroscience,Cellular and Molecular Neuroscience,Life Sciences
-Spina Bifida,Medicine,"Public Health, Environmental and Occupational Health",Health Sciences
-Dysphagia and Swallowing Disorders,Health Professions,Speech and Hearing,Health Sciences
-Augmented Reality and its Applications,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Global Impact of Medical Tourism Industry,Health Professions,General Health Professions,Health Sciences
-QoS-Aware Web Services Composition and Semantic Matching,Computer Science,Information Systems,Physical Sciences
-Principles and Interventions in Stroke Rehabilitation,Medicine,Rehabilitation,Health Sciences
-User Experience and Design Research in HCI,Computer Science,Human-Computer Interaction,Physical Sciences
-Cruise Tourism in the Caribbean and Beyond,Social Sciences,Transportation,Social Sciences
-Fabric Defect Detection in Industrial Applications,Engineering,Industrial and Manufacturing Engineering,Physical Sciences
-Application of 3D Printing in Medical Anatomy Education,Engineering,Biomedical Engineering,Physical Sciences
-Predictive Legal Technology in Judicial Decision Making,Social Sciences,Political Science and International Relations,Social Sciences
-Handwriting Recognition and Text Detection,Computer Science,Computer Vision and Pattern Recognition,Physical Sciences
-Underwater Acoustic Sensor Networks and Communication,Engineering,Ocean Engineering,Physical Sciences
+Subfield,Field,Domain
+Molecular Biology,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+Cancer Research,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+Artificial Intelligence,Computer Science,Physical Sciences
+Hematology,Medicine,Health Sciences
+Computer Networks and Communications,Computer Science,Physical Sciences
+Information Systems,Computer Science,Physical Sciences
+Transportation,Social Sciences,Social Sciences
+Biomedical Engineering,Engineering,Physical Sciences
+Cardiology and Cardiovascular Medicine,Medicine,Health Sciences
+Ocean Engineering,Engineering,Physical Sciences
+Speech and Hearing,Health Professions,Health Sciences
+Orthopedics and Sports Medicine,Medicine,Health Sciences
+"Safety, Risk, Reliability and Quality",Engineering,Physical Sciences
+Experimental and Cognitive Psychology,Psychology,Social Sciences
+Cognitive Neuroscience,Neuroscience,Life Sciences
+Software,Computer Science,Physical Sciences
+Genetics,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+Plant Science,Agricultural and Biological Sciences,Life Sciences
+Management Science and Operations Research,Decision Sciences,Social Sciences
+Computational Theory and Mathematics,Computer Science,Physical Sciences
+Health Informatics,Medicine,Health Sciences
+Building and Construction,Engineering,Physical Sciences
+Biophysics,"Biochemistry, Genetics and Molecular Biology",Life Sciences
+"Public Health, Environmental and Occupational Health",Medicine,Health Sciences
+Signal Processing,Computer Science,Physical Sciences
+Industrial and Manufacturing Engineering,Engineering,Physical Sciences
+Management Information Systems,"Business, Management and Accounting",Social Sciences
+Conservation,Arts and Humanities,Social Sciences
+Control and Systems Engineering,Engineering,Physical Sciences
+Information Systems and Management,Decision Sciences,Social Sciences
+Statistical and Nonlinear Physics,Physics and Astronomy,Physical Sciences
+"Atomic and Molecular Physics, and Optics",Physics and Astronomy,Physical Sciences
+Computer Vision and Pattern Recognition,Computer Science,Physical Sciences
+Media Technology,Engineering,Physical Sciences
+Analytical Chemistry,Chemistry,Physical Sciences
+Civil and Structural Engineering,Engineering,Physical Sciences
+Computer Graphics and Computer-Aided Design,Computer Science,Physical Sciences
+Automotive Engineering,Engineering,Physical Sciences
+Geology,Earth and Planetary Sciences,Physical Sciences
+Social Psychology,Psychology,Social Sciences
+Human-Computer Interaction,Computer Science,Physical Sciences
+Aerospace Engineering,Engineering,Physical Sciences
+"Pediatrics, Perinatology and Child Health",Medicine,Health Sciences
+Economics and Econometrics,"Economics, Econometrics and Finance",Social Sciences
+Oral Surgery,Dentistry,Health Sciences
+Safety Research,Social Sciences,Social Sciences
+Surgery,Medicine,Health Sciences
+"Health, Toxicology and Mutagenesis",Environmental Science,Physical Sciences
+"Radiology, Nuclear Medicine and Imaging",Medicine,Health Sciences
+"Statistics, Probability and Uncertainty",Decision Sciences,Social Sciences
+Health Information Management,Health Professions,Health Sciences
+Electrical and Electronic Engineering,Engineering,Physical Sciences
+Infectious Diseases,Medicine,Health Sciences
+"General Economics, Econometrics and Finance","Economics, Econometrics and Finance",Social Sciences
+Applied Psychology,Psychology,Social Sciences
+Demography,Social Sciences,Social Sciences
+Management of Technology and Innovation,"Business, Management and Accounting",Social Sciences
+Environmental Engineering,Environmental Science,Physical Sciences
+General Health Professions,Health Professions,Health Sciences
+Computer Science Applications,Computer Science,Physical Sciences
+Clinical Psychology,Psychology,Social Sciences
+Sociology and Political Science,Social Sciences,Social Sciences
+Mechanical Engineering,Engineering,Physical Sciences
+Materials Chemistry,Materials Science,Physical Sciences
+Epidemiology,Medicine,Health Sciences
+Neurology,Medicine,Health Sciences
+Statistics and Probability,Mathematics,Physical Sciences
+Hepatology,Medicine,Health Sciences
+Pathology and Forensic Medicine,Medicine,Health Sciences
+Ecology,Environmental Science,Physical Sciences
+Strategy and Management,"Business, Management and Accounting",Social Sciences
+Acoustics and Ultrasonics,Physics and Astronomy,Physical Sciences
+Marketing,"Business, Management and Accounting",Social Sciences
+Radiation,Physics and Astronomy,Physical Sciences
+Computational Mechanics,Engineering,Physical Sciences
+Applied Mathematics,Mathematics,Physical Sciences
