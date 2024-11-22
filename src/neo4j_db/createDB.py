@@ -20,7 +20,8 @@ class Neo4jConnector:
 # Nuova Query Cypher
 query = """
 // Caricamento dei dati da Authors_internal.csv
-LOAD CSV WITH HEADERS FROM 'file:///Authors_internal.csv' AS author_row
+LOAD CSV WITH HEADERS FROM 'file:///Authors.csv' AS author_row
+FIELDTERMINATOR ';'
 WITH author_row 
 WHERE TRIM(author_row.`ORCID ID`) IS NOT NULL AND TRIM(author_row.`ORCID ID`) <> ""
 MERGE (a:Author {orcid: TRIM(author_row.`ORCID ID`)})
@@ -33,7 +34,8 @@ SET a.nome = author_row.`Given Name`,
     a.organization = author_row.Organization,
     a.h_index = toInteger(author_row.`H Index`),
     a.citations = toInteger(author_row.Citations),
-    a.past_institutions = split(author_row.`Past Institutions`, ", ")
+    a.past_institutions = split(author_row.`Past Institutions`, ", "),
+    a.internal = author_row.Internal
 WITH 1 AS dummy // Mantieni il contesto per passare al blocco successivo
 
 // Caricamento dei dati da papers.csv e creazione delle relazioni
