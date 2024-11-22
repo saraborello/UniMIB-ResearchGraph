@@ -6,7 +6,38 @@ import requests
 from dotenv import load_dotenv
 load_dotenv()
 
-from Authors.orcid_data_utilities import get_orcid_profile
+
+def search_orcid_by_name(given_name, family_name):
+    base_url = "https://pub.orcid.org/v3.0/expanded-search"
+    query = f"given-names:{given_name} AND family-name:{family_name}"
+    url = f"{base_url}/?q={query}"
+
+    headers = {
+        'Accept': 'application/json'
+    }
+
+    response = requests.get(url, headers=headers)
+
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Errore durante la ricerca: {response.status_code}")
+        return None
+
+
+def get_orcid_profile(orcid_id):
+    url = f'https://pub.orcid.org/v3.0/{orcid_id}'
+    headers = {
+        'Accept': 'application/json'
+    }
+
+    response = requests.get(url, headers=headers)
+
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Errore durante il recupero del profilo: {response.status_code} con orcid {orcid_id}")
+        return None
 
 
 def get_abstract_by_doi(doi):
@@ -29,10 +60,10 @@ def get_abstract_by_doi(doi):
         return "Error for the doi {doi}"
 
 
-def get_contributors_from_crossref(doi: str):
+def get_contributors_from_crossref(doi: str, orcid_original: str):
     url = f"https://api.crossref.org/works/{doi}"
     response = requests.get(url)
-    author_orcids = []
+    author_orcids = [orcid_original]
 
     if response.status_code == 200:
         data = response.json()
@@ -41,12 +72,36 @@ def get_contributors_from_crossref(doi: str):
         for author in authors:
             orcid_link = author.get('ORCID', "")
             orcid = orcid_link[17:]
-            if orcid:
+            given = author.get("given", "")
+            family = author.get("family", "")
+
+            # Log author details if incomplete
+            if not given or not family:
+                continue
+
+            # Search ORCID if not available
+            if not orcid:
+                orcid_result = search_orcid_by_name(given, family)
+
+                if orcid_result is None:
+                    continue
+                else:
+                    # Safely access 'expanded-result'
+                    expanded_result = orcid_result.get('expanded-result', [])
+                    if not expanded_result:
+                        continue
+                    else:
+                        # Extract ORCID ID from the first result
+                        orcid = expanded_result[0].get('orcid-id', "No ORCID ID Found")
+
+            # Avoid duplicates
+            if orcid not in author_orcids:
                 author_orcids.append(orcid)
+
         return author_orcids
     else:
-        print(f"Could not retrieve authors using crossref for the paper with doi {doi}")
-        return ["", ""]
+        print(f"Could not retrieve authors using CrossRef for the paper with DOI {doi}")
+        return None
 
 
 def get_paper_details(doi):
@@ -84,7 +139,7 @@ def get_paper_details(doi):
         }
         return details
     else:
-        print(f"Error: Unable to fetch data. Status code {response.status_code}")
+        print(f"Error: Unable to fetch data. Status code {response.status_code}, with doi {doi}")
         return None
 
 
@@ -123,7 +178,9 @@ def get_papers_metainformation_staff(orcid: str) -> list[str]:
                     cites = details["cites"]
                     cited_by = details["cited_by"]
                     keywords = details["keywords"]
-                    authors = get_contributors_from_crossref(doi)
+                    authors = get_contributors_from_crossref(doi, orcid)
+                    if not authors:
+                        continue
                     abstract = get_abstract_by_doi(doi)
                     papers.append((doi, title, year, paper_type,  url, authors, topic,
                                    subfield, field, domain, cites, cited_by,
@@ -133,7 +190,7 @@ def get_papers_metainformation_staff(orcid: str) -> list[str]:
 
 
 def list_to_csv(papers: list) -> None:
-    with open('data/raw/papers1.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('data/raw/papers5.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['Doi', 'Title', 'Year', 'Type', 'Url', 'Authors',
                          'Topic', 'Subfield', 'Field', 'Domain', 'Cites',
@@ -159,7 +216,7 @@ def get_papers_metainformation_staffs(professor_df: pd.DataFrame) -> None:
 
 
 if __name__ == "__main__":
-    file_path = 'data/processed/Authors.csv'
+    file_path = 'data/processed/Authors_internal.csv'
     dataframe = pd.read_csv(file_path, sep=",")
-    dataframe_subset = dataframe.iloc[1:5]
-    get_papers_metainformation_staffs(dataframe)
+    dataframe_subset = dataframe.iloc[76:]
+    get_papers_metainformation_staffs(dataframe_subset)
