@@ -25,7 +25,7 @@ FIELDTERMINATOR ';'
 WITH institution_row
 WHERE TRIM(institution_row.openalex_id) IS NOT NULL AND TRIM(institution_row.openalex_id) <> ""
 MERGE (i:Institution {openalex_id: TRIM(institution_row.openalex_id)})
-SET i.name = institution_row.Institution,
+SET i.name = institution_row.corrected_university_name,
     i.country = institution_row.country,
     i.type = institution_row.type,
     i.homepage_url = institution_row.homepage_url,
