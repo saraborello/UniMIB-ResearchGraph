@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 
+
 def extract_department_and_name(ssd):
     if pd.isna(ssd):
         return pd.Series([None, None])
@@ -14,6 +15,7 @@ def extract_department_and_name(ssd):
         return pd.Series([department_code, specific_name])
     else:
         return pd.Series([None, ssd.strip()])
+
 
 def search_orcid_by_name(given_name, family_name):
     base_url = "https://pub.orcid.org/v3.0/expanded-search"
@@ -31,6 +33,7 @@ def search_orcid_by_name(given_name, family_name):
     else:
         print(f"Errore durante la ricerca: {response.status_code}")
         return None
+
 
 def get_orcid_profile(orcid_id):
     url = f'https://pub.orcid.org/v3.0/{orcid_id}'
@@ -51,29 +54,32 @@ def extract_profile_info(profile_data, orcid_id):
     # check if inside person there is given-names and family names
     # 0000-0002-1855-9887
     # 0000-0002-8762-8444
-    given_names = profile_data.get('person', {}).get('name', {}).get('given-names', {}).get('value', 'N/A')
-    family_name = profile_data.get('person', {}).get('name', {}).get('family-name', {}).get('value', 'N/A')
+    if profile_data.get('person', {}).get('name', {}):
+        given_names = profile_data.get('person', {}).get('name', {}).get('given-names', {}).get('value', 'N/A')
+        family_name = profile_data.get('person', {}).get('name', {}).get('family-name', {}).get('value', 'N/A')
 
-    keywords = profile_data.get('person', {}).get('keywords', {}).get('keyword', [])
-    keywords_list = [kw.get('content') for kw in keywords]
+        keywords = profile_data.get('person', {}).get('keywords', {}).get('keyword', [])
+        keywords_list = [kw.get('content') for kw in keywords]
 
-    employment_summary = profile_data.get('activities-summary', {}).get('employments', {}).get('affiliation-group', [])
-    if employment_summary and 'summaries' in employment_summary[0]:
-        summaries = employment_summary[0].get('summaries', [])
-        if summaries:
-            latest_employment = summaries[0].get('employment-summary', {})
-            role_title = latest_employment.get('role-title', 'N/A')
-            organization_name = latest_employment.get('organization', {}).get('name', 'N/A')
+        employment_summary = profile_data.get('activities-summary', {}).get('employments', {}).get('affiliation-group', [])
+        if employment_summary and 'summaries' in employment_summary[0]:
+            summaries = employment_summary[0].get('summaries', [])
+            if summaries:
+                latest_employment = summaries[0].get('employment-summary', {})
+                role_title = latest_employment.get('role-title', 'N/A')
+                organization_name = latest_employment.get('organization', {}).get('name', 'N/A')
+            else:
+                role_title = organization_name = 'N/A'
         else:
             role_title = organization_name = 'N/A'
-    else:
-        role_title = organization_name = 'N/A'
 
-    return {
-        'Given Name': given_names,
-        'Family Name': family_name,
-        'Keywords': ', '.join(keywords_list) if keywords_list else 'Nessuna',
-        'Role Title': role_title,
-        'Organization': organization_name,
-        'ORCID ID': orcid_id
-    }
+        return {
+            'Given Name': given_names,
+            'Family Name': family_name,
+            'Keywords': ', '.join(keywords_list) if keywords_list else 'Nessuna',
+            'Role Title': role_title,
+            'Organization': organization_name,
+            'ORCID ID': orcid_id
+        }
+
+    return None
