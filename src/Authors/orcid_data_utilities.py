@@ -51,9 +51,6 @@ def get_orcid_profile(orcid_id):
 
 
 def extract_profile_info(profile_data, orcid_id):
-    # check if inside person there is given-names and family names
-    # 0000-0002-1855-9887
-    # 0000-0002-8762-8444
     if profile_data.get('person', {}).get('name', {}):
         given_names = profile_data.get('person', {}).get('name', {}).get('given-names', {}).get('value', 'N/A')
         family_name = profile_data.get('person', {}).get('name', {}).get('family-name', {}).get('value', 'N/A')
