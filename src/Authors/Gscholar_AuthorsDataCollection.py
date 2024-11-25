@@ -2,7 +2,7 @@ import pandas as pd
 from scholarly import scholarly
 import csv
 
-def find_professor_by_organization_gs(name_query, organization_keywords):
+def find_professor_by_filters_gs(name_query, organization_keywords):
     search_query = scholarly.search_author(name_query)
     count = 0
     while count < 4:  
@@ -64,6 +64,12 @@ def update_dataset(dataset_path, organization_keywords):
             print(f"Citations already present for: {name_query}")  # Control text for already present citations
 
     return df
+
+def find_professor_gs(authors_df: pd.DataFrame):
+    
+    search_query = scholarly.search_author(name_query)
+    
+    return None
 
 if __name__ == "__main__":
     dataset_path = "../data/processed/Authors.csv" # Path to the dataset

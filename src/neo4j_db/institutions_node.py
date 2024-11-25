@@ -19,9 +19,8 @@ class Neo4jConnector:
 
 # Nuova Query Cypher
 query = """
-// Caricamento dei dati da InstitutionsFinale.csv e creazione dei nodi Institution
+// Caricamento dei dati e creazione dei nodi Institution, poi collegamento con gli autori
 LOAD CSV WITH HEADERS FROM 'file:///Institutions.csv' AS institution_row
-FIELDTERMINATOR ';'
 WITH institution_row
 WHERE TRIM(institution_row.openalex_id) IS NOT NULL AND TRIM(institution_row.openalex_id) <> ""
 MERGE (i:Institution {openalex_id: TRIM(institution_row.openalex_id)})
@@ -32,11 +31,13 @@ SET i.name = institution_row.corrected_university_name,
     i.works_count = toInteger(institution_row.works_count), // Conversione in intero
     i.cited_by_count = toInteger(institution_row.cited_by_count) // Conversione in intero
 WITH i
-
+// Aggiungi gli autori e collega solo se l'istituzione esiste
 MATCH (a:Author) // Seleziona gli autori già esistenti nel grafo
 WHERE a.organization IS NOT NULL
-MERGE (inst:Institution {name: a.organization}) // Crea o collega al nodo Institution
-MERGE (a)-[:AFFILIATED_WITH]->(inst)
+MATCH (inst:Institution {name: a.organization}) // Verifica che l'istituzione esista
+MERGE (a)-[:AFFILIATED_WITH]->(inst) // Crea la relazione solo se l'istituzione esiste
+
+
 
 """
 
