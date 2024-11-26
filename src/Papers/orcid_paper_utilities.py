@@ -5,39 +5,7 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 load_dotenv()
-
-
-def search_orcid_by_name(given_name, family_name):
-    base_url = "https://pub.orcid.org/v3.0/expanded-search"
-    query = f"given-names:{given_name} AND family-name:{family_name}"
-    url = f"{base_url}/?q={query}"
-
-    headers = {
-        'Accept': 'application/json'
-    }
-
-    response = requests.get(url, headers=headers)
-
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Errore durante la ricerca: {response.status_code}")
-        return None
-
-
-def get_orcid_profile(orcid_id):
-    url = f'https://pub.orcid.org/v3.0/{orcid_id}'
-    headers = {
-        'Accept': 'application/json'
-    }
-
-    response = requests.get(url, headers=headers)
-
-    if response.status_code == 200:
-        return response.json()
-    else:
-        print(f"Errore durante il recupero del profilo: {response.status_code} con orcid {orcid_id}")
-        return None
+from src.Authors.orcid_data_utilities import search_orcid_by_name, get_orcid_profile
 
 
 def get_abstract_by_doi(doi):
@@ -105,9 +73,6 @@ def get_contributors_from_crossref(doi: str, orcid_original: str):
 
 
 def get_paper_details(doi):
-    """
-    Retrieve detailed information for a paper using OpenAlex API with DOI.
-    """
     base_url = f"https://api.openalex.org/works/https://doi.org/{doi}"
     response = requests.get(base_url)
 
@@ -216,7 +181,7 @@ def get_papers_metainformation_staffs(professor_df: pd.DataFrame) -> None:
 
 
 if __name__ == "__main__":
-    file_path = 'data/processed/Authors_internal.csv'
+    file_path = 'data/raw/Authors_internal.csv'
     dataframe = pd.read_csv(file_path, sep=",")
     dataframe_subset = dataframe.iloc[76:]
     get_papers_metainformation_staffs(dataframe_subset)
