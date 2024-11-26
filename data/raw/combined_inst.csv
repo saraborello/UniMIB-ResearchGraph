@@ -1,0 +1,699 @@
+Unnamed: 0,Organization,openalex_id,country,type,homepage_url,works_count,cited_by_count
+0,University of Milano-Bicocca,https://openalex.org/I66752286,IT,education,https://www.unimib.it,56059.0,1524762.0
+1,University of Parma,https://openalex.org/I124601658,IT,education,https://www.unipr.it,54871.0,1541372.0
+2,Norwegian University of Science and Technology,https://openalex.org/I204778367,NO,education,http://www.ntnu.edu,97496.0,2738154.0
+3,Fondazione IRCCS Istituto Nazionale dei Tumori,https://openalex.org/I4210156707,IT,healthcare,http://www.istitutotumori.mi.it/,22524.0,939058.0
+4,Vrije Universiteit Amsterdam,https://openalex.org/I865915315,NL,education,https://vu.nl/,100241.0,3777232.0
+5,University of Exeter,https://openalex.org/I23923803,GB,education,https://www.exeter.ac.uk,89212.0,2818956.0
+6,Genome Institute of Singapore,https://openalex.org/I66068411,SG,facility,https://www.a-star.edu.sg/gis/home,4186.0,311173.0
+7,Charité Universitätsmedizin Berlin,https://openalex.org/I7877124,DE,healthcare,https://www.charite.de,128825.0,4418434.0
+8,Università della Svizzera Italiana,https://openalex.org/I57201433,CH,education,https://www.usi.ch,12483.0,299945.0
+9,Southeast University,https://openalex.org/I76569877,CN,education,https://www.seu.edu.cn,126784.0,2158532.0
+10,King Abdullah University of Science and Technology (KAUST),https://openalex.org/I71920554,SA,education,https://www.kaust.edu.sa,35072.0,1161494.0
+11,Universitätsmedizin Greifswald,https://openalex.org/I2799318839,DE,healthcare,https://www.medizin.uni-greifswald.de,17443.0,349869.0
+12,University of Zagreb Faculty of Electrical Engineering and Computing,https://openalex.org/I181343428,HR,education,http://www.unizg.hr/,89477.0,1147132.0
+13,RIKEN,https://openalex.org/I4210110652,JP,facility,https://www.riken.jp,40518.0,1232870.0
+14,Maastricht University,https://openalex.org/I34352273,NL,education,https://www.maastrichtuniversity.nl,87797.0,3290141.0
+15,Bristol Myers Squibb,https://openalex.org/I4210091812,US,company,https://www.bms.com/,19452.0,919722.0
+16,"Lincoln University,New Zealand",https://openalex.org/I184746854,NZ,education,https://www.lincoln.ac.nz,10626.0,339436.0
+17,Istituto Giannina Gaslini,https://openalex.org/I2801463291,IT,healthcare,http://www.gaslini.org/,14389.0,415145.0
+18,"Researcher , INMA Bucharest",,,,,,
+19,Sun Yat-sen University,https://openalex.org/I157773358,CN,education,https://www.sysu.edu.cn,222525.0,4384897.0
+20,University of Oslo,https://openalex.org/I184942183,NO,education,http://www.uio.no/english/,151651.0,5069890.0
+21,"Department of Semiconductor Physics and Energy Harvest-Storage Research Center, University of Ulsan",https://openalex.org/I40542001,KR,education,http://en.ulsan.ac.kr/contents/main/,55643.0,1284370.0
+22,University College London,https://openalex.org/I45129253,GB,education,http://www.ucl.ac.uk/,469549.0,18538581.0
+23,한국해양과학기술원,https://openalex.org/I133437993,KR,facility,http://eng.kiost.ac/,6816.0,135259.0
+24,The University of Texas Southwestern Medical Center,https://openalex.org/I867280407,US,healthcare,http://www.utsouthwestern.edu/,120918.0,6089347.0
+25,Sofia University Saint Kliment Ohridski,https://openalex.org/I58918642,BG,education,https://www.uni-sofia.bg/,22150.0,364513.0
+26,"Senior Lecturer, Universiti Teknologi MARA, 40450, Shah Alam, Selangor, MALAYSIA",https://openalex.org/I82724352,MY,education,https://uitm.edu.my,57647.0,461567.0
+27,Sathyabama Institute of Science and Technology,https://openalex.org/I43814544,IN,education,http://www.sathyabama.ac.in/,13046.0,122729.0
+28,"i3S - Instituto de Investigação e Inovação em Saúde, Universidade do Porto",https://openalex.org/I4210108577,PT,education,http://www.astro.up.pt/,1455.0,81685.0
+29,Cardiff University,https://openalex.org/I79510175,GB,education,http://www.cardiff.ac.uk/,104770.0,3634998.0
+30,The Netherlands Cancer Institute,https://openalex.org/I2898336195,NL,healthcare,https://www.nki.nl,30780.0,1815187.0
+31,"Faculty of Computer Science, University of Bialystok",https://openalex.org/I1323121030,PL,education,https://pb.edu.pl,11808.0,82897.0
+32,"Leibniz Institute for Natural Product Research and Infection  Biology - Hans Knöll Institute, Friedrich Schiller University Jena, Germany",https://openalex.org/I76198965,DE,education,https://www.uni-jena.de/en,66329.0,1941152.0
+33,University of Sydney,https://openalex.org/I129604602,AU,education,http://sydney.edu.au/,281957.0,9146632.0
+34,University of Technology Sydney,https://openalex.org/I114017466,AU,education,https://www.uts.edu.au,77740.0,2009105.0
+35,University of Saskatchewan,https://openalex.org/I32625721,CA,education,https://www.usask.ca/,82982.0,2214659.0
+36,Saint Petersburg State University ,https://openalex.org/I37355250,RU,education,http://www.sut.ru,2069.0,11444.0
+37,North China University of Water Resources and Electric Power,https://openalex.org/I198645480,CN,education,https://www.ncwu.edu.cn,10852.0,73549.0
+38,RIKEN Center for Integrative Medical Sciences,https://openalex.org/I4210150921,JP,facility,https://www.riken.jp/en/research/labs/ims/,7271.0,521051.0
+39,"Institute of Solide State physics, University of Latvia",https://openalex.org/I91123046,LV,education,https://www.lu.lv,18205.0,224842.0
+40,"Department of Electronics and Electrical Engineering, National Yang Ming Chiao Tung University",https://openalex.org/I148366613,TW,education,https://www.nycu.edu.tw/,116343.0,2420837.0
+41,Newcastle University,https://openalex.org/I84884186,GB,education,https://www.ncl.ac.uk,123489.0,4142674.0
+42,Inception Institute of Artificial Intelligence,https://openalex.org/I4210116052,AE,facility,https://www.inceptioniai.org/,837.0,56299.0
+43,University of Wisconsin–Madison,https://openalex.org/I135310074,US,education,http://www.wisc.edu/,327453.0,14388521.0
+44,Chapman University,https://openalex.org/I185071736,US,education,https://www.chapman.edu/,10729.0,179071.0
+45,Aix-Marseille University,https://openalex.org/I21491767,FR,education,http://www.univ-amu.fr/,100829.0,2273694.0
+46,Karolinska Institute and Capital Medical University,https://openalex.org/I28166907,SE,education,https://ki.se,194760.0,8810527.0
+47,Constellation Pharmaceuticals,https://openalex.org/I4210146481,US,company,http://www.constellationpharma.com/,267.0,15623.0
+48,Université Libre de Bruxelles,https://openalex.org/I132053463,BE,education,https://www.ulb.be,83473.0,2698449.0
+49,Kennesaw State University,https://openalex.org/I172980758,US,education,https://www.kennesaw.edu/,12334.0,218412.0
+50,"Faculty of informatics, USI, IDSIA - USI-SUPSI, Artificialy SA, Lugano",https://openalex.org/I57201433,CH,education,https://www.usi.ch,12483.0,299945.0
+51,"Qualcomm, Sandiego",,,,,,
+52,Unknown affiliation,,,,,,
+53,Huawei Noah's Ark Lab,,,,,,
+54,University of Colorado Boulder,https://openalex.org/I188538660,US,education,http://www.colorado.edu/,142100.0,6424268.0
+55,"Democritus University of Thrace, ENORA Innovation",https://openalex.org/I147962203,GR,education,https://duth.gr,21126.0,391587.0
+56,"Researcher in Bioinformatics, Institute for Biomedical Technologies",,,,,,
+57,Karolinska Institutet,https://openalex.org/I28166907,SE,education,https://ki.se,194760.0,8810527.0
+58,Sapienza University of Rome,https://openalex.org/I861853513,IT,education,https://www.uniroma1.it,210559.0,5168871.0
+59,Sejong University,https://openalex.org/I28777354,KR,education,http://www.sejong.ac.kr/,25475.0,665333.0
+60,Lastminute.com,,,,,,
+61,University of Toronto,https://openalex.org/I185261750,CA,education,https://www.utoronto.ca,484480.0,19130738.0
+62,Harvard University,https://openalex.org/I136199984,US,education,https://www.harvard.edu,659083.0,42087502.0
+63,University of Oxford,https://openalex.org/I40120149,GB,education,https://www.ox.ac.uk,400628.0,18308411.0
+64,University of Liverpool,https://openalex.org/I146655781,GB,education,http://www.liv.ac.uk/,172603.0,5022604.0
+65,University of Helsinki,https://openalex.org/I133731052,FI,education,https://www.helsinki.fi/,178357.0,6482564.0
+66,INRIA,https://openalex.org/I4210101348,FR,facility,https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes,3744.0,166890.0
+67,JOT INTERNET MEDIA (Head of Research Lab),,,,,,
+68,University of Macau,https://openalex.org/I204512498,MO,education,http://www.umac.mo/,33575.0,722542.0
+69,Dana-Farber Cancer Institute,https://openalex.org/I4210117453,US,facility,http://www.dana-farber.org/,73567.0,5389863.0
+70,Institute for Information Transmission Problems,https://openalex.org/I4210107660,RU,facility,http://iitp.ru/ru/about,6615.0,115100.0
+71,Breitmeier Messtechnik GmbH,,,,,,
+72,Baidu,https://openalex.org/I98301712,CN,company,https://www.baidu.com/,5330.0,125890.0
+73,Martin Luther University Halle-Wittenberg,https://openalex.org/I68956291,DE,education,http://www.uni-halle.de/?lang=en,69507.0,1264597.0
+74,North Carolina State University,https://openalex.org/I137902535,US,education,https://www.ncsu.edu/,161590.0,4778870.0
+75,Professor do Programa de Pós Graduação em Engenharia de Produção e Sistemas - PPGEPS UNISINOS,,,,,,
+76,NVIDIA,https://openalex.org/I4210127875,US,company,http://www.nvidia.com/page/home.html,2935.0,95345.0
+77,Örebro Universitet,https://openalex.org/I26437253,SE,education,https://www.oru.se,16982.0,451659.0
+78,Harvard Medical School,,,,,,
+79,Universitas Gadjah Mada,https://openalex.org/I165230279,ID,education,https://ugm.ac.id,57712.0,290274.0
+80,Medizinische Universität Wien,https://openalex.org/I76134821,AT,education,https://www.meduniwien.ac.at,84064.0,2603249.0
+81,National Taiwan University,https://openalex.org/I16733864,TW,education,http://www.ntu.edu.tw/english/,148170.0,3780221.0
+82,Aalto University,https://openalex.org/I9927081,FI,education,https://www.aalto.fi,50338.0,1240256.0
+83,Institut de Mathématiques de Toulouse,https://openalex.org/I84500057,FR,facility,https://www.math.univ-toulouse.fr/?lang=en,7917.0,80824.0
+84,Hong Kong Polytechnic University,https://openalex.org/I14243506,HK,education,http://www.polyu.edu.hk/web/en/home/index.html,122675.0,3318982.0
+85,Baylor College of Medicine,https://openalex.org/I181547552,US,education,https://www.bcm.edu/,146633.0,6532202.0
+86,University of Michigan,https://openalex.org/I27837315,US,education,https://www.umich.edu,921254.0,21680639.0
+87,LMU München,,,,,,
+88,Chinese Academy of Sciences,https://openalex.org/I19820366,CN,government,http://english.cas.cn/,825986.0,22692033.0
+89,University of Ljubljana,https://openalex.org/I153976015,SI,education,http://www.uni-lj.si/,75103.0,1568905.0
+90,Oregon University,https://openalex.org/I131249849,US,education,https://oregonstate.edu,100186.0,3570437.0
+91,University of Bologna,https://openalex.org/I9360294,IT,education,https://www.unibo.it,177575.0,4717597.0
+92,普林斯顿大学物理学教授,https://openalex.org/I20089843,US,education,https://www.princeton.edu,186234.0,10315334.0
+93,UKAEA,,,,,,
+94,Apple Inc,,,,,,
+95,Universidad de Granada,https://openalex.org/I173304897,ES,education,https://www.ugr.es,95508.0,2103980.0
+96,Humanity,https://openalex.org/I4210160261,JP,facility,https://www.chikyu.ac.jp,2214.0,79668.0
+97,Inria Centre de Recherche Saclay-Île-de-France,https://openalex.org/I4210101348,FR,facility,https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes,3744.0,166890.0
+98,"Illumina, Inc.",,,,,,
+99,UNLP,https://openalex.org/I874386039,AR,education,http://www.unlp.edu.ar/,49868.0,687351.0
+100,Centre Nacional d’Anàlisi Genòmica,,,,,,
+101,John Hopkins University,https://openalex.org/I145311948,US,education,https://www.jhu.edu/,423067.0,20892018.0
+102,Kyung Hee University,https://openalex.org/I35928602,KR,education,http://www.kyunghee.edu/,62754.0,1431823.0
+103,Curtin University,https://openalex.org/I205640436,AU,education,https://www.curtin.edu.au,73513.0,2071242.0
+104,ETH Zurich,https://openalex.org/I35440088,CH,education,https://ethz.ch,192206.0,7464545.0
+105,National University of Singapore,https://openalex.org/I165932596,SG,education,http://www.nus.edu.sg/,229726.0,7781521.0
+106,Gemelli University Polyclinic,https://openalex.org/I2802557943,IT,healthcare,https://www.policlinicogemelli.it/,22769.0,420220.0
+107,NYU Abu Dhabi,https://openalex.org/I120250893,AE,education,https://nyuad.nyu.edu/,5641.0,133164.0
+108,Università degli Studi di Modena e Reggio Emilia,https://openalex.org/I122346577,IT,education,https://www.unimore.it,51787.0,1566761.0
+109,Samsung Electronics,,,,,,
+110,University Clinic Tubingen,https://openalex.org/I8087733,DE,education,https://www.uni-tuebingen.de/en/university.html,125616.0,4014660.0
+111,Indian Institute of Technology Hyderabad,https://openalex.org/I65181880,IN,education,https://iith.ac.in,13823.0,216668.0
+112,Microsoft,https://openalex.org/I1290206253,US,company,https://www.microsoft.com/en-us,30235.0,1951261.0
+113,Australian National University,https://openalex.org/I118347636,AU,education,https://www.anu.edu.au,161892.0,5760789.0
+114,Sichuan University,https://openalex.org/I24185976,CN,education,https://scu.edu.cn,200424.0,3232466.0
+115,University of Udine,https://openalex.org/I129043915,IT,education,https://www.uniud.it,33266.0,932511.0
+116,Daegu University,https://openalex.org/I9323808,KR,education,https://eng.daegu.ac.kr/,6425.0,107375.0
+117,Delft University of Technology,https://openalex.org/I98358874,NL,education,https://www.tudelft.nl,142761.0,3913586.0
+118,INFN resercher,,,,,,
+119,Nankai University,https://openalex.org/I205237279,CN,education,https://nankai.edu.cn,87888.0,2009896.0
+120,Shanghai Jiao Tong University,https://openalex.org/I183067930,CN,education,https://www.sjtu.edu.cn,291651.0,5617823.0
+121,Peking University,https://openalex.org/I20231570,CN,education,https://www.pku.edu.cn,292446.0,6690963.0
+122,Genome Center,https://openalex.org/I4210151462,US,facility,https://www.nygenome.org/,1989.0,251167.0
+123,Cerebri AI,,,,,,
+124,Tampere University,https://openalex.org/I166825849,FI,education,https://www.tuni.fi/en,69660.0,1891126.0
+125,Heriot-Watt University,https://openalex.org/I32062511,GB,education,http://www.hw.ac.uk/,30771.0,778486.0
+126,ETS Montréal,,,,,,
+127,UNC Charlotte,https://openalex.org/I102149020,US,education,https://www.charlotte.edu,35704.0,814027.0
+128,KU Leuven,https://openalex.org/I99464096,BE,education,http://www.kuleuven.be/english,262603.0,8608428.0
+129,Instituto de Investigaciones Biológicas Clemente Estable,https://openalex.org/I4210157419,UY,nonprofit,http://www.iibce.edu.uy/,2402.0,65984.0
+130,Université de Carthage,https://openalex.org/I179097149,TN,education,http://www.ucar.rnu.tn/,12887.0,147583.0
+131,Microsoft Research,https://openalex.org/I4210164937,GB,company,http://research.microsoft.com/en-us/labs/cambridge/default.aspx,14691.0,887514.0
+132,UNC Catalyst for Rare Diseases,https://openalex.org/I114027177,US,education,https://www.unc.edu,255170.0,11796975.0
+133,Consiglio Nazionale delle Ricerche,,,,,,
+134,Elsevier,,,,,,
+135,Xidian University,https://openalex.org/I149594827,CN,education,https://www.xidian.edu.cn,67360.0,862994.0
+136,Amazon,https://openalex.org/I1311688040,US,company,https://www.amazon.com,9561.0,114734.0
+137,NEC Corporation,,,,,,
+138,King Abdullah University of Science and Technology ,https://openalex.org/I71920554,SA,education,https://www.kaust.edu.sa,35072.0,1161494.0
+139,University Of Bologna,https://openalex.org/I9360294,IT,education,https://www.unibo.it,177575.0,4717597.0
+140,The University of Manchester,,,,,,
+141,Bogor Agricultural University,,,,,,
+142,University of Calabria,https://openalex.org/I45204951,IT,education,https://www.unical.it,34598.0,835097.0
+143,Weill Cornell Medicine,https://openalex.org/I4387153466,US,education,https://weill.cornell.edu,0.0,0.0
+144,Fudan University,https://openalex.org/I24943067,CN,education,https://fudan.edu.cn,189197.0,4041246.0
+145,Tata Consultancy Services ,https://openalex.org/I55215948,IN,company,http://www.tcs.com/,5868.0,56416.0
+146,University of California San Diego,https://openalex.org/I36258959,US,education,https://ucsd.edu,303201.0,15733572.0
+147,KTH Royal Institute of Technology,https://openalex.org/I86987016,SE,education,https://www.kth.se,95654.0,2731238.0
+148,IRCCS Humanitas Research Hospital,https://openalex.org/I4210163047,IT,healthcare,http://www.humanitas.it/en,9539.0,188281.0
+149,CMAR,,,,,,
+150,Centrica Business Solutions,,,,,,
+151,Fundación Progreso y Salud,https://openalex.org/I4210086910,ES,other,https://www.sspa.juntadeandalucia.es/fundacionprogresoysalud/,363.0,6370.0
+152,A.O.U. Policlinico Vittorio Emanuele di Catania,https://openalex.org/I39063666,IT,education,https://www.unict.it,62886.0,1406176.0
+153,MobileODT inc.,,,,,,
+154,Chinese Academy of Geological Science,https://openalex.org/I3124059619,CN,education,https://www.cug.edu.cn/,51500.0,917358.0
+155,Xilinx Inc,,,,,,
+156,University Pierre Marie Curie,,,,,,
+157,KLE Technological University,https://openalex.org/I3132975163,IN,education,https://www.kletech.ac.in/,4245.0,47056.0
+158,Klick Inc,,,,,,
+159,"HUE, China.",,,,,,
+160,Akita University,https://openalex.org/I203765153,JP,education,http://www.akita-u.ac.jp/eng/,19749.0,299485.0
+161,Korea University,https://openalex.org/I197347611,KR,education,https://www.korea.ac.kr,99342.0,2538599.0
+162,Free University of Bozen-Bolzano,https://openalex.org/I171543936,IT,education,https://www.unibz.it,11201.0,220087.0
+163,Tongji University,https://openalex.org/I116953780,CN,education,https://www.tongji.edu.cn,147980.0,2445482.0
+164,Beijing University of Posts and Telecommunications,https://openalex.org/I139759216,CN,education,https://www.bupt.edu.cn,65667.0,703315.0
+165,Samsung Research China-Beijing,,,,,,
+166,Sony Interactive Entertainment,,,,,,
+167,Ben-Gurion University of the Negev,https://openalex.org/I124227911,IL,education,http://in.bgu.ac.il/en,84459.0,2020067.0
+168,University of British Columbia,https://openalex.org/I141945490,CA,education,https://www.ubc.ca/,303311.0,11828522.0
+169,Chinese Academy of Science,https://openalex.org/I4210088861,CL,facility,http://www.cassaca.org/,439.0,5845.0
+170,The System Biology Institute,,,,,,
+171,Skånes universitetssjukhus Lund Hematologiska kliniken,,,,,,
+172,Wuhan University of Technology,https://openalex.org/I196699116,CN,education,https://www.whut.edu.cn,74977.0,1192277.0
+173,University of Minnesota,https://openalex.org/I130238516,US,education,https://twin-cities.umn.edu,312363.0,13560780.0
+174,University of North Carolina,https://openalex.org/I114027177,US,education,https://www.unc.edu,255170.0,11796975.0
+175,Johns Hopkins University,https://openalex.org/I145311948,US,education,https://www.jhu.edu/,423067.0,20892018.0
+176,University of Illinois Urbana-Champaign,https://openalex.org/I157725225,US,education,https://illinois.edu,302411.0,12223029.0
+177,Jumping Rivers,,,,,,
+178,Canadian Nuclear Laboratories,https://openalex.org/I51057645,CA,other,http://www.cnl.ca/en/home/default.aspx,1884.0,32847.0
+179,Virginia Tech,https://openalex.org/I859038795,US,education,https://www.vt.edu,147076.0,4112884.0
+180,University of London,https://openalex.org/I124357947,GB,education,https://london.ac.uk,88103.0,3297663.0
+181,Structure Therapeutics,,,,,,
+182,Indiana University,https://openalex.org/I4210119109,US,education,https://bloomington.iu.edu,94381.0,4032065.0
+183,INAF - Osservatorio Astrofisico di Catania,,,,,,
+184,Hochschule für angewandte Wissenschaften Coburg,https://openalex.org/I157413458,DE,education,https://www.hs-coburg.de/,1335.0,11684.0
+185,IRCCS Istituto Ortopedico Galeazzi,https://openalex.org/I4210113215,IT,healthcare,http://www.galeazzi-gsd.it/,6175.0,129386.0
+186,Imperial College London,https://openalex.org/I47508984,GB,education,https://www.imperial.ac.uk,295818.0,12061669.0
+187,Shandong University,https://openalex.org/I154099455,CN,education,https://www.sdu.edu.cn,158841.0,2745167.0
+188,Fondazione Bruno Kessler,https://openalex.org/I2277624104,IT,facility,https://www.fbk.eu,8017.0,195820.0
+189,University of York,https://openalex.org/I52099693,GB,education,https://www.york.ac.uk,83431.0,3159674.0
+190,University of California,https://openalex.org/I95457486,US,education,https://www.berkeley.edu,388753.0,20962376.0
+191,Independent Researcher,,,,,,
+192,Pineta Grande Srl,,,,,,
+193,Central South University,https://openalex.org/I139660479,CN,education,https://www.csu.edu.cn,191039.0,3105106.0
+194,Bielefeld University,https://openalex.org/I20121455,DE,education,https://www.uni-bielefeld.de,52012.0,1226743.0
+195,University of Galway,https://openalex.org/I188760350,IE,education,https://www.universityofgalway.ie,39774.0,1046754.0
+196,Fondazione Don Carlo Gnocchi,,,,,,
+197,Federal University of Alagoas,,,,,,
+198,University of Rome Tor Vergata,https://openalex.org/I116067653,IT,education,https://web.uniroma2.it,79038.0,2124423.0
+199,Universidade do Minho,https://openalex.org/I99682543,PT,education,https://www.uminho.pt,57481.0,1156155.0
+200,Karolinska University Hospital,https://openalex.org/I1335113835,SE,healthcare,http://www.karolinska.se/en,69757.0,2968235.0
+201,The University of Tokyo,https://openalex.org/I74801974,JP,education,https://www.u-tokyo.ac.jp,449191.0,12255868.0
+202,Pennsylvania State University,https://openalex.org/I130769515,US,education,https://www.psu.edu,301027.0,10773853.0
+203,Taizhou University,https://openalex.org/I82760581,CN,education,https://www.tzc.edu.cn,9678.0,120822.0
+204,IRCCS Istituto Auxologico Italiano,https://openalex.org/I4210134201,IT,healthcare,https://www.auxologico.it/,11638.0,401775.0
+205,Istanbul University,https://openalex.org/I67581229,TR,education,https://www.istanbul.edu.tr,61828.0,1010458.0
+206,Chonnam National University,https://openalex.org/I111277659,KR,education,http://global.jnu.ac.kr/jnumain.aspx,42003.0,955386.0
+207,Institute for Plasma Science and Technology,https://openalex.org/I4210089414,DE,facility,http://www.inp-greifswald.de/,1960.0,51766.0
+208,Università Carlo Cattaneo,https://openalex.org/I2802304065,IT,education,http://en.liuc.it/,1180.0,25743.0
+209,University of Quebec in Montreal,https://openalex.org/I70931966,CA,education,https://www.umontreal.ca,158078.0,5192771.0
+210,King Abdullah University of Science and Technology Red Sea Research Center,https://openalex.org/I71920554,SA,education,https://www.kaust.edu.sa,35072.0,1161494.0
+211,Istituto di Scienze e Tecnologie per l'Energia e la Mobilità Sostenibili,,,,,,
+212,École Polytechnique Fédérale de Lausanne,https://openalex.org/I5124864,CH,education,http://www.epfl.ch,142203.0,6011262.0
+213,University of Würzburg,https://openalex.org/I25974101,DE,education,http://www.uni-wuerzburg.de/en/ueber/university/,90958.0,3208723.0
+214,Univesity of California,https://openalex.org/I95457486,US,education,https://www.berkeley.edu,388753.0,20962376.0
+215,Enseignante chercheuse à ISIMG,,,,,,
+216,Alten,https://openalex.org/I4210118665,IT,company,http://www.alten.it/,158.0,1673.0
+217,waseda university,https://openalex.org/I150744194,JP,education,https://www.waseda.jp/top/,75877.0,1153825.0
+218,Vrije Universiteit Brussel,https://openalex.org/I13469542,BE,education,http://www.vub.ac.be/en/,75941.0,1731643.0
+219,The University of Hong Kong,https://openalex.org/I47605537,CN,education,http://www.hsmc.edu.hk/,1772.0,23971.0
+220,Cornell Medical College,https://openalex.org/I4210152471,QA,education,http://qatar-weill.cornell.edu/,6725.0,156356.0
+221,CASIA,,,,,,
+222,Huawei,https://openalex.org/I2250955327,CN,company,http://www.huawei.com/en/,11210.0,149867.0
+223,Dalle Molle Institute for Artificial Intelligence Research,https://openalex.org/I2614128279,CH,facility,http://www.idsia.ch/,2403.0,206046.0
+224,Hanyang University Hospital,https://openalex.org/I4210142845,KR,healthcare,https://seoul.hyumc.com/,2957.0,58910.0
+225,Tamil Nadu Agricultural University,https://openalex.org/I134900695,IN,education,https://tnau.ac.in,12096.0,100801.0
+226,Université Gustave Eiffel,https://openalex.org/I4210154111,FR,education,https://www.univ-gustave-eiffel.fr/,17990.0,240694.0
+227,Harbin Institute of Technology,https://openalex.org/I204983213,CN,education,https://www.hit.edu.cn,181330.0,3046786.0
+228,Politecnico di Milano,https://openalex.org/I93860229,IT,education,https://polimi.it,100929.0,1963849.0
+229,University of South Australia,https://openalex.org/I170239107,AU,education,https://www.unisa.edu.au/,48808.0,1408713.0
+230,Vilnius University,https://openalex.org/I173212132,LT,education,https://vu.lt,32428.0,534723.0
+231,Mind Medicine Inc.,,,,,,
+232,Jožef Stefan Institute,https://openalex.org/I3006985408,SI,facility,https://ijs.si/ijsw,26669.0,675162.0
+233,Università degli Studi di Milano,https://openalex.org/I189158943,IT,education,https://www.unimi.it,186090.0,5514599.0
+234,FIOCRUZ,,,,,,
+235,Creighton University,https://openalex.org/I114493937,US,education,https://www.creighton.edu,23762.0,694826.0
+236,"Master of Geotechnical Engineering, China University of Mining and Technology",https://openalex.org/I25757504,CN,education,https://www.cumt.edu.cn,70502.0,955720.0
+237,"Associate Professor, Department of Humanistic Studies (DISTUM), University of Urbino Carlo Bo, Italy",,,,,,
+238,École Normale Supérieure de Lyon,https://openalex.org/I113428412,FR,education,http://www.ens-lyon.eu/ecole-normale-superieure-de-lyon-accueil-77247.kjsp,30038.0,826370.0
+239,École Normale Supérieure,https://openalex.org/I29607241,FR,other,https://www.ens.psl.eu/,41440.0,1508485.0
+240,Universidade de Sao Paulo,,,,,,
+241,"Research Scientist, ByteDance Ltd.",,,,,,
+242,Semmelweis University,https://openalex.org/I101202996,HU,education,http://semmelweis.hu/english/the-university/,47376.0,1041458.0
+243,European Bioinformatics Institute,https://openalex.org/I1303153112,GB,facility,http://www.ebi.ac.uk/,9073.0,1086379.0
+244,National Institute for Materials Science,https://openalex.org/I205401836,JP,facility,http://www.nims.go.jp/eng/,48397.0,1528583.0
+245,Santobono Children's Hospital,https://openalex.org/I4210125210,IT,healthcare,http://www.santobonopausilipon.it/home,1326.0,21458.0
+246,Hong Kong University of Science and Technology,https://openalex.org/I200769079,HK,education,https://hkust.edu.hk,77184.0,2776246.0
+247,PI ProCURE Catalan Institute of Oncology,,,,,,
+248,"Professor of Medicine/Health Research & Policy/Biomedical Data Science/Statistics, Stanford Univ",https://openalex.org/I97018004,US,education,https://www.stanford.edu,464428.0,27107887.0
+249,"Professor, Cancer Biology, Cedars-Sinai Medical Center",https://openalex.org/I1282927834,US,healthcare,http://cedars-sinai.edu/,44921.0,1865014.0
+250,CNP/CHUV,,,,,,
+251,ingeniería en administración,,,,,,
+252,"University of Zagreb, Faculty of Electrical Engineering and Computing",https://openalex.org/I181343428,HR,education,http://www.unizg.hr/,89477.0,1147132.0
+253,Researcher,,,,,,
+254,"Sinocloud Wisdom (Beijing) technology co., ltd",,,,,,
+255,Health Service Executive,https://openalex.org/I37076085,IE,healthcare,http://www.hse.ie/,2401.0,35200.0
+256,Roche Innovation Center Munich,,,,,,
+257,"Professor of Conservation and Sustainability, Charles Darwin University",https://openalex.org/I29894533,AU,education,http://www.cdu.edu.au/,12491.0,341688.0
+258,"Associate Professor, Department of Theoretical Chemistry, University of Vienna",https://openalex.org/I129774422,AT,education,https://www.univie.ac.at,138644.0,3817140.0
+259,"Professor of Chemistry, NYU Shanghai, ECNU, SUAT",,,,,,
+260,Abalone Bio,,,,,,
+261,Universidade da Coruña (ROR 01qckj285). CITIC-Research Center of Information and Communication,,,,,,
+262,Gran Sasso Science Institute,https://openalex.org/I4210150763,IT,education,https://www.gssi.it,3776.0,173126.0
+263,"Research Associate Professor, Biocomplexity Institute & Initiative, University of Virginia",https://openalex.org/I51556381,US,education,https://virginia.edu,176652.0,6371401.0
+264,"Director of MRC Biostatistics Unit and Professor of Biostatistics, University of Cambridge",https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+265,University of Washington Tacoma,https://openalex.org/I4210150356,US,education,https://www.tacoma.uw.edu/,3696.0,76738.0
+266,Associate professor of Civil Engineering at SWJTU,https://openalex.org/I4800084,CN,education,https://swjtu.edu.cn,64370.0,767547.0
+267,"Bioloomics, Inc.",,,,,,
+268,Prometheus Biosciences,https://openalex.org/I4210094228,US,company,https://www.prometheusbiosciences.com/,197.0,7897.0
+269,Atrium Health,https://openalex.org/I1282516798,US,healthcare,https://www.wakehealth.edu,17887.0,520681.0
+270,Babraham Institute,https://openalex.org/I1302113299,GB,facility,http://www.babraham.ac.uk/,6508.0,477934.0
+271,Universidade Federal do Paraná,https://openalex.org/I52418104,BR,education,https://ufpr.br,79279.0,848801.0
+272,International Crops Research institute for the Semi-Arid Tropics,https://openalex.org/I4210163774,IN,nonprofit,http://www.icrisat.org/,4656.0,161502.0
+273,Igenomix SL,,,,,,
+274,"CPES, Virginia Tech",https://openalex.org/I859038795,US,education,https://www.vt.edu,147076.0,4112884.0
+275,UCLA,https://openalex.org/I2801403999,US,healthcare,https://www.uclahealth.org/santa-monica/Pages/default.aspx,22101.0,838835.0
+276,Los Alamos National Laboratory,https://openalex.org/I1343871089,US,facility,http://lanl.gov/,127745.0,4055458.0
+277,Shenzhen University,https://openalex.org/I180726961,CN,education,https://www.szu.edu.cn,65855.0,1244086.0
+278,University of Science and Technology of China,https://openalex.org/I126520041,CN,education,https://ustc.edu.cn,162344.0,4127889.0
+279,Universitätsklinikum Krems,https://openalex.org/I4210120342,AT,healthcare,http://www.krems.lknoe.at/,1046.0,22890.0
+280,Chinese University of Hong Kong,https://openalex.org/I177725633,CN,education,http://www.cuhk.edu.hk/english/index.html,147286.0,4755530.0
+281,Xi'an Jiaotong University,https://openalex.org/I87445476,CN,education,https://www.xjtu.edu.cn,161698.0,2913456.0
+282,King Abdullah University of Science and Technology,https://openalex.org/I71920554,SA,education,https://www.kaust.edu.sa,35072.0,1161494.0
+283,Università degli Studi di Cagliari,https://openalex.org/I172446870,IT,education,http://www.unica.it/,43937.0,1049477.0
+284,Georgia State University,https://openalex.org/I181565077,US,education,https://www.gsu.edu,57354.0,1631050.0
+285,McGill University,https://openalex.org/I5023651,CA,education,https://www.mcgill.ca,253161.0,9813934.0
+286,Missouri State University,https://openalex.org/I119942284,US,education,http://www.missouristate.edu/,8984.0,160207.0
+287,University of Carthage,https://openalex.org/I179097149,TN,education,http://www.ucar.rnu.tn/,12887.0,147583.0
+288,Centre for Research and Technology Hellas/Information Technologies Institute,https://openalex.org/I4210134249,GR,facility,https://www.certh.gr,7903.0,148782.0
+289,University of Geneva,https://openalex.org/I114457229,CH,education,https://www.unige.ch/,107277.0,3922568.0
+290,Johannes Kepler Universität Linz,https://openalex.org/I4399657969,,nonprofit,https://energieinstitut-linz.at,0.0,0.0
+291,Josep Carreras Leukaemia Research Institute,https://openalex.org/I4210089592,ES,facility,http://www.carrerasresearch.org/en/,1876.0,40534.0
+292,Ontario Institute for Cancer Research,https://openalex.org/I112260969,CA,nonprofit,https://oicr.on.ca,11254.0,897686.0
+293,California Institute of Technology,https://openalex.org/I122411786,US,education,https://www.caltech.edu,163137.0,9051686.0
+294,Università della Svizzera italiana,https://openalex.org/I57201433,CH,education,https://www.usi.ch,12483.0,299945.0
+295,"University of California, San Diego",,,,,,
+296,Universidad de Guadalajara,https://openalex.org/I193181351,MX,education,https://www.udg.mx,34886.0,281619.0
+297,University of Zagreb,https://openalex.org/I181343428,HR,education,http://www.unizg.hr/,89477.0,1147132.0
+298,Jeonbuk National University,https://openalex.org/I80611190,KR,education,http://www.jbnu.ac.kr/kor/,39607.0,803978.0
+299,Sage Bionetworks,https://openalex.org/I1323236076,US,nonprofit,https://sagebionetworks.org,909.0,94664.0
+300,National Cancer Institute,https://openalex.org/I4210140884,US,government,http://www.cancer.gov/,104793.0,6918021.0
+301,Shanxi University,https://openalex.org/I181877577,CN,education,https://www.sxu.edu.cn,29817.0,417442.0
+302,Everest Clinical Research,,,,,,
+303,Universitat Politècnica de València,https://openalex.org/I60053951,ES,education,https://www.upv.es,64478.0,1339270.0
+304,Anglia Ruskin University,https://openalex.org/I51216347,GB,education,https://www.aru.ac.uk/,12232.0,286112.0
+305,ProfSimon Fraser University,https://openalex.org/I18014758,CA,education,https://www.sfu.ca,75421.0,2407548.0
+306,UAB,https://openalex.org/I4210130802,ES,nonprofit,https://www.uab.cat/web/fundacio-salut-i-envelliment-1345754058073.html,364.0,4964.0
+307,Institute for Information Transmission Problems of the Russian Academy of Sciences,,,,,,
+308,北京华夏春松科技有限公司,,,,,,
+309,University of Wisconsin - Madison,https://openalex.org/I135310074,US,education,http://www.wisc.edu/,327453.0,14388521.0
+310,Institute of Biophysics,https://openalex.org/I4210112540,CN,facility,http://english.ibp.cas.cn/,9146.0,357144.0
+311,Ksana Health Inc.,,,,,,
+312,Indian Statistical Institute,https://openalex.org/I6498739,IN,education,http://www.isical.ac.in/,20877.0,357020.0
+313,"University of California, Santa Barbara",,,,,,
+314,Humboldt-Universität zu Berlin,https://openalex.org/I39343248,DE,education,https://www.hu-berlin.de/?set_language=en&cl=en,100080.0,2816994.0
+315,Università degli Studi di Trieste,https://openalex.org/I142444530,IT,education,https://units.it,49554.0,1496449.0
+316,Sahand University of Technology,https://openalex.org/I107853901,IR,education,http://www.sut.ac.ir/en/,6693.0,116437.0
+317,Qruise GmbH,,,,,,
+318,Technical University of Denmark,https://openalex.org/I96673099,DK,education,https://dtu.dk,104230.0,3712391.0
+319,E4 Computer Engineering SpA,,,,,,
+320,Monash University,https://openalex.org/I56590836,AU,education,https://www.monash.edu,218606.0,6818872.0
+321,Duke University,https://openalex.org/I170897317,US,education,https://duke.edu,224287.0,9944166.0
+322,"TileDB, Inc.",,,,,,
+323,Inria Centre de Recherche de Paris,,,,,,
+324,University of Hong Kong,https://openalex.org/I889458895,HK,education,http://www.hku.hk/,220807.0,7518217.0
+325,Keio University,https://openalex.org/I203951103,JP,education,https://www.keio.ac.jp,105395.0,2043732.0
+326,Menarini Ricerche SpA,,,,,,
+327,University of Białystok,https://openalex.org/I146122375,PL,education,https://www.umb.edu.pl,17580.0,260135.0
+328,Hong Kong University,https://openalex.org/I200769079,HK,education,https://hkust.edu.hk,77184.0,2776246.0
+329,Istituto Nazionale di Fisica Nucleare,https://openalex.org/I160013858,IT,government,https://home.infn.it,18393.0,422213.0
+330,University of Texas,https://openalex.org/I86519309,US,education,http://www.utexas.edu/,249189.0,9685500.0
+331,Regione Umbria,https://openalex.org/I4392738109,,government,https://www.regione.umbria.it/la-regione,0.0,0.0
+332,Dongyang Mirae University,https://openalex.org/I106601093,KR,education,https://www.dongyang.ac.kr,399.0,5535.0
+333,LINKS Foundation,https://openalex.org/I4210155299,IT,nonprofit,https://linksfoundation.com,525.0,3761.0
+334,Cleveland Clinic,https://openalex.org/I1316902750,US,healthcare,http://my.clevelandclinic.org/,126550.0,4522852.0
+335,Guardant Health,,,,,,
+336,Shaanxi Green Wiser Environmental Protection Technology Company Limited,,,,,,
+337,Julius-Maximilians-Universität Würzburg,,,,,,
+338,SINTEF,https://openalex.org/I173888879,NO,facility,https://www.sintef.no,22653.0,527957.0
+339,XPeng Inc,,,,,,
+340,Northwestern Polytechnical University,https://openalex.org/I17145004,CN,education,https://www.nwpu.edu.cn,110352.0,1505195.0
+341,IRCC San Raffaele Hospital,,,,,,
+342,Wuhan University,https://openalex.org/I37461747,CN,education,https://www.whu.edu.cn,179476.0,3248202.0
+343,Cambrex Profarmaco Milano,,,,,,
+344,National Research Centre,https://openalex.org/I4210131959,EG,facility,http://www.nrc.sci.eg/nrc/#.VdrDXrKqqko,37512.0,614593.0
+345,Clemson,https://openalex.org/I8078737,US,education,https://www.clemson.edu,64941.0,1601642.0
+346,Honam National Institute of Biological Resources (HNIBR),,,,,,
+347,Congenica Ltd,,,,,,
+348,Istituto Ortopedico Gaetano Pini,https://openalex.org/I4210113750,IT,healthcare,http://www.gpini.it/,3060.0,55511.0
+349,Nanyang Technological University,https://openalex.org/I172675005,SG,education,http://www.ntu.edu.sg/Pages/home.aspx,161048.0,5149413.0
+350,University of Cambridge,https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+351,National Research Institute of Chinese Medicine,https://openalex.org/I4210094085,TW,facility,http://eng.nricm.edu.tw/bin/home.php,1806.0,53959.0
+352,University of Colorado,https://openalex.org/I188538660,US,education,http://www.colorado.edu/,142100.0,6424268.0
+353,Northeastern University,https://openalex.org/I12912129,US,education,http://www.northeastern.edu/,66868.0,2121731.0
+354,Stanford University,https://openalex.org/I97018004,US,education,https://www.stanford.edu,464428.0,27107887.0
+355,Universidade do Estado de Mato Grosso,https://openalex.org/I3017928408,BR,education,http://portal.unemat.br/,10070.0,48062.0
+356,University of Avignon,,,,,,
+357,Southern University of Science and Technology,https://openalex.org/I3045169105,CN,education,https://sustech.edu.cn,41310.0,805563.0
+358,Soochow University,https://openalex.org/I3923682,CN,education,https://www.suda.edu.cn,96507.0,1935296.0
+359,University of Copenhagen,https://openalex.org/I124055696,DK,education,https://www.ku.dk,215736.0,7941276.0
+360,Human Predictions,,,,,,
+361,Osaka University,https://openalex.org/I98285908,JP,education,http://www.osaka-u.ac.jp/en,268697.0,6655760.0
+362,Stazione Utopia,,,,,,
+363,St. Jude Children's Research Hospital,https://openalex.org/I1313298211,US,healthcare,https://www.stjude.org/,32285.0,1908084.0
+364,AIgnostics,,,,,,
+365,SYSU,https://openalex.org/I4210129003,CN,facility,http://www.sdjri.com/English/,564.0,11741.0
+366,Université de Franche-Comté,https://openalex.org/I90843659,FR,education,http://www.univ-fcomte.fr/,17640.0,360189.0
+367,Korea Advanced Institute of Science and Technology,https://openalex.org/I157485424,KR,education,https://www.kaist.ac.kr,100677.0,2578739.0
+368,Shift Lab,,,,,,
+369,The Hospital for Sick Children,,,,,,
+370,Cambridge University,https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+371,Jiangnan University,https://openalex.org/I111599522,CN,education,https://www.jiangnan.edu.cn,57721.0,957215.0
+372,University of California Riverside School of Medicine,,,,,,
+373,Okinawa Institute of Science and Technology Graduate University,https://openalex.org/I142637625,JP,education,https://www.oist.jp,7239.0,159779.0
+374,University of Milano-Biocca,https://openalex.org/I66752286,IT,education,https://www.unimib.it,56059.0,1524762.0
+375,King's College London,https://openalex.org/I183935753,GB,education,http://www.kcl.ac.uk/index.aspx,203099.0,7066286.0
+376,Universidad Andina Nestor Caceres Velasquez,,,,,,
+377,Megvii Inc.,,,,,,
+378,Children's Mercy Hospital,https://openalex.org/I1328594524,US,healthcare,http://www.childrensmercy.org/,12138.0,291015.0
+379,University of Valencia,,,,,,
+380,Grifols (United States),https://openalex.org/I4210157443,US,company,http://www.grifolsusa.com/en/web/eeuu,214.0,2794.0
+381,Ca' Foscari University of Venice,https://openalex.org/I149461666,IT,education,https://www.unive.it,21763.0,308065.0
+382,Raytheon BBN Technologies,,,,,,
+383,University of Ostrava,https://openalex.org/I187293425,CZ,education,https://www.osu.cz,7777.0,98896.0
+384,Michigan State University,https://openalex.org/I87216513,US,education,https://msu.edu/,211393.0,7468891.0
+385,Kongju National University,https://openalex.org/I206597221,KR,education,http://english.kongju.ac.kr:8090/,10921.0,150060.0
+386,Institut d'Investigació Biomédica de Bellvitge,https://openalex.org/I4210087039,ES,facility,http://www.idibell.cat/,13895.0,496510.0
+387,Samsung Research,,,,,,
+388,Departamento de Ingeniería Industrial UCSC,https://openalex.org/I172787465,CL,education,https://www.udec.cl/pexterno/,31360.0,585091.0
+389,Okinawa Institute of Science and Technology,https://openalex.org/I142637625,JP,education,https://www.oist.jp,7239.0,159779.0
+390,Kumoh National Institute of Technology,https://openalex.org/I113409471,KR,education,http://eng.kumoh.ac.kr/,6036.0,96269.0
+391,King Mongkut's University of Technology North Bangkok,https://openalex.org/I82828225,TH,education,http://www.kmutnb.ac.th/,10935.0,115467.0
+392,Head of the Lab at Institute for Information Transmission Problems RAS,,,,,,
+393,INRAE Centre de Jouy-en-Josas,,,,,,
+394,Icahn School of Medicine at Mount Sinai,https://openalex.org/I98704320,US,education,https://icahn.mssm.edu,132456.0,5202308.0
+395,National Institute of Allergy and Infectious Diseases,https://openalex.org/I4210134534,US,facility,https://www.niaid.nih.gov,37320.0,2695651.0
+396,University of Evora,https://openalex.org/I21803372,PT,education,https://www.uevora.pt,14082.0,233966.0
+397,Ningbo University of Finance and Economics,,,,,,
+398,HZDR (Helmholtz-Zentrum Dresden-Rossendorf),https://openalex.org/I2801798921,DE,facility,https://www.hzdr.de,16578.0,331841.0
+399,University of Macedonia,https://openalex.org/I192756129,GR,education,https://www.uom.gr,7335.0,111583.0
+400,Janssen Research and Development,,,,,,
+401,Yunnan University,https://openalex.org/I189210763,CN,education,https://www.ynu.edu.cn,36478.0,419321.0
+402,Microsoft Health Futures,,,,,,
+403,University of Central Asia Khorog,https://openalex.org/I110346614,KG,education,http://www.ucentralasia.org/index.asp,542.0,5782.0
+404,Universität Heidelberg,https://openalex.org/I223822909,DE,education,https://www.uni-heidelberg.de,255698.0,8881552.0
+405,Nanjing University of Science and Technology,https://openalex.org/I36399199,CN,education,https://www.njust.edu.cn,67006.0,1061679.0
+406,Linkopings universitet,https://openalex.org/I102134673,SE,education,https://liu.se/,74578.0,2300066.0
+407,University College Cork,https://openalex.org/I27577105,IE,education,https://www.ucc.ie,48860.0,1433696.0
+408,Seoul National University,https://openalex.org/I139264467,KR,education,https://www.snu.ac.kr,208616.0,5479178.0
+409,Università della Svizzera italiana ,https://openalex.org/I57201433,CH,education,https://www.usi.ch,12483.0,299945.0
+410,MBDA ,https://openalex.org/I14197495,DE,company,https://www.mbda-careers.de/opencms/opencms/career/Unternehmen/MBDA-DE/,262.0,2646.0
+411,Goldsmiths University of London,https://openalex.org/I55521800,GB,education,https://www.gold.ac.uk,12919.0,336310.0
+412,University Of Oxford,https://openalex.org/I40120149,GB,education,https://www.ox.ac.uk,400628.0,18308411.0
+413,Inria Saclay - Île-de-France Research Centre,https://openalex.org/I4210101348,FR,facility,https://www.inria.fr/fr/centre-inria-universite-grenoble-alpes,3744.0,166890.0
+414,Arizona State University,https://openalex.org/I55732556,US,education,https://www.asu.edu,164396.0,5855312.0
+415,DeepMind,https://openalex.org/I4210090411,GB,company,https://deepmind.com/,1823.0,252610.0
+416,University of Kansas Medical Center,https://openalex.org/I4210128618,US,healthcare,https://www.kumc.edu,35409.0,1068234.0
+417,Fred Hutchinson Cancer Research Center,,,,,,
+418,East China University of Science and Technology,https://openalex.org/I143593769,CN,education,https://www2.ecust.edu.cn/_t41/main.htm,58431.0,1284080.0
+419,BGI & SCUT,https://openalex.org/I90610280,CN,education,http://www.scut.edu.cn,123360.0,2440685.0
+420,Universidad Politécnica de Madrid,https://openalex.org/I88060688,ES,education,https://www.upm.es,59943.0,1109055.0
+421,Institute of Physics,https://openalex.org/I4210159876,CN,facility,http://english.iop.cas.cn,28820.0,953534.0
+422,Megvii,https://openalex.org/I4401726805,,company,https://www.megvii.com,0.0,0.0
+423,Google,https://openalex.org/I1291425158,US,company,https://www.google.com/,41688.0,2780395.0
+424,Université Paris-Est Créteil,https://openalex.org/I197681013,FR,education,https://www.u-pec.fr,33065.0,724112.0
+425,Uber,https://openalex.org/I2946016260,US,company,https://www.uber.com/,544.0,15876.0
+426,Xi'an Shiyou University,https://openalex.org/I181903023,CN,education,http://xsyu.ciss.org.cn/,10722.0,61908.0
+427,Yonsei University,https://openalex.org/I193775966,KR,education,https://www.yonsei.ac.kr,153652.0,3342635.0
+428,Allen Institute for Brain Science,https://openalex.org/I1314596251,US,facility,http://alleninstitute.org/,8244.0,415344.0
+429,namsang dental clinic,,,,,,
+430,Medstar Antalya Hospital,,,,,,
+431,Universidade de São Paulo Escola Politécnica,,,,,,
+432,IBM Research Center,https://openalex.org/I4210114115,US,facility,http://research.ibm.com/labs/watson/index.shtml,26250.0,1457876.0
+433,Universidade de São Paulo,https://openalex.org/I17974374,BR,education,https://www5.usp.br,398852.0,6959044.0
+434,Hanyang University,https://openalex.org/I4575257,KR,education,http://www.hanyang.ac.kr/english/,80019.0,1789736.0
+435,Monash  University,https://openalex.org/I56590836,AU,education,https://www.monash.edu,218606.0,6818872.0
+436,ASST Bergamo Ovest,,,,,,
+437,Cambridge,https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+438,University of Münster,https://openalex.org/I22465464,DE,education,https://www.uni-muenster.de,103566.0,2947283.0
+439,"Soochow University, Taiwan",https://openalex.org/I3923682,CN,education,https://www.suda.edu.cn,96507.0,1935296.0
+440,Bloomberg LP,,,,,,
+441,Universitat Rovira i Virgili,,,,,,
+442,Policlinico di Monza SpA,,,,,,
+443,University of Connecticut,https://openalex.org/I140172145,US,education,http://uconn.edu/,107200.0,3569507.0
+444,University of Haifa,https://openalex.org/I91203450,IL,education,http://www.haifa.ac.il/index.php/en/,42095.0,1032581.0
+445,Vita-Salute San Raffaele University,https://openalex.org/I154387261,IT,education,https://www.unisr.it,31999.0,1033235.0
+446,Universidad Rey Juan Carlos,https://openalex.org/I182083151,ES,education,https://www.urjc.es/,27578.0,470517.0
+447,University of Pittsburgh,https://openalex.org/I170201317,US,education,http://www.pitt.edu/,266568.0,11181148.0
+448,Albert Eimstein College of Medicine,https://openalex.org/I129975664,US,education,https://einsteinmed.edu,90297.0,4085286.0
+449,Københavns Universitet,https://openalex.org/I124055696,DK,education,https://www.ku.dk,215736.0,7941276.0
+450,Duke-NUS Medical School,https://openalex.org/I4210126319,SG,education,https://www.duke-nus.edu.sg/,17227.0,497917.0
+451,STALICLA,,,,,,
+452,Penn State College of Medicine,,,,,,
+453,Technical Institute of Physics and Chemistry,https://openalex.org/I4210140689,CN,facility,http://english.ipc.cas.cn/,12437.0,407895.0
+454,Durham University,https://openalex.org/I190082696,GB,education,https://www.dur.ac.uk/,91249.0,2869376.0
+455,Federal University of Uberlândia,,,,,,
+456,Carnegie Mellon University,https://openalex.org/I74973139,US,education,http://www.cmu.edu/index.shtml,137213.0,6992906.0
+457,University of Kerman,https://openalex.org/I115566878,IR,education,http://www.uk.ac.ir/Default8.aspx?Id=5187,14399.0,206077.0
+458,Oncodrug Ltd,,,,,,
+459,Systems Biology Institute,https://openalex.org/I4210118579,JP,nonprofit,http://www.sbi.jp/,1358.0,55677.0
+460,Roskilde University,https://openalex.org/I107707843,DK,education,https://ruc.dk,15417.0,267507.0
+461,University of Illinois,https://openalex.org/I157725225,US,education,https://illinois.edu,302411.0,12223029.0
+462,ByteDance Inc.,,,,,,
+463,Indiana University Indianapolis,https://openalex.org/I55769427,US,education,http://www.iupui.edu/,123838.0,4179573.0
+464,East China Normal University,https://openalex.org/I66867065,CN,education,https://www.ecnu.edu.cn,65915.0,1217118.0
+465,Florida Otolaryngology Group,,,,,,
+466,University of Manchester,https://openalex.org/I28407311,GB,education,http://www.manchester.ac.uk/,263757.0,8920365.0
+467,Forschungszentrum Jülich,https://openalex.org/I171892758,DE,facility,https://www.fz-juelich.de,64072.0,2086559.0
+468,Universidad de Barcelona,https://openalex.org/I4210143574,ES,healthcare,http://fundaciojosepfinestres.cat/es/hob,74.0,1698.0
+469,Moscow Power Engineering Institute,https://openalex.org/I171241948,RU,education,https://mpei.ru,15516.0,67596.0
+470,Western Norway University of Applied Sciences,https://openalex.org/I179863766,NO,education,https://www.hvl.no/,6712.0,87276.0
+471,Nanjing Medical University,https://openalex.org/I83519826,CN,education,https://www.njmu.edu.cn,82120.0,1260042.0
+472,UCL,https://openalex.org/I2800173700,AU,education,http://www.ucl.ac.uk/australia/,13947.0,582958.0
+473,Keck School of Medicine of USC,,,,,,
+474,CERN,,,,,,
+475,National Science Foundation,https://openalex.org/I1311060795,US,government,https://www.nsf.gov,13052.0,669517.0
+476,National Research Council,https://openalex.org/I4210155236,IT,nonprofit,https://www.cnr.it,67384.0,1753590.0
+477,University Politehnica Timisoara,,,,,,
+478,University of Delhi,https://openalex.org/I110166357,IN,education,http://www.du.ac.in,65841.0,1002313.0
+479,CHRU Nîmes,,,,,,
+480,Indian Institute of Technology Madras,https://openalex.org/I24676775,IN,facility,https://www.iitm.ac.in/,57216.0,961373.0
+481,Korea research institute of technology,https://openalex.org/I4210151417,KR,facility,https://www.krict.re.kr,11032.0,365668.0
+482,Cold  Spring Harbor Laboratory,https://openalex.org/I2750212522,US,nonprofit,https://www.cshl.edu,11148.0,1403628.0
+483,University of Florence,https://openalex.org/I45084792,IT,education,https://www.unifi.it,117659.0,3109940.0
+484,IIAI,,,,,,
+485,Kaiko,,,,,,
+486,University of Tennessee,https://openalex.org/I75027704,US,education,https://www.utk.edu,130066.0,3934359.0
+487,University in Gdańsk,https://openalex.org/I4210102184,PL,education,https://www.merito.pl/gdansk/,1051.0,2648.0
+488,HITS gGmbH,,,,,,
+489,University of Milan,https://openalex.org/I189158943,IT,education,https://www.unimi.it,186090.0,5514599.0
+490,Azienda Unità Sanitaria Locale di Piacenza,,,,,,
+491,"Associate Professor (Epidemiology), University of Missouri (https://orcid.org/0000-0002-2657-3398)",https://openalex.org/I76835614,US,education,http://missouri.edu/,120179.0,3694761.0
+492,IIS-Fundacion Jimenez Diaz. Autonoma University of Madrid,,,,,,
+493,Tennessee State University,https://openalex.org/I119443389,US,education,http://www.etsu.edu/etsuhome/,16491.0,300226.0
+494,Universiteit Gent,https://openalex.org/I32597200,BE,education,https://www.ugent.be,143600.0,4661851.0
+495,Medical College of Wisconsin,https://openalex.org/I204308271,US,education,https://www.mcw.edu,69587.0,2368462.0
+496,Dehua County Hospital,,,,,,
+497,"Senior Director, Takeda Neuroscience",,,,,,
+498,Nokia Bell Labs,,,,,,
+499,Cornell University,https://openalex.org/I205783295,US,education,https://www.cornell.edu,403231.0,17881198.0
+500,"Cambridge University, EMBL-EBI",https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+501,"Ph.D., Griffith University",https://openalex.org/I11701301,AU,education,https://www.griffith.edu.au,78486.0,2228667.0
+502,"Professor of Physics, Stockholm University",https://openalex.org/I161593684,SE,education,https://www.su.se,97231.0,3925852.0
+503,ETH Zürich,https://openalex.org/I4391767848,,nonprofit,https://ethz-foundation.ch,0.0,0.0
+504,Universidade de Lisboa Instituto Superior Técnico,https://openalex.org/I4387152517,,education,https://tecnico.ulisboa.pt,0.0,0.0
+505,Stockholm University,https://openalex.org/I161593684,SE,education,https://www.su.se,97231.0,3925852.0
+506,Associate Professor in Hunan University (湖南大学),https://openalex.org/I16609230,CN,education,https://www.hnu.edu.cn,77898.0,1738379.0
+507,UNC Chapel Hill,https://openalex.org/I114027177,US,education,https://www.unc.edu,255170.0,11796975.0
+508,Argonne National Laboratory,https://openalex.org/I1282105669,US,facility,https://www.anl.gov,100535.0,3712971.0
+509,"University of Oslo, Norway",https://openalex.org/I184942183,NO,education,http://www.uio.no/english/,151651.0,5069890.0
+510,lastminute.com,,,,,,
+511,Hungarian Academy of Sciences,https://openalex.org/I7597260,HU,government,http://mta.hu/english/,62972.0,1787720.0
+512,Università degli Studi di Genova,https://openalex.org/I83816512,IT,education,https://unige.it,84164.0,2127444.0
+513,Instituto Gulbenkian de Ciência,https://openalex.org/I48057805,PT,education,http://www.igc.gulbenkian.pt/,4311.0,197461.0
+514,Organization,https://openalex.org/I4210105654,CH,government,http://www.who.int/,20700.0,1465933.0
+515,National Institute of Environmental Health Sciences,https://openalex.org/I4210095140,US,facility,http://www.niehs.nih.gov/,21441.0,1290765.0
+516,CNRS,https://openalex.org/I4210095849,FR,government,https://www.insis.cnrs.fr,108.0,2612.0
+517,Trinity College Dublin,https://openalex.org/I205274468,IE,education,https://www.tcd.ie/,77512.0,2547168.0
+518,Dunad Therapeutics,,,,,,
+519,CNIO,,,,,,
+520,Oslo Metropolitan University,https://openalex.org/I184531372,NO,education,https://www.oslomet.no,11474.0,186279.0
+521,Univeristy Clinic Tübingen,,,,,,
+522,University of Insubria,https://openalex.org/I115752224,IT,education,http://www.uninsubria.eu/,22854.0,616383.0
+523,BIOS Health,,,,,,
+524,Nanjing University,https://openalex.org/I881766915,CN,education,http://www.nju.edu.cn/english/,153607.0,3539782.0
+525,Shenzhen Innovation Immunotechnology,,,,,,
+526,Tehran Disaster Mitigation and Management Organization,,,,,,
+527,King’s College London,https://openalex.org/I183935753,GB,education,http://www.kcl.ac.uk/index.aspx,203099.0,7066286.0
+528,Al-Azhar University,https://openalex.org/I184834183,EG,education,http://www.azhar.edu.eg,36267.0,407750.0
+529,Symanto Research,,,,,,
+530,Tulane University,https://openalex.org/I114832834,US,education,https://tulane.edu,74534.0,2587348.0
+531,Università Roma Tre,https://openalex.org/I119003972,IT,education,https://www.uniroma3.it,29407.0,628171.0
+532,Huazhong University of Science and Technology,https://openalex.org/I47720641,CN,education,http://english.hust.edu.cn/,213920.0,4118481.0
+533,CODE AHOI,,,,,,
+534,Institute of Nanotechnology CNR-NANOTEC,,,,,,
+535,University of Nebraska,https://openalex.org/I114395901,US,education,http://www.unl.edu/,91477.0,2836235.0
+536,University of Groningen,https://openalex.org/I169381384,NL,education,http://www.rug.nl/,148120.0,5718058.0
+537,Russian Academy of Sciences,https://openalex.org/I1313323035,RU,government,http://www.ras.ru/,214356.0,2388429.0
+538,Tergooi Hospital,,,,,,
+539,Radboud University Nijmegen,https://openalex.org/I145872427,NL,education,http://www.ru.nl/english/,167691.0,6667028.0
+540,Clinical Center of Vojvodina,,,,,,
+541,Genentech,https://openalex.org/I183934855,,company,https://www.gene.com,2316.0,349254.0
+542,Purdue University,https://openalex.org/I219193219,US,education,http://www.purdue.edu/,174831.0,6171442.0
+543,AIRI,https://openalex.org/I4392021246,,nonprofit,https://airi.net,15.0,87.0
+544,Hohai University,https://openalex.org/I163340411,CN,education,https://www.hhu.edu.cn,56822.0,660447.0
+545,University of Padua,https://openalex.org/I138689650,IT,education,https://www.unipd.it,174784.0,5079413.0
+546,Max Planck Institute,https://openalex.org/I4210150093,DE,facility,https://www.biochem.mpg.de,12666.0,928077.0
+547,City of Hope National Medical Center,https://openalex.org/I1301076528,US,healthcare,http://www.cityofhope.org/,16913.0,740241.0
+548,IBM Research,https://openalex.org/I4210114115,US,facility,http://research.ibm.com/labs/watson/index.shtml,26250.0,1457876.0
+549,Università degli Studi di Napoli Federico II,https://openalex.org/I71267560,IT,education,https://www.unina.it,123227.0,3201568.0
+550,INSA Rouen Normandie,,,,,,
+551,University of St Andrews,https://openalex.org/I16835326,GB,education,http://www.st-andrews.ac.uk/,64152.0,2080089.0
+552,Istituto Regina Elena,,,,,,
+553,Lehigh Valley Health Network,https://openalex.org/I4210094360,US,healthcare,http://www.lvhn.org/,2788.0,33847.0
+554,Institut Curie,https://openalex.org/I80043,FR,nonprofit,http://www.institut-curie.org/,27995.0,1249101.0
+555,Universitat de Barcelona,https://openalex.org/I71999127,ES,education,https://web.ub.edu,156350.0,4915265.0
+556,みずほ情報総研株式会社,,,,,,
+557,Vellore Institute of Technology University,https://openalex.org/I876193797,IN,education,https://vit.ac.in,51804.0,642952.0
+558,Oslo University Hospital,https://openalex.org/I1281400175,NO,healthcare,http://www.oslo-universitetssykehus.no/om-oss/english,50020.0,1883436.0
+559,Instituto Politecnico de Castelo Branco,,,,,,
+560,Multimedia University,https://openalex.org/I173029219,MY,education,https://www.mmu.edu.my/,12709.0,160275.0
+561,SK Group,https://openalex.org/I134353371,KR,company,http://www.sk.co.kr/,2610.0,44904.0
+562,Fudan University School of Basic Medical Sciences,https://openalex.org/I24943067,CN,education,https://fudan.edu.cn,189197.0,4041246.0
+563,Massachusetts Institute of Technology,https://openalex.org/I63966007,US,education,https://web.mit.edu,313215.0,20043269.0
+564,Virginia Polytechnic Institute,,,,,,
+565,Australia National University,https://openalex.org/I118347636,AU,education,https://www.anu.edu.au,161892.0,5760789.0
+566,Toyota Technological Institute,https://openalex.org/I4840577,JP,education,http://www.toyota-ti.ac.jp/english/,6246.0,115819.0
+567,Institut Pasteur,https://openalex.org/I157536573,FR,nonprofit,https://www.pasteur.fr,52529.0,2771953.0
+568,"Gilead Sciences, Inc",,,,,,
+569,Reply ,https://openalex.org/I4210128559,IT,company,https://www.reply.com/en/,153.0,1206.0
+570,Norwegian University of Science and Technology ,https://openalex.org/I204778367,NO,education,http://www.ntnu.edu,97496.0,2738154.0
+571,Chongqing University,https://openalex.org/I158842170,CN,education,https://www.cqu.edu.cn,108254.0,1676417.0
+572,"University of Rome ""Tor Vergata""",https://openalex.org/I116067653,IT,education,https://web.uniroma2.it,79038.0,2124423.0
+573,University of Dubai,https://openalex.org/I132806614,AE,education,https://ud.ac.ae/,1566.0,14816.0
+574,Yale University,https://openalex.org/I32971472,US,education,https://www.yale.edu,341273.0,16330975.0
+575,University of Arkansas,https://openalex.org/I78715868,US,education,http://www.uark.edu/,47325.0,1186549.0
+576,NCNST JHMI ISB,https://openalex.org/I145311948,US,education,https://www.jhu.edu/,423067.0,20892018.0
+577,University of Washington,https://openalex.org/I201448701,US,education,https://www.washington.edu,463836.0,21410723.0
+578,Oxford University,https://openalex.org/I40120149,GB,education,https://www.ox.ac.uk,400628.0,18308411.0
+579,Friedrich-Schiller-Universität Jena,https://openalex.org/I76198965,DE,education,https://www.uni-jena.de/en,66329.0,1941152.0
+580,Karolinska Institut,https://openalex.org/I28166907,SE,education,https://ki.se,194760.0,8810527.0
+581,AIGEN Sciences Inc.,,,,,,
+582,National Polytechnic Institute,https://openalex.org/I68368234,MX,facility,https://www.cinvestav.mx/,36615.0,739395.0
+583,Università Cattolica del Sacro Cuore,https://openalex.org/I103320735,IT,education,https://www.unicatt.eu,64134.0,1680577.0
+584,LIUC,,,,,,
+585,University Health Network,https://openalex.org/I1325899441,CA,healthcare,https://www.uhn.ca,54082.0,2092537.0
+586,Retired,,,,,,
+587,"Tübingen, Germany",https://openalex.org/I8087733,DE,education,https://www.uni-tuebingen.de/en/university.html,125616.0,4014660.0
+588,Kuaishou Technology,,,,,,
+589,University of Oulu,https://openalex.org/I98381234,FI,education,https://www.oulu.fi,60894.0,1900575.0
+590,University of Connecticut School of Medicine,,,,,,
+591,National Tsing Hua University,https://openalex.org/I25846049,TW,education,http://www.nthu.edu.tw/english/,65229.0,1485111.0
+592,University of Bristol,https://openalex.org/I36234482,GB,education,http://bristol.ac.uk/,175180.0,6782960.0
+593,Universitätsklinikum Greifswald,,,,,,
+594,Nanjing Forestry University,https://openalex.org/I167027274,CN,education,https://www.njfu.edu.cn/,33667.0,512222.0
+595,Politecnico of Turin,,,,,,
+596,SeqOne,,,,,,
+597,McMaster University,https://openalex.org/I98251732,CA,education,https://www.mcmaster.ca,157118.0,6139211.0
+598,University of Verona,https://openalex.org/I119439378,IT,education,https://www.univr.it,52059.0,1516032.0
+599,Fondazione Bruno Kessler.,https://openalex.org/I2277624104,IT,facility,https://www.fbk.eu,8017.0,195820.0
+600,Space Telescope Science Institute,https://openalex.org/I1297127228,US,facility,https://www.stsci.edu,16412.0,848781.0
+601,Kazan Federal University,https://openalex.org/I21203515,RU,education,https://kpfu.ru,33004.0,321049.0
+602,Ozyegin University,https://openalex.org/I44925452,TR,education,https://www.ozyegin.edu.tr/,3986.0,60076.0
+603,University of Glasgow,https://openalex.org/I7882870,GB,education,http://www.gla.ac.uk/,162000.0,5339340.0
+604,AI Investments.pl,,,,,,
+605,University of Cagliari,https://openalex.org/I172446870,IT,education,http://www.unica.it/,43937.0,1049477.0
+606,University of Connecticut Health Center,https://openalex.org/I140172145,US,education,http://uconn.edu/,107200.0,3569507.0
+607,Escola Paulista de Medicina-Universidade Federal de São Paulo,https://openalex.org/I88273585,BR,education,http://www.unifesp.br/,76901.0,1406674.0
+608,LMU Munich,,,,,,
+609,Massachusetts Eye and Ear Infirmary,https://openalex.org/I1287163989,US,healthcare,http://www.masseyeandear.org/,21195.0,783321.0
+610,Nanyang technological university,https://openalex.org/I172675005,SG,education,http://www.ntu.edu.sg/Pages/home.aspx,161048.0,5149413.0
+611,Sardegna Ricerche,https://openalex.org/I4210098674,IT,company,http://www.sardegnaricerche.it/en/,333.0,8110.0
+612,Özyeğin University,https://openalex.org/I44925452,TR,education,https://www.ozyegin.edu.tr/,3986.0,60076.0
+613,Roswell Park Comprehensive Cancer Center,https://openalex.org/I1292894508,US,facility,https://www.roswellpark.org/,28981.0,1234852.0
+614,Way2VAT,,,,,,
+615,University of Missouri,https://openalex.org/I76835614,US,education,http://missouri.edu/,120179.0,3694761.0
+616,Newcastle  University,https://openalex.org/I84884186,GB,education,https://www.ncl.ac.uk,123489.0,4142674.0
+617,Hunan University,https://openalex.org/I16609230,CN,education,https://www.hnu.edu.cn,77898.0,1738379.0
+618,Tsinghua University,https://openalex.org/I99065089,CN,education,https://www.tsinghua.edu.cn,308544.0,7652286.0
+619,University of Southern California,https://openalex.org/I1174212,US,education,https://usc.edu,248363.0,10013109.0
+620,huawei,https://openalex.org/I2250955327,CN,company,http://www.huawei.com/en/,11210.0,149867.0
+621,AstraZeneca,https://openalex.org/I105036370,GB,company,http://www.astrazeneca.co.uk/home,18066.0,794805.0
+622,KRISS,,,,,,
+623,Institución universitaria Antonio Jose Camacho,,,,,,
+624,Voyage 81,,,,,,
+625,Università di Bologna,https://openalex.org/I9360294,IT,education,https://www.unibo.it,177575.0,4717597.0
+626,Adobe,https://openalex.org/I1306409833,US,company,https://www.adobe.com/,4660.0,214358.0
+627,IIT-Madras,https://openalex.org/I24676775,IN,facility,https://www.iitm.ac.in/,57216.0,961373.0
+628,Penn State,https://openalex.org/I82783531,US,healthcare,http://www.pennstatehershey.org/web/guest/welcome,33577.0,887409.0
+629,Bocconi University,https://openalex.org/I71209653,IT,education,https://www.unibocconi.it,17335.0,504011.0
+630,University of Łódź ,https://openalex.org/I34250744,PL,education,https://www.uni.lodz.pl,48934.0,474366.0
+631,Swinburne University of Technology,https://openalex.org/I57093077,AU,education,http://www.swinburne.edu.au/,38273.0,1047931.0
+632,University of Stirling,https://openalex.org/I12093191,GB,education,https://www.stir.ac.uk,30569.0,954583.0
+633,Università di Padova,https://openalex.org/I138689650,IT,education,https://www.unipd.it,174784.0,5079413.0
+634,University of Ioannina,https://openalex.org/I194019607,GR,education,https://uoi.gr,31539.0,951858.0
+635,Institute of Biomedical Tecgnology (CNR-ITB),https://openalex.org/I4210154278,IT,facility,http://www.itb.cnr.it/,2513.0,109507.0
+636,Benha University,https://openalex.org/I207547235,EG,education,http://www.bu.edu.eg/en/,24246.0,253253.0
+637,Pacific Northwest National Laboratory,https://openalex.org/I142606810,US,facility,http://www.pnnl.gov/,433622.0,1909808.0
+638,Ansbach University,https://openalex.org/I4210102060,DE,education,https://www.hs-ansbach.de/en/index.html,608.0,4179.0
+639,Biosoft.Ru,,,,,,
+640,UC-San Diego,https://openalex.org/I2800935791,US,healthcare,https://health.ucsd.edu/,5518.0,156232.0
+641,SciencesPo,https://openalex.org/I4210091150,FR,facility,http://www.sciencespo.fr/centre-etudes-europeennes,6293.0,33701.0
+642,Telco Cloud Engineer,,,,,,
+643,Kyoto University,https://openalex.org/I22299242,JP,education,http://www.kyoto-u.ac.jp/en,318348.0,8698015.0
+644,Jamal Mohamed College,,,,,,
+645,Yangtze University,https://openalex.org/I177739611,CN,education,http://www.yangtzeu.edu.cn/,22281.0,183440.0
+646,San Gerardo Hospital,,,,,,
+647,Visa Research,,,,,,
+648,Ghent University,https://openalex.org/I32597200,BE,education,https://www.ugent.be,143600.0,4661851.0
+649,Biostatitian,,,,,,
+650,Università degli Studi di Brescia,https://openalex.org/I79940851,IT,education,https://www.unibs.it,40386.0,1169811.0
+651,Ajou University,https://openalex.org/I57664883,KR,education,https://www.ajou.ac.kr,36702.0,676577.0
+652,Broad Institute,https://openalex.org/I107606265,US,nonprofit,http://www.broadinstitute.org/,46852.0,3059103.0
+653,Milner Therapeutics Institute,,,,,,
+654,GreeNovel Inc.,,,,,,
+655,Sofia University,https://openalex.org/I58918642,BG,education,https://www.uni-sofia.bg/,22150.0,364513.0
+656,Université de Nice Sophia Antipolis,,,,,,
+657,Emory University,https://openalex.org/I150468666,US,education,https://www.emory.edu,196250.0,7957982.0
+658,Evocargo LLC,,,,,,
+659,Global Change Research Institute CAS,,,,,,
+660,National Cheng Kung University,https://openalex.org/I91807558,TW,education,http://web.ncku.edu.tw/bin/home.php,87916.0,1812500.0
+661,Ruprecht Karls Universität Heidelberg,https://openalex.org/I223822909,DE,education,https://www.uni-heidelberg.de,255698.0,8881552.0
+662,University of Naples Federico II,https://openalex.org/I71267560,IT,education,https://www.unina.it,123227.0,3201568.0
+663,Helixon,,,,,,
+664,Guangdong University of Technology,https://openalex.org/I139024713,CN,education,http://english.gdut.edu.cn/,43259.0,642515.0
+665,KAIST,,,,,,
+666,Astronomical Observatory of VdA,https://openalex.org/I60858718,PT,education,https://www.ua.pt,55725.0,1180440.0
+667,Korea Institute of Oriental Medicine,https://openalex.org/I4210087584,KR,facility,https://kiom.re.kr/,4814.0,77173.0
+668,Universidad Carlos III de Madrid,https://openalex.org/I50357001,ES,education,https://www.uc3m.es,37783.0,592803.0
+669,The University of Texas,https://openalex.org/I86519309,US,education,http://www.utexas.edu/,249189.0,9685500.0
+670,Optrail,,,,,,
+671,The University of Texas MD Anderson Cancer Center,https://openalex.org/I1343551460,US,healthcare,https://www.mdanderson.org,147137.0,6477041.0
+672,Samara National Research University,https://openalex.org/I3124489027,RU,education,https://www.ssau.ru,11156.0,65223.0
+673,Laboratory for Systems Biology and Bio-Inspired Engineering,,,,,,
+674,Paderborn University,https://openalex.org/I206945453,DE,education,http://www.uni-paderborn.de/en/,29621.0,503425.0
+675,EMBL-EBI,https://openalex.org/I1303153112,GB,facility,http://www.ebi.ac.uk/,9073.0,1086379.0
+676,imec,https://openalex.org/I4210114974,BE,nonprofit,https://www.imec-int.com,21320.0,410629.0
+677,Cambridge University ,https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+678,University of Pennsylvania,https://openalex.org/I79576946,US,education,https://www.upenn.edu,358308.0,17817773.0
+679,King's College Hospital,https://openalex.org/I4210153400,GB,healthcare,https://www.kch.nhs.uk/patientsvisitors/getting-to-kings,37377.0,1320065.0
+680,Vall d´Hebron Institut d´Oncologia,https://openalex.org/I4387155398,,healthcare,https://www.vhio.net,0.0,0.0
+681,Southwest University,https://openalex.org/I142108993,CN,education,https://swu.edu.cn,60154.0,879084.0
+682,Federal University of Ouro,,,,,,
+683,KETI,,,,,,
+684,Florida State University,https://openalex.org/I103163165,US,education,https://www.fsu.edu/,98355.0,3339575.0
+685,Russian-ArmenianUniversity,https://openalex.org/I188529364,AM,education,http://www.rau.am,1409.0,7426.0
+686,Griffith University,https://openalex.org/I11701301,AU,education,https://www.griffith.edu.au,78486.0,2228667.0
+687,State University of Management,https://openalex.org/I111567634,RU,education,https://guu.ru,3771.0,8798.0
+688,MBZUAI,https://openalex.org/I4210113480,AE,education,https://mbzuai.ac.ae/,1542.0,24113.0
+689,University of Turku,https://openalex.org/I155660961,FI,education,https://www.utu.fi,71532.0,2199365.0
+690,NanoTech Institute at UTD,https://openalex.org/I162577319,US,education,http://www.utdallas.edu/,40882.0,1258435.0
+691,OCAS NV,,,,,,
+692,University of Florida,https://openalex.org/I33213144,US,education,https://www.ufl.edu,312900.0,9634955.0
+693,Texas A&M University,https://openalex.org/I91045830,US,education,https://www.tamu.edu/,211252.0,6869859.0
+694,"SBP, UAB",https://openalex.org/I32389192,US,education,https://www.uab.edu,133453.0,5070581.0
+695,SAS Institute Inc.,,,,,,
+696,University of Virginia,https://openalex.org/I51556381,US,education,https://virginia.edu,176940.0,6402241.0
+697,University of Rhode Island,https://openalex.org/I17626003,US,education,https://www.uri.edu,36545.0,1153971.0

@@ -1,0 +1,31 @@
+,Organization,openalex_id,country,type,homepage_url,works_count,cited_by_count
+661,Ruprecht Karls Universität Heidelberg,https://openalex.org/I223822909,DE,education,https://www.uni-heidelberg.de,255698.0,8881552.0
+662,University of Naples Federico II,https://openalex.org/I71267560,IT,education,https://www.unina.it,123227.0,3201568.0
+663,Helixon,,,,,,
+664,Guangdong University of Technology,https://openalex.org/I139024713,CN,education,http://english.gdut.edu.cn/,43259.0,642515.0
+665,KAIST,,,,,,
+666,Astronomical Observatory of VdA,https://openalex.org/I60858718,PT,education,https://www.ua.pt,55725.0,1180440.0
+667,Korea Institute of Oriental Medicine,https://openalex.org/I4210087584,KR,facility,https://kiom.re.kr/,4814.0,77173.0
+668,Universidad Carlos III de Madrid,https://openalex.org/I50357001,ES,education,https://www.uc3m.es,37783.0,592803.0
+669,The University of Texas,https://openalex.org/I86519309,US,education,http://www.utexas.edu/,249189.0,9685500.0
+670,Optrail,,,,,,
+671,The University of Texas MD Anderson Cancer Center,https://openalex.org/I1343551460,US,healthcare,https://www.mdanderson.org,147137.0,6477041.0
+672,Samara National Research University,https://openalex.org/I3124489027,RU,education,https://www.ssau.ru,11156.0,65223.0
+673,Laboratory for Systems Biology and Bio-Inspired Engineering,,,,,,
+674,Paderborn University,https://openalex.org/I206945453,DE,education,http://www.uni-paderborn.de/en/,29621.0,503425.0
+675,EMBL-EBI,https://openalex.org/I1303153112,GB,facility,http://www.ebi.ac.uk/,9073.0,1086379.0
+676,imec,https://openalex.org/I4210114974,BE,nonprofit,https://www.imec-int.com,21320.0,410629.0
+677,Cambridge University ,https://openalex.org/I241749,GB,education,https://www.cam.ac.uk,371526.0,16925362.0
+678,University of Pennsylvania,https://openalex.org/I79576946,US,education,https://www.upenn.edu,358308.0,17817773.0
+679,King's College Hospital,https://openalex.org/I4210153400,GB,healthcare,https://www.kch.nhs.uk/patientsvisitors/getting-to-kings,37377.0,1320065.0
+680,Vall d´Hebron Institut d´Oncologia,https://openalex.org/I4387155398,,healthcare,https://www.vhio.net,0.0,0.0
+681,Southwest University,https://openalex.org/I142108993,CN,education,https://swu.edu.cn,60154.0,879084.0
+682,Federal University of Ouro,,,,,,
+683,KETI,,,,,,
+684,Florida State University,https://openalex.org/I103163165,US,education,https://www.fsu.edu/,98355.0,3339575.0
+685,Russian-ArmenianUniversity,https://openalex.org/I188529364,AM,education,http://www.rau.am,1409.0,7426.0
+686,Griffith University,https://openalex.org/I11701301,AU,education,https://www.griffith.edu.au,78486.0,2228667.0
+687,State University of Management,https://openalex.org/I111567634,RU,education,https://guu.ru,3771.0,8798.0
+688,MBZUAI,https://openalex.org/I4210113480,AE,education,https://mbzuai.ac.ae/,1542.0,24113.0
+689,University of Turku,https://openalex.org/I155660961,FI,education,https://www.utu.fi,71532.0,2199365.0
+690,NanoTech Institute at UTD,https://openalex.org/I162577319,US,education,http://www.utdallas.edu/,40882.0,1258435.0
