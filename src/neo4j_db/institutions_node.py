@@ -31,12 +31,11 @@ SET i.name = institution_row.corrected_university_name,
     i.works_count = toInteger(institution_row.works_count), // Conversione in intero
     i.cited_by_count = toInteger(institution_row.cited_by_count) // Conversione in intero
 WITH i
-// Aggiungi gli autori e collega solo se l'istituzione esiste
+// Aggiungi gli autori e collega utilizzando openalex_id
 MATCH (a:Author) // Seleziona gli autori già esistenti nel grafo
-WHERE a.organization IS NOT NULL
-MATCH (inst:Institution {name: a.organization}) // Verifica che l'istituzione esista
+WHERE a.openalex_id_institution IS NOT NULL AND a.openalex_id_institution <> ""
+MATCH (inst:Institution {openalex_id: a.openalex_id_institution}) // Verifica che l'istituzione esista
 MERGE (a)-[:AFFILIATED_WITH]->(inst) // Crea la relazione solo se l'istituzione esiste
-
 
 
 """
