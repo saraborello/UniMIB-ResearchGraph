@@ -53,6 +53,6 @@ def update_dataset_by_name(authors_df: pd.DataFrame):
 if __name__ == "__main__":
     dataset_path = "data/processed/Authors_new.csv"  # Percorso al dataset
     authors_df = pd.read_csv(dataset_path)
-    updated_df = update_dataset_by_name(authors_df[0:200])
-    updated_df.to_csv('data/processed/Authors_updated.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
+    updated_df = update_dataset_by_name(authors_df[800:])
+    updated_df.to_csv('data/processed/Authors_updated4.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
 
