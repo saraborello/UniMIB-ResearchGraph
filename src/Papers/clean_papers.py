@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-
 if __name__ == "__main__":
     file_path = 'data/raw/papers_duplicated.csv'
     dataframe = pd.read_csv(file_path, sep=",")
