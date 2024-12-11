@@ -1,0 +1,105 @@
+Role,Family_Name,Given_Name,Department_Code,Specific_Field
+Full Professor,ANTONIOTTI,MARCO,INFO-01/A,Computer Science
+Full Professor,ARCELLI,FONTANA FRANCESCA,IINF-05/A,Information Processing Systems
+Full Professor,BANDINI,STEFANIA,INFO-01/A,Computer Science
+Full Professor,BONIZZONI,PAOLA,INFO-01/A,Computer Science
+Full Professor,CIUCCI,DAVIDE ELIO,INFO-01/A,Computer Science
+Full Professor,DELLA,VEDOVA GIANLUCA,INFO-01/A,Computer Science
+Full Professor,GIANINI,GABRIELE,INFO-01/A,Computer Science
+Full Professor,MARIANI,LEONARDO,IINF-05/A,Information Processing Systems
+Full Professor,MAURINO,ANDREA,INFO-01/A,Computer Science
+Full Professor,MESSINA,VINCENZINA,MATH-06/A,Operations Research
+Full Professor,PASI,GABRIELLA,INFO-01/A,Computer Science
+Full Professor,PEZZE',MAURO,IINF-05/A,Information Processing Systems
+Full Professor,SCHETTINI,RAIMONDO,INFO-01/A,Computer Science
+Full Professor,STELLA,FABIO ANTONIO,INFO-01/A,Computer Science
+Full Professor,VIZZARI,GIUSEPPE,INFO-01/A,Computer Science
+Full Professor,AGOSTINI,ALESSANDRA,INFO-01/A,Computer Science
+Associate Professor,BESOZZI,DANIELA,INFO-01/A,Computer Science
+Associate Professor,BIANCO,SIMONE,INFO-01/A,Computer Science
+Associate Professor,BRAIONE,PIETRO,IINF-05/A,Information Processing Systems
+Associate Professor,CABITZA,FEDERICO ANTONIO NICCOLO' AMEDEO,INFO-01/A,Computer Science
+Associate Professor,CIAVOTTA,MICHELE,INFO-01/A,Computer Science
+Associate Professor,CIOCCA,GIANLUIGI,INFO-01/A,Computer Science
+Associate Professor,DE,PAOLI FLAVIO MARIA,INFO-01/A,Computer Science
+Associate Professor,DENARO,GIOVANNI,INFO-01/A,Computer Science
+Associate Professor,DENNUNZIO,ALBERTO,INFO-01/A,Computer Science
+Associate Professor,FERRETTI,CLAUDIO,INFO-01/A,Computer Science
+Associate Professor,FERSINI,ELISABETTA,INFO-01/A,Computer Science
+Associate Professor,GASPARINI,FRANCESCA,INFO-01/A,Computer Science
+Associate Professor,LEPORATI,ALBERTO OTTAVIO,INFO-01/A,Computer Science
+Associate Professor,LULLI,GUGLIELMO,MATH-06/A,Operations Research
+Associate Professor,MANZONI,SARA LUCIA,INFO-01/A,Computer Science
+Associate Professor,MICUCCI,DANIELA,IINF-05/A,Information Processing Systems
+Associate Professor,NAPOLETANO,PAOLO,INFO-01/A,Computer Science
+Associate Professor,PALMONARI,MATTEO LUIGI,INFO-01/A,Computer Science
+Associate Professor,PENALOZA,NYSSEN RAFAEL,INFO-01/A,Computer Science
+Associate Professor,PIROLA,YURI,INFO-01/A,Computer Science
+Associate Professor,POMELLO,CHINAGLIA POMELLO LUCIA,INFO-01/A,Computer Science
+Associate Professor,RAIBULET,CLAUDIA,IINF-05/A,Information Processing Systems
+Associate Professor,RIGANELLI,OLIVIERO,IINF-05/A,Information Processing Systems
+Associate Professor,RIZZI,RAFFAELLA,INFO-01/A,Computer Science
+Associate Professor,SARTORI,FABIO,INFO-01/A,Computer Science
+Associate Professor,SORRENTI,DOMENICO GIORGIO,IINF-05/A,Information Processing Systems
+Associate Professor,VIVIANI,MARCO,INFO-01/A,Computer Science
+Associate Professor,ZANDRON,CLAUDIO,INFO-01/A,Computer Science
+Associate Professor,ZOPPIS,ITALO FRANCESCO,INFO-01/A,Computer Science
+Associate Professor,BERNARDINELLO,LUCA,INFO-01/A,Computer Science
+Researcher,DOMINONI,MATTEO ALESSANDRO,IINF-05/A,Information Processing Systems
+Researcher,FIORINO,GUIDO GIUSEPPE,INFO-01/A,Computer Science
+Researcher,BRIOLA,DANIELA,INFO-01/A,Computer Science
+Fixed-Term Researcher,BUZZELLI,MARCO,INFO-01/A,Computer Science
+Fixed-Term Researcher,CELONA,LUIGI,INFO-01/A,Computer Science
+Fixed-Term Researcher,CHICCO,DAVIDE,INFO-01/A,Computer Science
+Fixed-Term Researcher,CREMASCHI,MARCO,INFO-01/A,Computer Science
+Fixed-Term Researcher,GRAUDENZI,ALEX,INFO-01/A,Computer Science
+Fixed-Term Researcher,MARELLI,DAVIDE,INFO-01/A,Computer Science
+Fixed-Term Researcher,MELZI,SIMONE,IINF-05/A,Information Processing Systems
+Fixed-Term Researcher,MILELLA,FRIDA,INFO-01/A,Computer Science
+Fixed-Term Researcher,PAPETTI,DANIELE MARIA,INFO-01/A,Computer Science
+Fixed-Term Researcher,PEIKOS,GEORGIOS,INFO-01/A,Computer Science
+Fixed-Term Researcher,PICCOLI,FLAVIO,INFO-01/A,Computer Science
+Fixed-Term Researcher,RAGANATO,ALESSANDRO,INFO-01/A,Computer Science
+Fixed-Term Researcher,SAVI,MARCO,IINF-05/A,Information Processing Systems
+Fixed-Term Researcher,SPAHIU,BLERINA,INFO-01/A,Computer Science
+Fixed-Term Researcher,STAN,IONEL EDUARD,INFO-01/A,Computer Science
+Fixed-Term Researcher,ZINI,SIMONE,INFO-01/A,Computer Science
+Fixed-Term Researcher,ARCHETTI,FRANCESCO ANTONIO,,SSD not available
+Professor Emeritus,AVIS,GIULIA ROSEMARY,INF/01,Computer Science
+Research Fellow,BARBATO,MIRKO PAOLO,INF/01,Computer Science
+Research Fellow,BELOTTI,FEDERICO,INF/01,Computer Science
+Research Fellow,BEN,RAMDHANE FIRAS,INF/01,Computer Science
+Research Fellow,BERGAMINI,FEDERICO,ING-INF/05,Information Processing Systems
+Research Fellow,CELOTTI,LUCA,INF/01,Computer Science
+Research Fellow,CHILD,MATTEO ROBERT,INF/01,Computer Science
+Research Fellow,CHOU,XIAOCHEN,INF/01,Computer Science
+Research Fellow,CICCOLELLA,SIMONE,INF/01,Computer Science
+Research Fellow,CROTTI,ROBERTO,INF/01,Computer Science
+Research Fellow,DELFINI,LORENZO,INF/01,Computer Science
+Research Fellow,ELIA,MANUEL,INF/01,Computer Science
+Research Fellow,FILIPPINI,FEDERICA,INF/01,Computer Science
+Research Fellow,GAO,YOUNAN,INF/01,Computer Science
+Research Fellow,GARRONE,ROBERTO,INF/01,Computer Science
+Research Fellow,GHERARDI,ALESSANDRO,INF/01,Computer Science
+Research Fellow,GROSSI,ALESSANDRA,INF/01,Computer Science
+Research Fellow,GUGLIELMO,LUCA,INF/01,Computer Science
+Research Fellow,KASELA,PRANAV,INF/01,Computer Science
+Research Fellow,KURIAN,ELSON,INF/01,Computer Science
+Research Fellow,LONGARI,GIORGIO,ING-INF/05,Information Processing Systems
+Research Fellow,MAGGIOLI,FILIPPO,ING-INF/05,Information Processing Systems
+Research Fellow,MALTAGLIATI,JACOPO,INF/01,Computer Science
+Research Fellow,MARCONI,LUCA,INF/01,Computer Science
+Research Fellow,MARIANI,GIORGIO,INF/01,Computer Science
+Research Fellow,MENARA,GIULIAMARIA,INF/01,Computer Science
+Research Fellow,MILANESE,GIAN CARLO,INF/01,Computer Science
+Research Fellow,MODHA,SANDIP JAYANTLIAL,INF/01,Computer Science
+Research Fellow,NOCCO,SARA,INF/01,Computer Science
+Research Fellow,ROSSI,MARIA TERESA,ING-INF/05,Information Processing Systems
+Research Fellow,ROTA,CLAUDIO,INF/01,Computer Science
+Research Fellow,SAIBENE,AURORA,INF/01,Computer Science
+Research Fellow,SEYEDI,SEYEDIMAN,MAT/09,Operations Research
+Research Fellow,SOKLI,EFFROSYNI,INF/01,Computer Science
+Research Fellow,SU,EZGI IRAZ,INF/01,Computer Science
+Research Fellow,VICENTE,HOLGADO LUCIA,INF/01,Computer Science
+Research Fellow,ZHAO,AN QI,INF/01,Computer Science
+Research Fellow,ALI,QURBAN,,SSD not available
