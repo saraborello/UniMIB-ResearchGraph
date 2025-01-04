@@ -172,5 +172,5 @@ def get_papers_metainformation_staffs(professor_df: pd.DataFrame) -> None:
 if __name__ == "__main__":
     file_path = 'data/raw/Authors_internal.csv'
     dataframe = pd.read_csv(file_path, sep=",")
-    dataframe_subset = dataframe.iloc[:3]
+    #dataframe_subset = dataframe.iloc[:3]
     get_papers_metainformation_staffs(dataframe)

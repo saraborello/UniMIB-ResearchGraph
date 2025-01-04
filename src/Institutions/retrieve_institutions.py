@@ -21,27 +21,27 @@ class UniversityInfoUpdater:
         if response.status_code == 200:
             data = response.json()
             if "results" in data and len(data["results"]) > 0:
-                return data["results"][0]  
+                return data["results"][0]
         return None
 
     def extract_correct_university_name(self, text):
         directions_prompt = f"""
-        rewrite only the correct name of the university in a correct form in english 
+        rewrite only the correct name of the university in a correct form in english
         Text: {text} """
         json_text = self.model.generate_content(directions_prompt).text
         return json_text
 
     def update_dataset(self):
-        
+
         for index, row in self.dataset.iterrows():
             institution_name = row['Institution']
             print(f"Processing: {institution_name}")
-            
-           
+
+
             institution_info = self.find_institution_on_openalex(institution_name)
-            
+
             if institution_info:
-                
+
                 self.dataset.at[index, 'openalex_id'] = institution_info['id']
                 self.dataset.at[index, 'country'] = institution_info.get('country_code', 'N/A')
                 self.dataset.at[index, 'type'] = institution_info.get('type', 'N/A')
@@ -52,8 +52,8 @@ class UniversityInfoUpdater:
                 correct_name = self.extract_correct_university_name(institution_name)
                 self.corrected_names_dict[institution_name] = correct_name
                 print(f"Corrected '{institution_name}' to '{correct_name}'")
-                
-                
+
+
                 institution_info = self.find_institution_on_openalex(correct_name)
                 if institution_info:
                     self.dataset.at[index, 'openalex_id'] = institution_info['id']
@@ -74,10 +74,10 @@ class UniversityInfoUpdater:
 # Example usage
 authors =  pd.read('../../data/raw/authors_external')
 istitutions_df = pd.DataFrame(authors['Institution'].unique())
-dataset = istitutions_df.loc[10:40]
-
-llm_token = api_key=os.getenv("GEMINIKEY")
+# dataset = istitutions_df.loc[10:40]
+dataset = istitutions_df
+llm_token = os.getenv("GEMINIKEY")
 updater = UniversityInfoUpdater(dataset, llm_token)
 updater.update_dataset()
 updated_dataset = updater.get_updated_dataset()
-updated_dataset
+updated_dataset.to_csv("../../data/processed/institutions.csv")

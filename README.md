@@ -39,25 +39,29 @@ To configure the project, you need to create a `.env` file in the root directory
 
 - **`GEMINI_KEY`**: This is the API key for accessing the Gemini API.
 
-## Data acquisition
+## Data acquisition and cleaning
 
 *Note*: the execution time is not optimal and it may take a lot of time
 
 Execute the code in this order:
-1. Authors:
-2. Institutions:
-3. Papers: Run the file inside data_acquisition directory
-
-## Data Cleaning
-
-Execute the code in this order:
-1. Authors:
-2. Papers: Run the file inside data_acquisition directory of papers
-3. Topics: after processing the papers now retrieve all the topics running the `topics.py` inside the Topics directory
+1. Authors internal of Bicocca: Run retrieve_bicocca_authors.py
+2. Clean internal authors: Run clean_scraping_Dataset.py
+3. Get orcid of internal authors: Run retrieve_metadata_internal.py
+4. Get all metadata with gscholar for internal authors: Run retrieve_citations_gscholar.py
+5. Get past institutions of internal authors: Run retrieve_past_institutions.py
+6. Get all written papers after 2018: Run the file inside data_acquisition directory retrieve_papers.py
+7. Clean papers: Run notebook clean_papers.ipynb
+8. Authors external of Bicocca: Run retrieve_metadata_external.py
+9. Retrieve meta data of external authors: Go to retrieve_citations_gscholar.py and modified datasetpath with the created dataset of the previous point and run the retrieve_citations_gscholar.py
+10. Retrieve all institutions: Run retrieve_institutions.py
+11. Retrieve institutions id: inside authors/data_acquisition Run retrieve_institutionsId.py
+12. Merge internal and external authors: Run merge_datasets.py
+13. Clean all authors: Run clean_authors.py
+14. Retrieve all topics: after processing the papers now retrieve all the topics running the topics.py inside Topics folder
 
 ## Data Storage and Integration
 
-Execute the code in this order inside the Data Storage directory:
+Execute the code in this order inside the Data Storage directory of GraphDB:
 1. Copy the created final dataset of the four nodes inside the import directory of neo4j graph database
 2. `createDB.py`: run this file to create the graph database, authors and papers nodes make sure to set correctly the variables inside this file
 3. `create_topic_node.py`: Run this file to create the topic nodes
