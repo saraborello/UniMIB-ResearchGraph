@@ -78,35 +78,3 @@ Execute the code in this order inside the Data Quality directory:
 Execute the code in this order inside the Data Querying directory:
 1. `neo4j_research_queries.py`: Run this file to run the cypher queries
 2. `comunity_detection.cypher`: Run this file to perform the comunity detection also copying, pasting into Neo4j
-
-
-Let :math:`\mathcal{Y}_{\text{template}}` represent the reference time series
-with index :math:`\mathcal{I}_{\text{template}} \subseteq \mathbb{T}`, where
-:math:`\mathbb{T}` denotes the space of loc indices.
-Similarly, let :math:`\mathcal{Y}` represent the target time series with index
-:math:`\mathcal{I} \subseteq \mathbb{T}`.
-
-This splitter applies a given splitting scheme :math:`\mathcal{S}` (defined by a
-BaseSplitter instance, :math:`\text{cv}`) to :math:`\mathcal{Y}_{\text{template}}`,
-generating loc-based train-test splits:
-
-.. math::
-
-    \mathcal{S}(\mathcal{I}_{\text{template}}) = \{ (\mathcal{I}_{\text{train}}^k,
-    \mathcal{I}_{\text{test}}^k) \}_{k=1}^K,
-
-where :math:`K` is the total number of splits.
-
-The SameLocSplitter then maps these loc-based indices
-:math:`\mathcal{I}_{\text{train}}^k` and :math:`\mathcal{I}_{\text{test}}^k`
-to their corresponding positional indices (:math:`\text{iloc}`) in :math:`\mathcal{I}`.
-
-The final train-test splits for :math:`\mathcal{Y}` are therefore:
-
-.. math::
-
-    \mathcal{S}(\mathcal{I}) = \{ (f(\mathcal{I}_{\text{train}}^k),
-    f(\mathcal{I}_{\text{test}}^k)) \}_{k=1}^K.
-
-This splitter is useful when you need to replicate train-test splits across multiple
-time series with consistent loc-based indexing.
