@@ -8,6 +8,6 @@ def merge_datasets(df1, df2, missing_value="none"):
     return merged
 
 df1 = pd.read_csv('data/raw/Authors_internal.csv')
-df2 = pd.read_csv('data/raw/Authors_external.csv')
+df2 = pd.read_csv('data/raw/authors_external_final_updated.csv.csv')
 result = merge_datasets(df1, df2, missing_value="none")
 result.to_csv('data/raw/Authors_updated.csv')
