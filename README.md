@@ -1,5 +1,8 @@
 # Citation-network
 
+The project involves creating a graph database that maps authors from the Department of Computer Science at the University of Milano-Bicocca, following all steps of data management, from acquisition to integration and quality assessment. It helps analyze research trends, key contributors, and collaborations, while also exploring the department's global impact through external partnerships. Students can use it to understand research areas, topics, and collaborations within the department and with international universities. o optimize user interaction, a chatbot powered by Gemini was developed using Graph RAG, leveraging the LangGraph library.
+
+
 <img width="950" alt="Graph" src="https://github.com/user-attachments/assets/37233051-fd95-4020-b327-a489d282f20d">
 
 ## Structure
@@ -78,3 +81,9 @@ Execute the code in this order inside the Data Quality directory:
 Execute the code in this order inside the Data Querying directory:
 1. `neo4j_research_queries.py`: Run this file to run the cypher queries
 2. `comunity_detection.cypher`: Run this file to perform the comunity detection also copying, pasting into Neo4j
+
+## Graphrag and chatbot
+
+Execute the code in this order inside the Chatbot directory:
+1. Install the plugin APOC inside neo4j
+2. `app.py`: Run this file to execute the chatbot
