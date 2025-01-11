@@ -11,8 +11,8 @@ import os
 
 query_agent = QueryAgent(
         neo4j_uri=os.getenv("DATABASE_URI"),
-        neo4j_username=os.getenv("DATABASE_PASSWORD"),
-        neo4j_password=os.getenv("DATABASE_USER"),
+        neo4j_username=os.getenv("DATABASE_USER"),
+        neo4j_password=os.getenv("DATABASE_PASSWORD"),
         google_api_key=os.getenv("GEMINI_KEY")
     )
 
