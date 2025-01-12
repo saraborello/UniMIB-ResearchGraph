@@ -87,3 +87,8 @@ Execute the code in this order inside the Data Querying directory:
 Execute the code in this order inside the Chatbot directory:
 1. Install the plugin APOC inside neo4j
 2. `app.py`: Run this file to execute the chatbot
+
+## Fast execution
+
+Copy the file from the data processed directory and paste it into the import directory
+of neo4j and follow the procedure from Data storage and Integration
