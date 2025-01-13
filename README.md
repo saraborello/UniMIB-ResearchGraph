@@ -1,4 +1,4 @@
-# Citation-network
+# UniMIB-ResearchGraph
 
 The project involves creating a graph database that maps authors from the Department of Computer Science at the University of Milano-Bicocca, following all steps of data management, from acquisition to integration and quality assessment. It helps analyze research trends, key contributors, and collaborations, while also exploring the department's global impact through external partnerships. Students can use it to understand research areas, topics, and collaborations within the department and with international universities. o optimize user interaction, a chatbot powered by Gemini was developed using Graph RAG, leveraging the LangGraph library.
 
