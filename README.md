@@ -17,6 +17,7 @@ The project is structured as follows:
     - `Authors`: all the code for the authors node organized in the two phases of data acquisition and cleaning
     - `Institutions`: all the code for the Institutions node organized in the two phases of data acquisition and cleaning
     - `GraphDB`: all the code for creating the graph, testing its quality and the queries for answering the research questions and comunity detection
+    - `Chatbot`: all the code for creating the chatbot, including agent construction, orchestration, and Streamlit code for the user interface
     - `Papers`: all the code for the Papers node organized in the two phases of data acquisition and cleaning
     - `Topics`: all the code for the Topics node organized in the two phases of data acquisition and cleaning
 
